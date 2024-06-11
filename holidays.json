@@ -1,29 +1,29 @@
 {
   "day1": {
-    "title": "National Corn on the Cob Day",
-    "image": "images/ba23ffa0-446c-4817-81cd-b85d302983e9.png",
+    "title": "National Iced Tea Day",
+    "image": "images/0433bdf2-876c-4351-8355-6c72307b89c9.png",
     "facts": {
-      "1": "Corn on the cob is a popular summer food in the United States, often enjoyed at barbecues and picnics.",
-      "2": "The average ear of corn has about 800 kernels, arranged in 16 rows.",
-      "3": "Corn is grown on every continent except Antarctica."
+      "1": "Iced tea is a popular beverage in the United States, especially during the summer.",
+      "2": "The first known recipe for iced tea was published in 1879.",
+      "3": "Sweet tea, a variation of iced tea, is particularly popular in the Southern United States."
     }
   },
   "day2": {
-    "title": "National German Chocolate Cake Day",
-    "image": "images/60ee218f-ffdb-4e96-94d7-1659dd0d3e4f.png",
+    "title": "National Ballpoint Pen Day",
+    "image": "images/382fce02-118d-4cfe-a28d-93ee98179f4f.png",
     "facts": {
-      "1": "German chocolate cake is named after Samuel German, an American baker who developed a type of dark baking chocolate.",
-      "2": "The cake is known for its rich, sweet chocolate flavor and coconut-pecan frosting.",
-      "3": "German chocolate cake was first created in the 19th century and has since become a popular dessert in the United States."
+      "1": "The ballpoint pen was invented by L\u00e1szl\u00f3 B\u00edr\u00f3, a Hungarian-Argentinian inventor.",
+      "2": "The first commercially successful ballpoint pen was introduced in 1945.",
+      "3": "Ballpoint pens are now one of the most common writing instruments in the world."
     }
   },
   "day3": {
-    "title": "King Kamehameha Day",
-    "image": "images/5997cc12-e033-4dee-85d1-7ccd332c6421.png",
+    "title": "National Herbs and Spices Day",
+    "image": "images/64560dc1-068d-4896-bea9-f39570214acc.png",
     "facts": {
-      "1": "King Kamehameha Day is a public holiday in Hawaii, celebrated on June 11th to honor King Kamehameha the Great.",
-      "2": "The holiday features floral parades, hula competitions, and other cultural events.",
-      "3": "King Kamehameha I is known for uniting the Hawaiian Islands in 1810."
+      "1": "Herbs and spices have been used for thousands of years for culinary and medicinal purposes.",
+      "2": "The spice trade was one of the earliest drivers of globalization.",
+      "3": "Common herbs include basil, parsley, and thyme, while common spices include cinnamon, pepper, and turmeric."
     }
   }
 }
