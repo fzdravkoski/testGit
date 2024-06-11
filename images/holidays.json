@@ -1,0 +1,29 @@
+{
+  "day1": {
+    "title": "National Corn on the Cob Day",
+    "image": "6388ea35-1476-4745-b490-6eb6f19c1133.png",
+    "facts": {
+      "1": "Corn on the cob is a popular summer food in the United States, often enjoyed at barbecues and picnics.",
+      "2": "The average ear of corn has about 800 kernels, arranged in 16 rows.",
+      "3": "Corn is grown on every continent except Antarctica."
+    }
+  },
+  "day2": {
+    "title": "National German Chocolate Cake Day",
+    "image": "023fcc66-4bb3-4098-b3f0-647f2d1d96ff.png",
+    "facts": {
+      "1": "German chocolate cake is named after Samuel German, an American baker who developed a type of dark baking chocolate.",
+      "2": "The cake is known for its rich, sweet chocolate flavor and coconut-pecan frosting.",
+      "3": "German chocolate cake was first created in the 19th century and has since become a popular dessert in the United States."
+    }
+  },
+  "day3": {
+    "title": "King Kamehameha Day",
+    "image": "3ccc3f80-c2c4-4cb1-9188-56c2f28f6bb6.png",
+    "facts": {
+      "1": "King Kamehameha Day is a public holiday in Hawaii, celebrated on June 11th to honor King Kamehameha the Great.",
+      "2": "The holiday features floral parades, hula competitions, and other cultural events.",
+      "3": "King Kamehameha I is known for uniting the Hawaiian Islands in 1810."
+    }
+  }
+}
