@@ -1,0 +1,16 @@
+{
+    "holidays": [
+        {
+            "name": "New Year's Day",
+            "date": "2023-01-01"
+        },
+        {
+            "name": "Independence Day",
+            "date": "2023-07-04"
+        },
+        {
+            "name": "Christmas Day",
+            "date": "2023-12-25"
+        }
+    ]
+}
