@@ -1,16 +1,3 @@
 {
-    "holidays": [
-        {
-            "name": "New Year's Day",
-            "date": "2023-01-01"
-        },
-        {
-            "name": "Independence Day",
-            "date": "2023-07-04"
-        },
-        {
-            "name": "Christmas Day",
-            "date": "2023-12-25"
-        }
-    ]
+    "_comment": "Updated on 2024-06-11 13:09:00"
 }
