@@ -1,29 +1,29 @@
 {
   "day1": {
-    "title": "National Strawberry Shortcake Day",
-    "image": "images/a724a7d3-9e5d-4cfe-8cb9-70d112990f7d.png",
+    "title": "National Meteor Watch Day",
+    "image": "images/e8e6d6be-97fe-497c-b4a7-d7f866bbbd97.png",
     "facts": {
-      "1": "Strawberry shortcake is a popular dessert made with fresh strawberries, whipped cream, and a biscuit or sponge cake.",
-      "2": "The dessert dates back to at least the 16th century.",
-      "3": "June is peak strawberry season in many parts of the United States."
+      "1": "National Meteor Watch Day is celebrated on June 30th to encourage people to observe meteors.",
+      "2": "Meteors are often referred to as shooting stars.",
+      "3": "The best time to watch meteors is during a meteor shower, which occurs when Earth passes through the debris left by a comet."
     }
   },
   "day2": {
-    "title": "Flag Day",
-    "image": "images/e2b2b91b-9671-4b42-8396-616ecc4560b6.png",
+    "title": "Social Media Day",
+    "image": "images/0b830385-52ca-4aba-9748-218aa1631372.png",
     "facts": {
-      "1": "Flag Day in the United States commemorates the adoption of the flag of the United States on June 14, 1777.",
-      "2": "The holiday was established by President Woodrow Wilson in 1916.",
-      "3": "Flag Day is not an official federal holiday, but it is celebrated with various events and activities."
+      "1": "Social Media Day was launched by Mashable on June 30, 2010.",
+      "2": "The day recognizes the impact of social media on global communication.",
+      "3": "Social media platforms like Facebook, Twitter, and Instagram have millions of users worldwide."
     }
   },
   "day3": {
-    "title": "World Blood Donor Day",
-    "image": "images/5903f7e5-6fec-48f7-a199-671bf9d10ada.png",
+    "title": "National Ice Cream Soda Day",
+    "image": "images/850ef0d2-0358-4482-b0c2-c1b1a75a6452.png",
     "facts": {
-      "1": "World Blood Donor Day is celebrated on June 14th to raise awareness of the need for safe blood and blood products.",
-      "2": "The day also serves to thank voluntary, unpaid blood donors for their life-saving gifts.",
-      "3": "The event was established by the World Health Organization in 2004."
+      "1": "Ice cream soda, also known as a float, is a beverage that combines ice cream with soda.",
+      "2": "The drink was invented in the late 19th century.",
+      "3": "Popular variations include the root beer float and the Coke float."
     }
   }
 }
