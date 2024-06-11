@@ -1,29 +1,29 @@
 {
   "day1": {
-    "title": "National Iced Tea Day",
-    "image": "images/323e790d-5abf-470a-b202-f64c21aea666.png",
+    "title": "National Strawberry Shortcake Day",
+    "image": "images/d12b8a6b-f056-42cb-90d3-046f09ddfcac.png",
     "facts": {
-      "1": "Iced tea is a popular beverage in the United States, especially during the summer.",
-      "2": "The first known recipe for iced tea was published in 1879.",
-      "3": "Sweet tea, a variation of iced tea, is particularly popular in the Southern United States."
+      "1": "Strawberry shortcake is a popular dessert made with fresh strawberries, whipped cream, and a biscuit or sponge cake.",
+      "2": "The dessert dates back to at least the 16th century.",
+      "3": "June is peak strawberry season in many parts of the United States."
     }
   },
   "day2": {
-    "title": "National Ballpoint Pen Day",
-    "image": "images/558e9d32-6acd-4fe1-b4f7-5519e560fd85.png",
+    "title": "Flag Day",
+    "image": "images/6d001a5c-5dea-4807-8bc8-063f16e2c5b9.png",
     "facts": {
-      "1": "The ballpoint pen was invented by L\u00e1szl\u00f3 B\u00edr\u00f3, a Hungarian-Argentinian inventor.",
-      "2": "The first commercially successful ballpoint pen was introduced in 1945.",
-      "3": "Ballpoint pens are now one of the most common writing instruments in the world."
+      "1": "Flag Day in the United States commemorates the adoption of the flag of the United States on June 14, 1777.",
+      "2": "The holiday was established by President Woodrow Wilson in 1916.",
+      "3": "Flag Day is not an official federal holiday, but it is celebrated with various events and activities."
     }
   },
   "day3": {
-    "title": "National Herbs and Spices Day",
-    "image": "images/e0227f2e-949f-49d9-92ec-7d8f68c5857b.png",
+    "title": "World Blood Donor Day",
+    "image": "images/cf4f6e3c-a735-4027-b559-92c3a7f891b2.png",
     "facts": {
-      "1": "Herbs and spices have been used for thousands of years for culinary and medicinal purposes.",
-      "2": "The spice trade was one of the earliest drivers of globalization.",
-      "3": "Common herbs include basil, parsley, and thyme, while common spices include cinnamon, pepper, and turmeric."
+      "1": "World Blood Donor Day is celebrated on June 14th to raise awareness of the need for safe blood and blood products.",
+      "2": "The day also serves to thank voluntary, unpaid blood donors for their life-saving gifts.",
+      "3": "The event was established by the World Health Organization in 2004."
     }
   }
 }
