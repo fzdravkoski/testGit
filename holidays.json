@@ -1,25 +1,29 @@
 {
-  "June 11th, 2024": {
-    "National Corn on the Cob Day": {
-      "facts": {
-        "1": "Corn on the cob is a popular summer food in the United States.",
-        "2": "It is often served with butter and salt.",
-        "3": "Corn is a staple food in many cultures around the world."
-      }
-    },
-    "National German Chocolate Cake Day": {
-      "facts": {
-        "1": "German chocolate cake is known for its rich chocolate flavor and coconut-pecan frosting.",
-        "2": "The cake is named after Samuel German, who developed a type of dark baking chocolate.",
-        "3": "It is a popular dessert in the United States, especially in the southern states."
-      }
-    },
-    "King Kamehameha Day": {
-      "facts": {
-        "1": "King Kamehameha Day is a public holiday in Hawaii, celebrated on June 11th.",
-        "2": "The holiday honors King Kamehameha the Great, who united the Hawaiian Islands.",
-        "3": "Festivities include parades, hula performances, and lei draping ceremonies."
-      }
+  "day1": {
+    "title": "National Corn on the Cob Day",
+    "image": "",
+    "facts": {
+      "1": "Corn on the cob is a popular summer food in the United States, often enjoyed at barbecues and picnics.",
+      "2": "The average ear of corn has about 800 kernels, arranged in 16 rows.",
+      "3": "Corn is grown on every continent except Antarctica."
+    }
+  },
+  "day2": {
+    "title": "National German Chocolate Cake Day",
+    "image": "",
+    "facts": {
+      "1": "German chocolate cake is named after Samuel German, an American baker who developed a type of dark baking chocolate.",
+      "2": "The cake is known for its rich, sweet chocolate flavor and coconut-pecan frosting.",
+      "3": "German chocolate cake was first created in the 19th century and has since become a popular dessert in the United States."
+    }
+  },
+  "day3": {
+    "title": "King Kamehameha Day",
+    "image": "",
+    "facts": {
+      "1": "King Kamehameha Day is a public holiday in Hawaii, celebrated on June 11th to honor King Kamehameha the Great.",
+      "2": "The holiday features floral parades, hula competitions, and other cultural events.",
+      "3": "King Kamehameha I is known for uniting the Hawaiian Islands in 1810."
     }
   }
 }
