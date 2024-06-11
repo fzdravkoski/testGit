@@ -1,0 +1,26 @@
+{
+  "day1": {
+    "title": "National Corn on the Cob Day",
+    "facts": [
+      "Corn is one of the most widely grown crops in the world, with the United States being the largest producer.",
+      "Corn on the cob is a popular summer treat, often enjoyed at barbecues and picnics.",
+      "Corn can be eaten in various forms, including boiled, grilled, or roasted."
+    ]
+  },
+  "day2": {
+    "title": "National German Chocolate Cake Day",
+    "facts": [
+      "German chocolate cake is named after Samuel German, who developed a type of dark baking chocolate for the Baker's Chocolate Company.",
+      "The cake is known for its rich layers of chocolate cake, coconut, and pecan frosting.",
+      "Despite its name, German chocolate cake is an American creation, not a German one."
+    ]
+  },
+  "day3": {
+    "title": "King Kamehameha Day",
+    "facts": [
+      "King Kamehameha Day is a public holiday in Hawaii, celebrated on June 11th to honor King Kamehameha the Great.",
+      "King Kamehameha is known for uniting the Hawaiian Islands into one royal kingdom in 1810.",
+      "The holiday is marked by various festivities, including parades, hula performances, and lei draping ceremonies."
+    ]
+  }
+}
