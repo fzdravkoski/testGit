@@ -54,7 +54,7 @@ body {
 
 .card-image {
   width: 100%;
-  height: 35%; /* 35% of the card height */
+  height: 50%; /* 35% of the card height */
   object-fit: cover; /* Ensures the image covers the container without distortion */
   border-radius: 16px 16px 0 0; /* Rounded top corners */
 }
