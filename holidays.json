@@ -3,27 +3,27 @@
         "title": "International Asteroid Day",
         "image": "img1.png",
         "facts": {
-            "1": "Fact 1: This is a random fact.",
-            "2": "Fact 2: Another random fact goes here.",
-            "3": "Fact 3: Yet another random fact."
+            "1": "International Asteroid Day is observed on June 30th to raise awareness about asteroids and their potential impact on Earth.",
+            "2": "The date commemorates the Tunguska event, the largest asteroid impact on Earth in recorded history, which occurred on June 30, 1908.",
+            "3": "Asteroid Day was co-founded by astrophysicist and musician Dr. Brian May, who is also the lead guitarist of the rock band Queen."
         }
     },
     "Day 2": {
         "title": "Social Media Day",
         "image": "img2.png",
         "facts": {
-            "1": "Fact 1: This is a random fact.",
-            "2": "Fact 2: Another random fact goes here.",
-            "3": "Fact 3: Yet another random fact."
+            "1": "Social Media Day is celebrated on June 30th to recognize the impact of social media on global communication.",
+            "2": "The day was launched by Mashable in 2010 to highlight the ways social media has revolutionized how we interact and share information.",
+            "3": "Social Media Day events and meetups are held worldwide to bring together social media enthusiasts and professionals."
         }
     },
     "Day 3": {
         "title": "National Meteor Watch Day",
         "image": "img3.png",
         "facts": {
-            "1": "Fact 1: This is a random fact.",
-            "2": "Fact 2: Another random fact goes here.",
-            "3": "Fact 3: Yet another random fact."
+            "1": "National Meteor Watch Day is observed on June 30th to encourage people to go outside and watch for meteors, also known as shooting stars.",
+            "2": "Meteors are small particles from space that burn up upon entering Earth's atmosphere, creating a streak of light.",
+            "3": "The best time to watch for meteors is during a meteor shower, which occurs when Earth passes through the debris trail of a comet."
         }
     }
 }
