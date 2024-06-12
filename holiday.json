@@ -1,29 +1,35 @@
 {
   "day1": {
-    "title": "Global Beatles Day",
-    "image": "8c013acf-d114-4ade-9a8d-891817230aae.png",
+    "title": "International Asteroid Day",
+    "image_prompt": "A scene with asteroids in space, scientists observing through telescopes, and educational displays about asteroids",
+    "image_name": "img1.png",
+    "image": "img1.png",
     "facts": {
-      "1": "Celebrated to honor the ideals of the Beatles, including peace, love, and the expansion of human consciousness.",
-      "2": "The date marks the anniversary of the Beatles' performance of 'All You Need Is Love' on the BBC program 'Our World' in 1967.",
-      "3": "Fans celebrate by listening to Beatles music, watching Beatles movies, and sharing their favorite Beatles memories."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
   "day2": {
-    "title": "World Vitiligo Day",
-    "image": "68b0bdb6-0de6-4f5c-80bf-36c9a0753f4f.png",
+    "title": "Social Media Day",
+    "image_prompt": "A vibrant scene with people using various social media platforms, icons of popular apps, and a global connection theme",
+    "image_name": "img2.png",
+    "image": "img2.png",
     "facts": {
-      "1": "Observed to raise awareness about vitiligo, a skin condition causing loss of pigmentation.",
-      "2": "The day is in memory of Michael Jackson, who publicly revealed his struggle with vitiligo.",
-      "3": "Events aim to educate the public, support those affected by vitiligo, and promote research for better treatments."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
   "day3": {
-    "title": "Day of the Seafarer",
-    "image": "feb9859a-7734-4369-af27-b3e0a52847a8.png",
+    "title": "National Meteor Watch Day",
+    "image_prompt": "A night sky filled with meteors, people watching from a hilltop, and telescopes set up for observation",
+    "image_name": "img3.png",
+    "image": "img3.png",
     "facts": {
-      "1": "Recognizes the contribution of seafarers to international trade and the global economy.",
-      "2": "Established by the International Maritime Organization (IMO) in 2010.",
-      "3": "Activities include campaigns to improve working conditions for seafarers and raise awareness about their challenges."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   }
 }
