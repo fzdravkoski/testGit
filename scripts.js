@@ -45,15 +45,20 @@ document.addEventListener("DOMContentLoaded", function () {
         img.alt = `${dayData.title} Image`;
         img.className = "card-image";
 
+        const cardContent = document.createElement("div");
+        cardContent.className = "card-content";
+
         const title = document.createElement("h1");
         title.textContent = dayData.title;
 
         const factParagraph = document.createElement("p");
         factParagraph.textContent = fact;
 
+        cardContent.appendChild(title);
+        cardContent.appendChild(factParagraph);
+
         card.appendChild(img);
-        card.appendChild(title);
-        card.appendChild(factParagraph);
+        card.appendChild(cardContent);
       }
 
       function showNextCard() {
