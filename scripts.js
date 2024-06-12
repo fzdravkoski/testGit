@@ -39,11 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       function populateCard(card, dayData, fact) {
         card.innerHTML = '';
-
-        const img = document.createElement("img");
-        img.src = dayData.image;
-        img.alt = `${dayData.title} Image`;
-        img.className = "card-image";
+        card.style.backgroundImage = `url(${dayData.image})`;
 
         const cardContent = document.createElement("div");
         cardContent.className = "card-content";
@@ -57,7 +53,6 @@ document.addEventListener("DOMContentLoaded", function () {
         cardContent.appendChild(title);
         cardContent.appendChild(factParagraph);
 
-        card.appendChild(img);
         card.appendChild(cardContent);
       }
 
