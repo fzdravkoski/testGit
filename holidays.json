@@ -1,3 +1,29 @@
 {
-    "today": "2024-06-11"
+  "day1": {
+    "title": "National Meteor Watch Day",
+    "image": "images/a68e3e79-9ec9-4e6a-955e-b44c52637037.png",
+    "facts": {
+      "1": "National Meteor Watch Day is celebrated on June 30th to encourage people to observe meteors.",
+      "2": "Meteors are often referred to as shooting stars.",
+      "3": "The best time to watch meteors is during a meteor shower, which occurs when Earth passes through the debris left by a comet."
+    }
+  },
+  "day2": {
+    "title": "Social Media Day",
+    "image": "images/e3e36557-2c36-4497-aca4-2729df407b95.png",
+    "facts": {
+      "1": "Social Media Day was launched by Mashable on June 30, 2010.",
+      "2": "The day recognizes the impact of social media on global communication.",
+      "3": "Social media platforms like Facebook, Twitter, and Instagram have millions of users worldwide."
+    }
+  },
+  "day3": {
+    "title": "National Ice Cream Soda Day",
+    "image": "images/a2ab06a7-9ccd-47ed-aef4-7c03c9d5e6ba.png",
+    "facts": {
+      "1": "Ice cream soda, also known as a float, is a beverage that combines ice cream with soda.",
+      "2": "The drink was invented in the late 19th century.",
+      "3": "Popular variations include the root beer float and the Coke float."
+    }
+  }
 }
