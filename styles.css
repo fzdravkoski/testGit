@@ -1,7 +1,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
   min-height: 100vh;
   margin: 0;
@@ -10,12 +10,26 @@ body {
   overflow: hidden; /* Prevent scrolling */
 }
 
+#header-container {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  background-color: #007BFF;
+  color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+  font-size: 36px;
+  font-weight: bold;
+}
+
 #gallery-container {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 100vh; /* Fullscreen height */
+  height: calc(100vh - 100px); /* Fullscreen height minus header height */
   padding: 20px;
   box-sizing: border-box;
   position: relative;
@@ -28,7 +42,7 @@ body {
   padding: 20px; /* Add padding for headline */
   text-align: center;
   width: 80%; /* 80% of the screen width */
-  max-width: 1200px; /* Maximum width for large screens */
+  max-width: 900px; /* Maximum width for large screens */
   height: 75vh; /* Adjust height to accommodate headline */
   display: flex;
   flex-direction: column;
@@ -43,13 +57,6 @@ body {
   height: 35%; /* 35% of the card height */
   object-fit: cover; /* Ensures the image covers the container without distortion */
   border-radius: 16px 16px 0 0; /* Rounded top corners */
-}
-
-.card-headline {
-  font-size: 32px;
-  font-weight: bold;
-  color: #007BFF;
-  margin-bottom: 20px;
 }
 
 h1 {
