@@ -1,29 +1,29 @@
 {
   "day1": {
-    "title": "National Meteor Watch Day",
+    "title": "National Peanut Butter Cookie Day",
     "image": "images/img1.png",
     "facts": {
-      "1": "National Meteor Watch Day is celebrated on June 30th to encourage people to observe meteors.",
-      "2": "Meteors are often referred to as shooting stars.",
-      "3": "The best time to watch meteors is during a meteor shower, which occurs when Earth passes through the debris left by a comet."
+      "1": "Peanut butter cookies were first introduced in the early 1900s.",
+      "2": "The classic crisscross pattern on peanut butter cookies is made with a fork.",
+      "3": "Peanut butter cookies are a popular treat in the United States, especially during the holidays."
     }
   },
   "day2": {
-    "title": "Social Media Day",
+    "title": "National Red Rose Day",
     "image": "images/img2.png",
     "facts": {
-      "1": "Social Media Day was launched by Mashable on June 30, 2010.",
-      "2": "The day recognizes the impact of social media on global communication.",
-      "3": "Social media platforms like Facebook, Twitter, and Instagram have millions of users worldwide."
+      "1": "Red roses are a symbol of love and romance.",
+      "2": "The red rose is the national flower of England.",
+      "3": "Red roses have been cultivated for over 5,000 years."
     }
   },
   "day3": {
-    "title": "National Ice Cream Soda Day",
+    "title": "Loving Day",
     "image": "images/img3.png",
     "facts": {
-      "1": "Ice cream soda, also known as a float, is a beverage that combines ice cream with soda.",
-      "2": "The drink was invented in the late 19th century.",
-      "3": "Popular variations include the root beer float and the Coke float."
+      "1": "Loving Day commemorates the anniversary of the 1967 Supreme Court decision in Loving v. Virginia.",
+      "2": "The decision struck down laws banning interracial marriage in the United States.",
+      "3": "Loving Day is celebrated annually on June 12th to promote diversity and inclusion."
     }
   }
 }
