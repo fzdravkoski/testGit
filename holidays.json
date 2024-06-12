@@ -1,1 +1,13 @@
-{}
+{
+  "June 25": {
+    "title": "Color TV Day",
+    "image": [
+      "d5457007-ea1d-4c05-986e-d4997bb0ae2f.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  }
+}
