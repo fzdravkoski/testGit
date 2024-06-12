@@ -5,8 +5,8 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background-color: #f0f0f0;
-  color: #333;
+  background-color: #121212;
+  color: #ffffff;
   overflow: hidden; /* Prevent scrolling */
 }
 
@@ -14,9 +14,11 @@ body {
   width: 100%;
   text-align: center;
   padding: 20px 0;
-  background-color: #007BFF;
+  background-color: #1e1e1e;
   color: #ffffff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  position: fixed;
+  top: 0;
 }
 
 .header-title {
@@ -29,24 +31,25 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: calc(100vh - 100px); /* Fullscreen height minus header height */
+  height: calc(100vh - 80px); /* Fullscreen height minus header height */
   padding: 20px;
   box-sizing: border-box;
   position: relative;
+  margin-top: 80px; /* Ensure gallery is below the header */
 }
 
 .card {
-  background-color: #ffffff;
+  background-color: #1e1e1e;
   border-radius: 16px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
-  padding: 20px; /* Add padding for headline */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+  padding: 20px;
   text-align: center;
-  width: 80%; /* 80% of the screen width */
-  max-width: 900px; /* Maximum width for large screens */
-  height: 75vh; /* Adjust height to accommodate headline */
+  width: 70%; /* 70% of the screen width */
+  max-width: 800px; /* Maximum width for large screens */
+  height: 70vh; /* 70% of the screen height */
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   position: absolute;
   transition: transform 1s ease-in-out;
   opacity: 0;
@@ -54,32 +57,28 @@ body {
 
 .card-image {
   width: 100%;
-  height: 50%; /* 35% of the card height */
+  height: 40%; /* 40% of the card height */
   object-fit: cover; /* Ensures the image covers the container without distortion */
   border-radius: 16px 16px 0 0; /* Rounded top corners */
 }
 
-h1 {
-  font-size: 36px; /* Adjusted font size */
-  margin: 20px 0 10px;
-  color: #007BFF;
-}
-
-.fun-fact {
-  background-color: #f9f9f9;
-  border-radius: 0 0 12px 12px; /* Rounded bottom corners */
+.card-content {
   padding: 20px;
-  flex-grow: 1; /* Allow the fun-fact container to grow and fill space */
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
-  overflow-y: auto; /* Add vertical scroll if content overflows */
+}
+
+h1 {
+  font-size: 28px; /* Adjusted font size */
+  margin: 10px 0;
+  color: #bb86fc;
 }
 
 p {
-  font-size: 32px; /* Adjusted font size */
+  font-size: 24px; /* Adjusted font size */
   margin: 10px 0;
 }
 
