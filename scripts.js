@@ -16,26 +16,26 @@ document.addEventListener("DOMContentLoaded", function () {
       headerTitle.textContent = `Today: ${currentDate}`;
       headerContainer.appendChild(headerTitle);
 
-      // Get all the days
-      const days = Object.keys(data);
-      // Randomly select one day
-      const randomDay = days[Math.floor(Math.random() * days.length)];
-      const dayData = data[randomDay];
-
       // Create card elements
       const card1 = document.createElement("div");
       card1.className = "card";
       const card2 = document.createElement("div");
       card2.className = "card";
-      const card3 = document.createElement("div");
-      card3.className = "card";
 
       container.appendChild(card1);
       container.appendChild(card2);
-      container.appendChild(card3);
 
-      let cards = [card1, card2, card3];
+      let cards = [card1, card2];
       let currentCardIndex = 0;
+
+      function getRandomHolidayAndFact(data) {
+        const days = Object.keys(data);
+        const randomDay = days[Math.floor(Math.random() * days.length)];
+        const dayData = data[randomDay];
+        const facts = Object.values(dayData.facts);
+        const randomFact = facts[Math.floor(Math.random() * facts.length)];
+        return { dayData, randomFact };
+      }
 
       function populateCard(card, dayData, fact) {
         card.innerHTML = '';
@@ -70,9 +70,11 @@ document.addEventListener("DOMContentLoaded", function () {
         // Update the current card index
         currentCardIndex = nextCardIndex;
 
+        // Get random holiday and fact
+        const { dayData, randomFact } = getRandomHolidayAndFact(data);
+
         // Populate the next card with new data
-        const facts = Object.values(dayData.facts);
-        populateCard(nextCard, dayData, facts[nextCardIndex]);
+        populateCard(nextCard, dayData, randomFact);
 
         // Start animations
         currentCard.classList.remove('fade-in-right');
@@ -81,13 +83,9 @@ document.addEventListener("DOMContentLoaded", function () {
         nextCard.classList.add('fade-in-right');
       }
 
-      // Initial population of the cards
-      const facts = Object.values(dayData.facts);
-      populateCard(card1, dayData, facts[0]);
-      populateCard(card2, dayData, facts[1]);
-      populateCard(card3, dayData, facts[2]);
-
-      // Show the first card immediately
+      // Initial population of the first card
+      const { dayData, randomFact } = getRandomHolidayAndFact(data);
+      populateCard(card1, dayData, randomFact);
       card1.classList.add('fade-in-right');
 
       // Set interval to show the next card every 10 seconds
