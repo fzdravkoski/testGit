@@ -1,29 +1,29 @@
 {
     "Day 1": {
-        "title": "Europe Day",
+        "title": "International Asteroid Day",
         "image": "img1.png",
         "facts": {
-            "1": "Europe Day is celebrated on May 9th to mark the anniversary of the Schuman Declaration.",
-            "2": "The Schuman Declaration in 1950 proposed the creation of a European Coal and Steel Community, which is considered the beginning of the European Union.",
-            "3": "Europe Day is a public holiday for the institutions of the European Union."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     },
     "Day 2": {
-        "title": "Victory Day",
+        "title": "Social Media Day",
         "image": "img2.png",
         "facts": {
-            "1": "Victory Day is celebrated on May 9th to commemorate the surrender of Nazi Germany in 1945.",
-            "2": "It is a major public holiday in Russia and many former Soviet republics.",
-            "3": "Victory Day is marked by military parades, fireworks, and ceremonies honoring veterans."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     },
     "Day 3": {
-        "title": "National Lost Sock Memorial Day",
+        "title": "National Meteor Watch Day",
         "image": "img3.png",
         "facts": {
-            "1": "National Lost Sock Memorial Day is observed on May 9th to honor all the socks that have gone missing.",
-            "2": "It is a whimsical holiday that encourages people to let go of the frustration of lost socks.",
-            "3": "Some people use this day to repurpose single socks into crafts or cleaning rags."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     }
 }
