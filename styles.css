@@ -63,6 +63,11 @@ body {
   backdrop-filter: blur(10px); /* Blur effect */
   border-radius: 0 0 16px 16px; /* Match card border radius */
   box-sizing: border-box; /* Include padding in the element's total width and height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 h1 {
