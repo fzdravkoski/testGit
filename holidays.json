@@ -1,7 +1,7 @@
 {
   "day1": {
     "title": "National Peanut Butter Cookie Day",
-    "image": "images/img1.png",
+    "image": "img1.png",
     "facts": {
       "1": "Peanut butter cookies were first introduced in the early 1900s.",
       "2": "The classic crisscross pattern on peanut butter cookies is made with a fork.",
@@ -10,7 +10,7 @@
   },
   "day2": {
     "title": "National Red Rose Day",
-    "image": "images/img2.png",
+    "image": "img2.png",
     "facts": {
       "1": "Red roses are a symbol of love and romance.",
       "2": "The red rose is the national flower of England.",
@@ -19,7 +19,7 @@
   },
   "day3": {
     "title": "Loving Day",
-    "image": "images/img3.png",
+    "image": "img3.png",
     "facts": {
       "1": "Loving Day commemorates the anniversary of the 1967 Supreme Court decision in Loving v. Virginia.",
       "2": "The decision struck down laws banning interracial marriage in the United States.",
