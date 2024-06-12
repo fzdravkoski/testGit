@@ -57,21 +57,25 @@ body {
 
 .card-content {
   width: 100%;
+  height: 40%; /* 40% of the card height */
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.75); /* Semi-transparent black background */
   backdrop-filter: blur(10px); /* Blur effect */
   border-radius: 0 0 16px 16px; /* Match card border radius */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
 }
 
 h1 {
   font-size: 28px; /* Adjusted font size */
   margin: 10px 0;
   color: #bb86fc;
+  word-wrap: break-word; /* Break long words to fit within the card */
 }
 
 p {
   font-size: 24px; /* Adjusted font size */
   margin: 10px 0;
+  word-wrap: break-word; /* Break long words to fit within the card */
 }
 
 @keyframes fadeInRight {
