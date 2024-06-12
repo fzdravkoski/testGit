@@ -18,38 +18,42 @@ body {
   height: 100vh; /* Fullscreen height */
   padding: 20px;
   box-sizing: border-box;
+  position: relative;
 }
 
 .card {
   background-color: #ffffff;
   border-radius: 16px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
-  padding: 0; /* Remove padding to fit content */
+  padding: 20px; /* Add padding for headline */
   text-align: center;
   width: 80%; /* 80% of the screen width */
   max-width: 1200px; /* Maximum width for large screens */
-  height: 80vh; /* 80% of the screen height */
+  height: 75vh; /* Adjust height to accommodate headline */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  animation: fadeIn 1s ease-in-out;
-  transition: transform 0.5s ease-in-out;
-  overflow: hidden;
-}
-
-.card:hover {
-  transform: translateY(-10px);
+  position: absolute;
+  transition: transform 1s ease-in-out;
+  opacity: 0;
 }
 
 .card-image {
   width: 100%;
-  height: 40%; /* 40% of the card height */
+  height: 35%; /* 35% of the card height */
   object-fit: cover; /* Ensures the image covers the container without distortion */
   border-radius: 16px 16px 0 0; /* Rounded top corners */
 }
 
+.card-headline {
+  font-size: 32px;
+  font-weight: bold;
+  color: #007BFF;
+  margin-bottom: 20px;
+}
+
 h1 {
-  font-size: 48px; /* Larger font size */
+  font-size: 36px; /* Adjusted font size */
   margin: 20px 0 10px;
   color: #007BFF;
 }
@@ -57,7 +61,7 @@ h1 {
 .fun-fact {
   background-color: #f9f9f9;
   border-radius: 0 0 12px 12px; /* Rounded bottom corners */
-  padding: 30px;
+  padding: 20px;
   flex-grow: 1; /* Allow the fun-fact container to grow and fill space */
   display: flex;
   flex-direction: column;
@@ -68,34 +72,36 @@ h1 {
 }
 
 p {
-  font-size: 36px; /* Larger font size */
+  font-size: 32px; /* Adjusted font size */
   margin: 10px 0;
-  opacity: 0;
-  animation: fadeIn 1s ease-in-out forwards;
 }
 
-@keyframes fadeIn {
+@keyframes fadeInRight {
   from {
+    transform: translateX(100%);
     opacity: 0;
   }
   to {
+    transform: translateX(0);
     opacity: 1;
   }
 }
 
-@keyframes fadeOut {
+@keyframes fadeOutLeft {
   from {
+    transform: translateX(0);
     opacity: 1;
   }
   to {
+    transform: translateX(-100%);
     opacity: 0;
   }
 }
 
-.fade-out {
-  animation: fadeOut 1s ease-in-out forwards;
+.fade-in-right {
+  animation: fadeInRight 1s forwards;
 }
 
-.fade-in {
-  animation: fadeIn 1s ease-in-out forwards;
+.fade-out-left {
+  animation: fadeOutLeft 1s forwards;
 }
