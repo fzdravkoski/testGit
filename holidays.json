@@ -1,7 +1,9 @@
 {
   "Day 1": {
     "title": "National Tourism Day",
-    "image": "img1.png",
+    "image": [
+      "0bb0fc76-70e1-4c7f-bda7-01bae6c0d4cd.png"
+    ],
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
@@ -9,8 +11,10 @@
     }
   },
   "Day 2": {
-    "title": "National Roast Leg of Lamb Day",
-    "image": "img2.png",
+    "title": "National Packaging Design Day",
+    "image": [
+      "29936062-e724-4567-84e1-ec82290bd50b.png"
+    ],
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
@@ -18,8 +22,10 @@
     }
   },
   "Day 3": {
-    "title": "National Packaging Design Day",
-    "image": "img3.png",
+    "title": "National Roast Leg of Lamb Day",
+    "image": [
+      "4adef05b-23f9-47e8-ac5c-7d60ea629e36.png"
+    ],
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
