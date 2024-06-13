@@ -1,30 +1,30 @@
 {
-  "date": "November 7th",
+  "date": "January 28th",
   "Day 1": {
-    "title": "National Bittersweet Chocolate with Almonds Day",
+    "title": "Data Privacy Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Bittersweet Chocolate with Almonds Day celebrates the combination of bittersweet chocolate and almonds, a delicious and nutritious treat.",
-      "2": "Bittersweet chocolate contains a higher percentage of cocoa solids and less sugar than milk chocolate, making it a healthier option.",
-      "3": "Almonds are a great source of healthy fats, protein, and vitamins, and they pair perfectly with the rich flavor of bittersweet chocolate."
+      "1": "Data Privacy Day is observed on January 28th to raise awareness about the importance of protecting personal information online.",
+      "2": "The day commemorates the signing of Convention 108, the first legally binding international treaty on data protection, in 1981.",
+      "3": "Data Privacy Day encourages individuals and organizations to adopt best practices for safeguarding data and respecting privacy rights."
     }
   },
   "Day 2": {
-    "title": "National Canine Lymphoma Awareness Day",
+    "title": "National Blueberry Pancake Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Canine Lymphoma Awareness Day aims to raise awareness about lymphoma in dogs, a common type of cancer affecting canines.",
-      "2": "Lymphoma accounts for approximately 7-24% of all canine cancers and can affect dogs of any breed or age.",
-      "3": "Early detection and treatment are crucial for improving the prognosis and quality of life for dogs diagnosed with lymphoma."
+      "1": "National Blueberry Pancake Day celebrates the delicious combination of pancakes and blueberries, a popular breakfast treat.",
+      "2": "Blueberries are rich in antioxidants, vitamins, and minerals, making them a healthy addition to pancakes.",
+      "3": "The day encourages people to enjoy blueberry pancakes with family and friends, experimenting with different recipes and toppings."
     }
   },
   "Day 3": {
-    "title": "Hug a Bear Day",
+    "title": "National Kazoo Day",
     "image": "img3.png",
     "facts": {
-      "1": "Hug a Bear Day encourages people to show affection and appreciation for teddy bears and, symbolically, for real bears in the wild.",
-      "2": "Teddy bears have been beloved children's toys for over a century, providing comfort and companionship.",
-      "3": "The day also raises awareness about the conservation of bear species and the importance of protecting their natural habitats."
+      "1": "National Kazoo Day celebrates the kazoo, a simple musical instrument that adds a fun and whimsical element to music.",
+      "2": "The kazoo was invented in the 1840s by Alabama Vest and Thaddeus Von Clegg and has since become a popular instrument for both children and adults.",
+      "3": "The day encourages people to play the kazoo, participate in kazoo parades, and enjoy the playful sounds of this unique instrument."
     }
   }
 }
