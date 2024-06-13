@@ -5,15 +5,13 @@ document.addEventListener("DOMContentLoaded", function () {
       const container = document.getElementById("gallery-container");
       const headerContainer = document.getElementById("header-container");
 
-      // Get current date
-      const today = new Date();
-      const options = { year: 'numeric', month: 'long', day: 'numeric' };
-      const currentDate = today.toLocaleDateString(undefined, options);
+      // Get the date from the JSON data
+      const jsonDate = data.date;
 
       // Create the header element
       const headerTitle = document.createElement("div");
       headerTitle.className = "header-title";
-      headerTitle.textContent = `Today: ${currentDate}`;
+      headerTitle.textContent = `Date: ${jsonDate}`;
       headerContainer.appendChild(headerTitle);
 
       // Create card elements
@@ -29,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
       let currentCardIndex = 0;
 
       function getRandomHolidayAndFact(data) {
-        const days = Object.keys(data);
+        const days = Object.keys(data).filter(key => key.startsWith("Day"));
         const randomDay = days[Math.floor(Math.random() * days.length)];
         const dayData = data[randomDay];
         const facts = Object.values(dayData.facts);
