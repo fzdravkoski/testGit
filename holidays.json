@@ -1,35 +1,35 @@
 {
-    "Day 1": {
-        "title": "Mole Day",
-        "image": [
-            "f498d5f0-8524-4b9c-81db-7b6dd8191729.png"
-        ],
-        "facts": {
-            "1": "Mole Day is celebrated between 6:02 AM and 6:02 PM on October 23rd, in honor of Avogadro's number (6.02 x 10^23).",
-            "2": "The day was created to foster interest in chemistry, particularly among students.",
-            "3": "The American Chemical Society sponsors Mole Day activities and events."
-        }
-    },
-    "Day 2": {
-        "title": "National Boston Cream Pie Day",
-        "image": [
-            "e2ca8a24-a5fe-406b-9874-db46c814e67c.png"
-        ],
-        "facts": {
-            "1": "The Boston Cream Pie was created by French chef Sanzian at Boston's Parker House Hotel in 1856.",
-            "2": "Despite its name, Boston Cream Pie is actually a cake, not a pie.",
-            "3": "In 1996, the Boston Cream Pie was declared the official dessert of Massachusetts."
-        }
-    },
-    "Day 3": {
-        "title": "National TV Talk Show Host Day",
-        "image": [
-            "4c35cd88-6f00-447c-bc22-6f04a2ef74a6.png"
-        ],
-        "facts": {
-            "1": "National TV Talk Show Host Day is celebrated on October 23rd in honor of Johnny Carson's birthday, one of the most iconic talk show hosts.",
-            "2": "Johnny Carson hosted 'The Tonight Show' for 30 years, from 1962 to 1992.",
-            "3": "Talk shows have been a staple of American television since the 1950s, with hosts like Oprah Winfrey, David Letterman, and Ellen DeGeneres becoming household names."
-        }
+  "Day 1": {
+    "title": "Mole Day",
+    "image": [
+      "c818f4ef-6b9b-4f13-9bc1-387283179803.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
+  },
+  "Day 2": {
+    "title": "National Boston Cream Pie Day",
+    "image": [
+      "57c32515-0ed9-426f-80b5-e9e7f9e0d6fc.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  },
+  "Day 3": {
+    "title": "iPod Day",
+    "image": [
+      "c4e889af-f0fa-4307-9d8b-58e10c272aee.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  }
 }
