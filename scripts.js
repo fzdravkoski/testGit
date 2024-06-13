@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("https://fzdravkoski.github.io/testGit/holidays.json")
+  fetch("holidays.json")
     .then((response) => response.json())
     .then((data) => {
       const container = document.getElementById("gallery-container");
