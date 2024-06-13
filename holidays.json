@@ -1,29 +1,29 @@
 {
   "Day 1": {
-    "title": "International Cat Day",
+    "title": "World Television Day",
     "image": "img1.png",
     "facts": {
-      "1": "International Cat Day was created in 2002 by the International Fund for Animal Welfare to celebrate and raise awareness for cats.",
-      "2": "Cats have been domesticated for nearly 4,000 years and are one of the most popular pets worldwide.",
-      "3": "There are over 70 recognized cat breeds, each with unique characteristics and traits."
+      "1": "World Television Day was proclaimed by the United Nations General Assembly in 1996 to recognize the impact of television on decision-making.",
+      "2": "Television has played a significant role in shaping public opinion and influencing global events.",
+      "3": "The first television broadcast took place in 1928, and since then, TV has become a primary source of entertainment and information."
     }
   },
   "Day 2": {
-    "title": "National Happiness Happens Day",
+    "title": "National Gingerbread Cookie Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Happiness Happens Day was created by the Secret Society of Happy People in 1999 to encourage people to share their happiness.",
-      "2": "The day promotes the idea that happiness is contagious and encourages people to spread joy and positivity.",
-      "3": "Studies have shown that expressing gratitude and engaging in positive activities can significantly boost happiness levels."
+      "1": "National Gingerbread Cookie Day celebrates the delicious and festive gingerbread cookie, a popular treat during the holiday season.",
+      "2": "Gingerbread cookies date back to the 15th century and were originally made with ginger, honey, and spices.",
+      "3": "Today, gingerbread cookies are often decorated with icing and candies, and are a favorite activity for families during the holidays."
     }
   },
   "Day 3": {
-    "title": "National Dollar Day",
+    "title": "National Stuffing Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Dollar Day commemorates the establishment of the U.S. monetary system on August 8, 1786.",
-      "2": "The first U.S. dollar was based on the Spanish dollar, which was widely used in the American colonies.",
-      "3": "The U.S. dollar is the world's primary reserve currency and is used in international trade and finance."
+      "1": "National Stuffing Day is celebrated by enjoying various types of stuffing, a traditional side dish during Thanksgiving in the United States.",
+      "2": "Stuffing can be made with a variety of ingredients, including bread, herbs, vegetables, and meats.",
+      "3": "The origins of stuffing date back to ancient Rome, where it was used to fill poultry and other meats before cooking."
     }
   }
 }
