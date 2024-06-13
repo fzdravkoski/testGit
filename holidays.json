@@ -1,29 +1,35 @@
 {
-    "Day 1": {
-        "title": "Independence Day (USA)",
-        "image": "img1.png",
-        "facts": {
-            "1": "Independence Day is celebrated on July 4th to commemorate the adoption of the Declaration of Independence in 1776.",
-            "2": "The day is marked by fireworks, parades, barbecues, and various patriotic displays.",
-            "3": "The Declaration of Independence was primarily authored by Thomas Jefferson."
-        }
-    },
-    "Day 2": {
-        "title": "National Barbecued Spareribs Day",
-        "image": "img2.png",
-        "facts": {
-            "1": "National Barbecued Spareribs Day is celebrated on July 4th to enjoy delicious barbecued spareribs.",
-            "2": "Barbecued spareribs are a popular dish in American cuisine, especially during summer cookouts.",
-            "3": "The day encourages people to fire up their grills and enjoy spareribs with family and friends."
-        }
-    },
-    "Day 3": {
-        "title": "Sidewalk Egg Frying Day",
-        "image": "img3.png",
-        "facts": {
-            "1": "Sidewalk Egg Frying Day is observed on July 4th to test the old saying that it's hot enough to fry an egg on the sidewalk.",
-            "2": "The day is a fun and quirky way to celebrate the summer heat.",
-            "3": "While it may not be practical to fry an egg on the sidewalk, the day highlights the extreme temperatures of summer."
-        }
+  "Day 1": {
+    "title": "Europe Day",
+    "image": [
+      "89e63cd2-fbe2-4522-8831-331211e70e9d.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
+  },
+  "Day 2": {
+    "title": "Victory Day",
+    "image": [
+      "010000ac-6071-4fe0-b80f-e2058991d178.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  },
+  "Day 3": {
+    "title": "National Lost Sock Memorial Day",
+    "image": [
+      "a85fa2c6-0db9-4144-804b-6c447d56d744.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  }
 }
