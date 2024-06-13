@@ -1,30 +1,30 @@
 {
-  "date": "January 28th",
+  "date": "August 16th",
   "Day 1": {
-    "title": "Data Privacy Day",
+    "title": "National Tell a Joke Day",
     "image": "img1.png",
     "facts": {
-      "1": "Data Privacy Day is observed on January 28th to raise awareness about the importance of protecting personal information online.",
-      "2": "The day commemorates the signing of Convention 108, the first legally binding international treaty on data protection, in 1981.",
-      "3": "Data Privacy Day encourages individuals and organizations to adopt best practices for safeguarding data and respecting privacy rights."
+      "1": "National Tell a Joke Day is celebrated on August 16th to encourage people to share jokes and spread laughter.",
+      "2": "Laughter has numerous health benefits, including reducing stress, boosting the immune system, and improving mood.",
+      "3": "The day is a great opportunity to connect with friends and family by sharing funny stories and jokes."
     }
   },
   "Day 2": {
-    "title": "National Blueberry Pancake Day",
+    "title": "National Roller Coaster Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Blueberry Pancake Day celebrates the delicious combination of pancakes and blueberries, a popular breakfast treat.",
-      "2": "Blueberries are rich in antioxidants, vitamins, and minerals, making them a healthy addition to pancakes.",
-      "3": "The day encourages people to enjoy blueberry pancakes with family and friends, experimenting with different recipes and toppings."
+      "1": "National Roller Coaster Day commemorates the patent of the first vertical loop roller coaster, which was granted on August 16, 1898.",
+      "2": "Roller coasters are a popular attraction at amusement parks, offering thrilling experiences with twists, turns, and drops.",
+      "3": "The day encourages people to visit amusement parks and enjoy the excitement of riding roller coasters."
     }
   },
   "Day 3": {
-    "title": "National Kazoo Day",
+    "title": "National Rum Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Kazoo Day celebrates the kazoo, a simple musical instrument that adds a fun and whimsical element to music.",
-      "2": "The kazoo was invented in the 1840s by Alabama Vest and Thaddeus Von Clegg and has since become a popular instrument for both children and adults.",
-      "3": "The day encourages people to play the kazoo, participate in kazoo parades, and enjoy the playful sounds of this unique instrument."
+      "1": "National Rum Day celebrates the rich history and diverse flavors of rum, a popular distilled alcoholic beverage made from sugarcane byproducts.",
+      "2": "Rum has a long history, dating back to the 17th century, and is associated with maritime traditions and tropical regions.",
+      "3": "The day encourages people to enjoy rum responsibly, whether in classic cocktails like the Mojito and Pi\u00f1a Colada or in new and creative drinks."
     }
   }
 }
