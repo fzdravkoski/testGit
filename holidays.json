@@ -1,29 +1,29 @@
 {
   "Day 1": {
-    "title": "World Television Day",
+    "title": "World Red Cross and Red Crescent Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Television Day was proclaimed by the United Nations General Assembly in 1996 to recognize the impact of television on decision-making.",
-      "2": "Television has played a significant role in shaping public opinion and influencing global events.",
-      "3": "The first television broadcast took place in 1928, and since then, TV has become a primary source of entertainment and information."
+      "1": "World Red Cross and Red Crescent Day is celebrated on May 8th to honor the principles of the International Red Cross and Red Crescent Movement.",
+      "2": "The day marks the birth anniversary of Henry Dunant, the founder of the International Committee of the Red Cross and the first Nobel Peace Prize laureate.",
+      "3": "The Red Cross and Red Crescent Movement provides humanitarian aid and disaster relief to millions of people worldwide."
     }
   },
   "Day 2": {
-    "title": "National Gingerbread Cookie Day",
+    "title": "National Have a Coke Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Gingerbread Cookie Day celebrates the delicious and festive gingerbread cookie, a popular treat during the holiday season.",
-      "2": "Gingerbread cookies date back to the 15th century and were originally made with ginger, honey, and spices.",
-      "3": "Today, gingerbread cookies are often decorated with icing and candies, and are a favorite activity for families during the holidays."
+      "1": "National Have a Coke Day celebrates the iconic Coca-Cola beverage, which was first introduced on May 8, 1886.",
+      "2": "Coca-Cola was invented by Dr. John Stith Pemberton, a pharmacist in Atlanta, Georgia.",
+      "3": "Today, Coca-Cola is one of the most recognized and consumed beverages globally, with a presence in over 200 countries."
     }
   },
   "Day 3": {
-    "title": "National Stuffing Day",
+    "title": "National Teacher Appreciation Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Stuffing Day is celebrated by enjoying various types of stuffing, a traditional side dish during Thanksgiving in the United States.",
-      "2": "Stuffing can be made with a variety of ingredients, including bread, herbs, vegetables, and meats.",
-      "3": "The origins of stuffing date back to ancient Rome, where it was used to fill poultry and other meats before cooking."
+      "1": "National Teacher Appreciation Day is celebrated on the first Tuesday of May to honor and recognize the contributions of teachers.",
+      "2": "The day encourages students and parents to show their appreciation for teachers through gifts, cards, and special events.",
+      "3": "Teachers play a crucial role in shaping the future by educating and inspiring the next generation."
     }
   }
 }
