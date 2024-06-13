@@ -1,29 +1,29 @@
 {
   "Day 1": {
-    "title": "National Sewing Machine Day",
+    "title": "International Cat Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Sewing Machine Day celebrates the invention of the sewing machine, which revolutionized the textile industry.",
-      "2": "The first functional sewing machine was invented by French tailor Barthelemy Thimonnier in 1830.",
-      "3": "Sewing machines have evolved over the years, with modern machines offering advanced features like computerized stitching and embroidery."
+      "1": "International Cat Day was created in 2002 by the International Fund for Animal Welfare to celebrate and raise awareness for cats.",
+      "2": "Cats have been domesticated for nearly 4,000 years and are one of the most popular pets worldwide.",
+      "3": "There are over 70 recognized cat breeds, each with unique characteristics and traits."
     }
   },
   "Day 2": {
-    "title": "International Axe Throwing Day",
+    "title": "National Happiness Happens Day",
     "image": "img2.png",
     "facts": {
-      "1": "International Axe Throwing Day is celebrated by enthusiasts who enjoy the sport of throwing axes at targets.",
-      "2": "The day promotes the growth of axe throwing as a recreational activity and competitive sport.",
-      "3": "Axe throwing has gained popularity in recent years, with many venues offering axe throwing lanes and leagues."
+      "1": "National Happiness Happens Day was created by the Secret Society of Happy People in 1999 to encourage people to share their happiness.",
+      "2": "The day promotes the idea that happiness is contagious and encourages people to spread joy and positivity.",
+      "3": "Studies have shown that expressing gratitude and engaging in positive activities can significantly boost happiness levels."
     }
   },
   "Day 3": {
-    "title": "National Weed Your Garden Day",
+    "title": "National Dollar Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Weed Your Garden Day encourages gardeners to take time to remove weeds from their gardens.",
-      "2": "Weeding helps to maintain the health of garden plants by reducing competition for nutrients, water, and sunlight.",
-      "3": "Regular weeding can prevent the spread of invasive plants and improve the overall appearance of the garden."
+      "1": "National Dollar Day commemorates the establishment of the U.S. monetary system on August 8, 1786.",
+      "2": "The first U.S. dollar was based on the Spanish dollar, which was widely used in the American colonies.",
+      "3": "The U.S. dollar is the world's primary reserve currency and is used in international trade and finance."
     }
   }
 }
