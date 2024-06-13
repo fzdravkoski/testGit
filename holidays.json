@@ -1,30 +1,30 @@
 {
-  "date": "July 4th",
+  "date": "May 8th",
   "Day 1": {
-    "title": "Independence Day (USA)",
+    "title": "World Red Cross and Red Crescent Day",
     "image": "img1.png",
     "facts": {
-      "1": "Independence Day, also known as the Fourth of July, commemorates the adoption of the Declaration of Independence on July 4, 1776.",
-      "2": "The day is celebrated with fireworks, parades, concerts, and various patriotic displays across the United States.",
-      "3": "Independence Day is a federal holiday in the United States, and many people enjoy barbecues, picnics, and family gatherings."
+      "1": "World Red Cross and Red Crescent Day is celebrated on May 8th to honor the principles of the International Red Cross and Red Crescent Movement.",
+      "2": "The day marks the birth anniversary of Henry Dunant, the founder of the International Committee of the Red Cross and the first Nobel Peace Prize laureate.",
+      "3": "The Red Cross and Red Crescent Movement provides humanitarian aid and disaster relief to millions of people worldwide."
     }
   },
   "Day 2": {
-    "title": "National Barbecued Spareribs Day",
+    "title": "National Have a Coke Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Barbecued Spareribs Day celebrates the delicious and smoky flavors of barbecued spareribs, a popular dish in American cuisine.",
-      "2": "Spareribs are typically marinated in a flavorful sauce and slow-cooked over a grill or smoker to achieve tender and juicy meat.",
-      "3": "The day encourages people to fire up their grills and enjoy spareribs with family and friends, often accompanied by classic barbecue side dishes."
+      "1": "National Have a Coke Day celebrates the iconic Coca-Cola beverage, which was first introduced on May 8, 1886.",
+      "2": "Coca-Cola was invented by Dr. John Stith Pemberton, a pharmacist in Atlanta, Georgia.",
+      "3": "Today, Coca-Cola is one of the most recognized and consumed beverages globally, with a presence in over 200 countries."
     }
   },
   "Day 3": {
-    "title": "Sidewalk Egg Frying Day",
+    "title": "National Teacher Appreciation Day",
     "image": "img3.png",
     "facts": {
-      "1": "Sidewalk Egg Frying Day is a fun and quirky holiday that involves frying eggs on hot sidewalks during the peak of summer heat.",
-      "2": "The day highlights the extreme temperatures that can be reached on sunny days, making it possible to cook eggs on pavement.",
-      "3": "While frying eggs on the sidewalk is mostly a novelty, it serves as a reminder of the importance of staying cool and hydrated during hot weather."
+      "1": "National Teacher Appreciation Day is celebrated on the first Tuesday of May to honor and recognize the contributions of teachers.",
+      "2": "The day encourages students and parents to show their appreciation for teachers through gifts, cards, and special events.",
+      "3": "Teachers play a crucial role in shaping the future by educating and inspiring the next generation."
     }
   }
 }
