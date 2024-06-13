@@ -1,29 +1,29 @@
 {
     "Day 1": {
-        "title": "International Joke Day",
+        "title": "Independence Day (USA)",
         "image": "img1.png",
         "facts": {
-            "1": "International Joke Day is celebrated on July 1st to encourage people to share jokes and spread laughter.",
-            "2": "The day was created by Wayne Reinagel in 1994 to promote the art of joke-telling.",
-            "3": "Laughter has been shown to have numerous health benefits, including reducing stress and boosting the immune system."
+            "1": "Independence Day is celebrated on July 4th to commemorate the adoption of the Declaration of Independence in 1776.",
+            "2": "The day is marked by fireworks, parades, barbecues, and various patriotic displays.",
+            "3": "The Declaration of Independence was primarily authored by Thomas Jefferson."
         }
     },
     "Day 2": {
-        "title": "Canada Day",
+        "title": "National Barbecued Spareribs Day",
         "image": "img2.png",
         "facts": {
-            "1": "Canada Day is celebrated on July 1st to commemorate the anniversary of the confederation of Canada in 1867.",
-            "2": "The day marks the unification of the three separate colonies of the United Province of Canada, New Brunswick, and Nova Scotia into a single Dominion within the British Empire.",
-            "3": "Canada Day is celebrated with parades, fireworks, concerts, and other patriotic events across the country."
+            "1": "National Barbecued Spareribs Day is celebrated on July 4th to enjoy delicious barbecued spareribs.",
+            "2": "Barbecued spareribs are a popular dish in American cuisine, especially during summer cookouts.",
+            "3": "The day encourages people to fire up their grills and enjoy spareribs with family and friends."
         }
     },
     "Day 3": {
-        "title": "National Creative Ice Cream Flavors Day",
+        "title": "Sidewalk Egg Frying Day",
         "image": "img3.png",
         "facts": {
-            "1": "National Creative Ice Cream Flavors Day is observed on July 1st to encourage people to try new and unique ice cream flavors.",
-            "2": "The day celebrates the creativity and innovation of ice cream makers who experiment with unusual ingredients and combinations.",
-            "3": "Some popular creative ice cream flavors include bacon, lavender, avocado, and even garlic."
+            "1": "Sidewalk Egg Frying Day is observed on July 4th to test the old saying that it's hot enough to fry an egg on the sidewalk.",
+            "2": "The day is a fun and quirky way to celebrate the summer heat.",
+            "3": "While it may not be practical to fry an egg on the sidewalk, the day highlights the extreme temperatures of summer."
         }
     }
 }
