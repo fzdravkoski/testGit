@@ -1,9 +1,7 @@
 {
   "Day 1": {
-    "title": "Mole Day",
-    "image": [
-      "ac771fc2-7510-4348-bba1-be8cbef9a3e8.png"
-    ],
+    "title": "National Tourism Day",
+    "image": "img1.png",
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
@@ -11,10 +9,8 @@
     }
   },
   "Day 2": {
-    "title": "National Boston Cream Pie Day",
-    "image": [
-      "681a0df4-32df-4b45-8340-21bf0438a9e3.png"
-    ],
+    "title": "National Roast Leg of Lamb Day",
+    "image": "img2.png",
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
@@ -22,10 +18,8 @@
     }
   },
   "Day 3": {
-    "title": "iPod Day",
-    "image": [
-      "921763b3-a105-4458-b528-62f7f5a3658f.png"
-    ],
+    "title": "National Packaging Design Day",
+    "image": "img3.png",
     "facts": {
       "1": "Fact 1: This is a random fact.",
       "2": "Fact 2: Another random fact goes here.",
