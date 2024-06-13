@@ -1,30 +1,30 @@
 {
-  "date": "May 8th",
+  "date": "October 23rd",
   "Day 1": {
-    "title": "World Red Cross and Red Crescent Day",
+    "title": "Mole Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Red Cross and Red Crescent Day is celebrated on May 8th to honor the principles of the International Red Cross and Red Crescent Movement.",
-      "2": "The day marks the birth anniversary of Henry Dunant, the founder of the International Committee of the Red Cross and the first Nobel Peace Prize laureate.",
-      "3": "The Red Cross and Red Crescent Movement provides humanitarian aid and disaster relief to millions of people worldwide."
+      "1": "Mole Day is celebrated by chemists and chemistry enthusiasts to commemorate Avogadro's number (6.02 x 10^23), a fundamental constant in chemistry.",
+      "2": "The day is observed from 6:02 AM to 6:02 PM on October 23rd, reflecting the significance of the number 6.02 x 10^23.",
+      "3": "Mole Day was created to foster interest in chemistry and to promote an understanding of the importance of the mole concept in scientific calculations."
     }
   },
   "Day 2": {
-    "title": "National Have a Coke Day",
+    "title": "National Boston Cream Pie Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Have a Coke Day celebrates the iconic Coca-Cola beverage, which was first introduced on May 8, 1886.",
-      "2": "Coca-Cola was invented by Dr. John Stith Pemberton, a pharmacist in Atlanta, Georgia.",
-      "3": "Today, Coca-Cola is one of the most recognized and consumed beverages globally, with a presence in over 200 countries."
+      "1": "National Boston Cream Pie Day celebrates the classic dessert that consists of a sponge cake filled with custard or cream and topped with chocolate glaze.",
+      "2": "The Boston cream pie was first created in the 19th century at the Parker House Hotel in Boston, Massachusetts.",
+      "3": "Despite its name, Boston cream pie is actually a cake and was designated the official dessert of Massachusetts in 1996."
     }
   },
   "Day 3": {
-    "title": "National Teacher Appreciation Day",
+    "title": "iPod Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Teacher Appreciation Day is celebrated on the first Tuesday of May to honor and recognize the contributions of teachers.",
-      "2": "The day encourages students and parents to show their appreciation for teachers through gifts, cards, and special events.",
-      "3": "Teachers play a crucial role in shaping the future by educating and inspiring the next generation."
+      "1": "iPod Day commemorates the launch of the first iPod by Apple Inc. on October 23, 2001, revolutionizing the way people listen to music.",
+      "2": "The original iPod could store up to 1,000 songs and featured a mechanical scroll wheel for navigation.",
+      "3": "The iPod's success paved the way for future Apple products, including the iPhone and iPad, and transformed the music industry."
     }
   }
 }
