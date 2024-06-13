@@ -1,29 +1,30 @@
 {
+  "date": "March 30th",
   "Day 1": {
-    "title": "Patriot Day",
+    "title": "National Doctors' Day",
     "image": "img1.png",
     "facts": {
-      "1": "Patriot Day is observed on September 11th to honor the memory of the nearly 3,000 people who lost their lives in the terrorist attacks on September 11, 2001.",
-      "2": "The day is marked by ceremonies and events across the United States, including moments of silence and the reading of victims' names.",
-      "3": "Patriot Day was established by a joint resolution of the U.S. Congress and signed into law by President George W. Bush in December 2001."
+      "1": "National Doctors' Day is celebrated on March 30th to honor the contributions of doctors and physicians.",
+      "2": "The first Doctors' Day was observed in 1933 in Winder, Georgia, and involved sending greeting cards to doctors and placing flowers on the graves of deceased physicians.",
+      "3": "The red carnation is the symbolic flower of National Doctors' Day, representing the qualities of sacrifice, courage, and love."
     }
   },
   "Day 2": {
-    "title": "National Make Your Bed Day",
+    "title": "Take a Walk in the Park Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Make Your Bed Day encourages people to start their day by making their bed, promoting a sense of accomplishment and organization.",
-      "2": "Studies have shown that making your bed can lead to better productivity and improved mental health.",
-      "3": "The day is a reminder of the importance of small daily habits in creating a positive and organized living environment."
+      "1": "Take a Walk in the Park Day encourages people to enjoy the beauty of nature and the health benefits of walking.",
+      "2": "Walking in the park can reduce stress, improve mood, and provide a great opportunity for physical exercise.",
+      "3": "Many parks offer scenic walking trails, playgrounds, and picnic areas, making them ideal places for family outings and relaxation."
     }
   },
   "Day 3": {
-    "title": "National Hot Cross Bun Day",
+    "title": "National Pencil Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Hot Cross Bun Day celebrates the delicious spiced buns traditionally eaten during the Easter season.",
-      "2": "Hot cross buns are marked with a cross on top, symbolizing the crucifixion of Jesus Christ.",
-      "3": "The buns are typically made with raisins or currants and flavored with spices like cinnamon and nutmeg."
+      "1": "National Pencil Day celebrates the invention and history of the pencil, a fundamental tool for writing and drawing.",
+      "2": "The modern pencil was invented in 1795 by Nicholas-Jacques Conte, a French artist and army officer.",
+      "3": "Pencils are made from a mixture of graphite and clay, encased in wood, and are available in various grades of hardness for different uses."
     }
   }
 }
