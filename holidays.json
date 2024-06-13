@@ -1,29 +1,29 @@
 {
   "Day 1": {
-    "title": "World Red Cross and Red Crescent Day",
+    "title": "National Doctors' Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Red Cross and Red Crescent Day is celebrated on May 8th to honor the principles of the International Red Cross and Red Crescent Movement.",
-      "2": "The day marks the birth anniversary of Henry Dunant, the founder of the International Committee of the Red Cross and the first Nobel Peace Prize laureate.",
-      "3": "The Red Cross and Red Crescent Movement provides humanitarian aid and disaster relief to millions of people worldwide."
+      "1": "National Doctors' Day is celebrated on March 30th to honor the contributions of doctors and physicians.",
+      "2": "The first Doctors' Day was observed in 1933 in Winder, Georgia, and involved sending greeting cards to doctors and placing flowers on the graves of deceased physicians.",
+      "3": "The red carnation is the symbolic flower of National Doctors' Day, representing the qualities of sacrifice, courage, and love."
     }
   },
   "Day 2": {
-    "title": "National Have a Coke Day",
+    "title": "Take a Walk in the Park Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Have a Coke Day celebrates the iconic Coca-Cola beverage, which was first introduced on May 8, 1886.",
-      "2": "Coca-Cola was invented by Dr. John Stith Pemberton, a pharmacist in Atlanta, Georgia.",
-      "3": "Today, Coca-Cola is one of the most recognized and consumed beverages globally, with a presence in over 200 countries."
+      "1": "Take a Walk in the Park Day encourages people to enjoy the beauty of nature and the health benefits of walking.",
+      "2": "Walking in the park can reduce stress, improve mood, and provide a great opportunity for physical exercise.",
+      "3": "Many parks offer scenic walking trails, playgrounds, and picnic areas, making them ideal places for family outings and relaxation."
     }
   },
   "Day 3": {
-    "title": "National Teacher Appreciation Day",
+    "title": "National Pencil Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Teacher Appreciation Day is celebrated on the first Tuesday of May to honor and recognize the contributions of teachers.",
-      "2": "The day encourages students and parents to show their appreciation for teachers through gifts, cards, and special events.",
-      "3": "Teachers play a crucial role in shaping the future by educating and inspiring the next generation."
+      "1": "National Pencil Day celebrates the invention and history of the pencil, a fundamental tool for writing and drawing.",
+      "2": "The modern pencil was invented in 1795 by Nicholas-Jacques Conte, a French artist and army officer.",
+      "3": "Pencils are made from a mixture of graphite and clay, encased in wood, and are available in various grades of hardness for different uses."
     }
   }
 }
