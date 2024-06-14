@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const url = new URL(window.location);
         url.searchParams.set('cacheBuster', new Date().getTime());
         window.location.href = url.href;
-      }, 60000);
+      }, 90000);
     })
     .catch((error) => console.error("Error fetching data:", error));
 });
