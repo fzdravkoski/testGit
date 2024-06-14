@@ -1,30 +1,30 @@
 {
-  "date": "7th of July",
+  "date": "8th of July",
   "Day 1": {
-    "title": "World Chocolate Day",
+    "title": "National Blueberry Day",
     "image": "img1.png",
     "facts": {
-      "1": "Fact 1: World Chocolate Day is celebrated on July 7th each year.",
-      "2": "Fact 2: The day marks the introduction of chocolate to Europe in 1550.",
-      "3": "Fact 3: Chocolate was once used as currency in ancient civilizations."
+      "1": "Fact 1: Blueberries are native to North America and have been enjoyed for centuries.",
+      "2": "Fact 2: Blueberries are rich in antioxidants and vitamins, making them a healthy snack.",
+      "3": "Fact 3: July is National Blueberry Month in the United States."
     }
   },
   "Day 2": {
-    "title": "Global Forgiveness Day",
+    "title": "Video Game Day",
     "image": "img2.png",
     "facts": {
-      "1": "Fact 1: Global Forgiveness Day is observed on July 7th.",
-      "2": "Fact 2: The day encourages people to forgive and move forward.",
-      "3": "Fact 3: Forgiveness can lead to improved mental and physical health."
+      "1": "Fact 1: Video Game Day is celebrated on July 8th each year.",
+      "2": "Fact 2: The first commercially successful video game was Pong, released in 1972.",
+      "3": "Fact 3: The video game industry is one of the fastest-growing entertainment industries in the world."
     }
   },
   "Day 3": {
-    "title": "Tell the Truth Day",
+    "title": "Math 2.0 Day",
     "image": "img3.png",
     "facts": {
-      "1": "Fact 1: Tell the Truth Day is celebrated on July 7th.",
-      "2": "Fact 2: The day promotes honesty and transparency in communication.",
-      "3": "Fact 3: Telling the truth can strengthen relationships and build trust."
+      "1": "Fact 1: Math 2.0 Day celebrates the intersection of mathematics and technology.",
+      "2": "Fact 2: The day encourages the use of technology to make math more accessible and engaging.",
+      "3": "Fact 3: Math 2.0 Day is celebrated on July 8th each year."
     }
   }
 }
