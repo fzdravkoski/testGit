@@ -83,6 +83,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Set interval to show the next card every 10 seconds
       setInterval(showNextCard, 10000);
+      
+      setTimeout(() => {
+        location.reload();
+      }, 60000);
     })
     .catch((error) => console.error("Error fetching data:", error));
 });
