@@ -1,30 +1,30 @@
 {
-  "date": "October 8th",
+  "date": "October 10th",
   "Day 1": {
-    "title": "World Octopus Day",
+    "title": "World Mental Health Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Octopus Day is celebrated on October 8th to honor the unique and fascinating octopus, known for its intelligence and adaptability.",
-      "2": "Octopuses have three hearts, blue blood, and the ability to change color and texture to blend into their surroundings.",
-      "3": "The day promotes awareness about the conservation of octopuses and their habitats, as well as their importance in marine ecosystems."
+      "1": "World Mental Health Day is observed on October 10th to raise awareness about mental health issues and promote mental well-being.",
+      "2": "The day was first celebrated in 1992 at the initiative of the World Federation for Mental Health.",
+      "3": "Each year, World Mental Health Day focuses on a specific theme to address different aspects of mental health."
     }
   },
   "Day 2": {
-    "title": "National Pierogi Day",
+    "title": "National Cake Decorating Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Pierogi Day celebrates the delicious Polish dumplings known as pierogis, which are filled with a variety of ingredients such as potatoes, cheese, and meat.",
-      "2": "Pierogis are traditionally boiled and then fried, and they are often served with toppings like sour cream, onions, and bacon.",
-      "3": "The day encourages people to enjoy pierogis, whether homemade or from local restaurants, and to explore different recipes and fillings."
+      "1": "National Cake Decorating Day celebrates the art and creativity of cake decorating, encouraging people to create beautiful and delicious cakes.",
+      "2": "Cake decorating involves various techniques, including piping, fondant shaping, and sugar crafting.",
+      "3": "The day is a great opportunity for both professional bakers and home enthusiasts to showcase their cake decorating skills."
     }
   },
   "Day 3": {
-    "title": "American Touch Tag Day",
+    "title": "National Handbag Day",
     "image": "img3.png",
     "facts": {
-      "1": "American Touch Tag Day is observed on October 8th to celebrate the classic childhood game of touch tag, which has been enjoyed by generations of children.",
-      "2": "Touch tag is a simple and fun game that promotes physical activity, social interaction, and outdoor play.",
-      "3": "The day encourages people of all ages to play touch tag and relive the joy and excitement of this timeless game."
+      "1": "National Handbag Day is dedicated to celebrating handbags as essential fashion accessories that combine style and functionality.",
+      "2": "Handbags have been used for centuries, evolving from simple pouches to sophisticated fashion statements.",
+      "3": "The day encourages people to appreciate the craftsmanship and design of handbags and to explore different styles and trends."
     }
   }
 }
