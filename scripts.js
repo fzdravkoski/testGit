@@ -85,7 +85,9 @@ document.addEventListener("DOMContentLoaded", function () {
       setInterval(showNextCard, 10000);
       
       setTimeout(() => {
-        location.reload();
+        const url = new URL(window.location);
+        url.searchParams.set('cacheBuster', new Date().getTime());
+        window.location.href = url.href;
       }, 60000);
     })
     .catch((error) => console.error("Error fetching data:", error));
