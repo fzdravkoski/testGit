@@ -1,36 +1,30 @@
 {
-  "date": "5th of July",
+  "date": "7th of July",
   "Day 1": {
-    "title": "National Apple Turnover Day",
-    "image": [
-      "f7914137-83ac-4625-ae52-792d8dba5f83.png"
-    ],
+    "title": "World Chocolate Day",
+    "image": "img1.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "Fact 1: World Chocolate Day is celebrated on July 7th each year.",
+      "2": "Fact 2: The day marks the introduction of chocolate to Europe in 1550.",
+      "3": "Fact 3: Chocolate was once used as currency in ancient civilizations."
     }
   },
   "Day 2": {
-    "title": "Workaholics Day",
-    "image": [
-      "927c3400-6822-4b0e-9ae3-e96122d83e79.png"
-    ],
+    "title": "Global Forgiveness Day",
+    "image": "img2.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "Fact 1: Global Forgiveness Day is observed on July 7th.",
+      "2": "Fact 2: The day encourages people to forgive and move forward.",
+      "3": "Fact 3: Forgiveness can lead to improved mental and physical health."
     }
   },
   "Day 3": {
-    "title": "Bikini Day",
-    "image": [
-      "468cb31b-17c1-4c4c-9924-d9c1c16984c6.png"
-    ],
+    "title": "Tell the Truth Day",
+    "image": "img3.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "Fact 1: Tell the Truth Day is celebrated on July 7th.",
+      "2": "Fact 2: The day promotes honesty and transparency in communication.",
+      "3": "Fact 3: Telling the truth can strengthen relationships and build trust."
     }
   }
 }
