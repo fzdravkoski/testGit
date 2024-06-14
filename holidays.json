@@ -1,30 +1,13 @@
 {
-  "date": "July 4th",
-  "Day 1": {
-    "title": "Independence Day (USA)",
-    "image": "img1.png",
+  "day1": {
+    "title": "Independence Day",
+    "image": [
+      "img1.png"
+    ],
     "facts": {
-      "1": "Independence Day, also known as the Fourth of July, commemorates the adoption of the Declaration of Independence on July 4, 1776.",
-      "2": "The day is celebrated with fireworks, parades, concerts, and various patriotic displays across the United States.",
-      "3": "Independence Day is a federal holiday in the United States, and many people enjoy barbecues, picnics, and family gatherings."
-    }
-  },
-  "Day 2": {
-    "title": "National Barbecued Spareribs Day",
-    "image": "img2.png",
-    "facts": {
-      "1": "National Barbecued Spareribs Day celebrates the delicious and smoky flavors of barbecued spareribs, a popular dish in American cuisine.",
-      "2": "Spareribs are typically marinated in a flavorful sauce and slow-cooked over a grill or smoker to achieve tender and juicy meat.",
-      "3": "The day encourages people to fire up their grills and enjoy spareribs with family and friends, often accompanied by classic barbecue side dishes."
-    }
-  },
-  "Day 3": {
-    "title": "Sidewalk Egg Frying Day",
-    "image": "img3.png",
-    "facts": {
-      "1": "Sidewalk Egg Frying Day is a fun and quirky holiday that involves frying eggs on hot sidewalks during the peak of summer heat.",
-      "2": "The day highlights the extreme temperatures that can be reached on sunny days, making it possible to cook eggs on pavement.",
-      "3": "While frying eggs on the sidewalk is mostly a novelty, it serves as a reminder of the importance of staying cool and hydrated during hot weather."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   }
 }
