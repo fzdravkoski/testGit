@@ -1,30 +1,30 @@
 {
-  "date": "August 8th",
+  "date": "August 9th",
   "Day 1": {
-    "title": "International Cat Day",
+    "title": "National Book Lovers Day",
     "image": "img1.png",
     "facts": {
-      "1": "International Cat Day was created in 2002 by the International Fund for Animal Welfare to celebrate and raise awareness for cats.",
-      "2": "Cats have been domesticated for nearly 4,000 years and are one of the most popular pets worldwide.",
-      "3": "There are over 70 recognized cat breeds, each with unique characteristics and traits."
+      "1": "National Book Lovers Day is celebrated on August 9th to honor book lovers and encourage reading.",
+      "2": "The day is a great opportunity to visit a library, bookstore, or simply enjoy a good book at home.",
+      "3": "Reading has numerous benefits, including improving mental health, expanding knowledge, and enhancing empathy."
     }
   },
   "Day 2": {
-    "title": "National Happiness Happens Day",
+    "title": "International Day of the World's Indigenous Peoples",
     "image": "img2.png",
     "facts": {
-      "1": "National Happiness Happens Day was created by the Secret Society of Happy People in 1999 to encourage people to share their happiness.",
-      "2": "The day promotes the idea that happiness is contagious and encourages people to spread joy and positivity.",
-      "3": "Studies have shown that expressing gratitude and engaging in positive activities can significantly boost happiness levels."
+      "1": "International Day of the World's Indigenous Peoples is observed on August 9th to raise awareness about the rights and cultures of indigenous peoples.",
+      "2": "The day was established by the United Nations General Assembly in 1994 to promote the protection and preservation of indigenous cultures.",
+      "3": "The day encourages people to learn about and support indigenous communities, their traditions, and their contributions to society."
     }
   },
   "Day 3": {
-    "title": "National Dollar Day",
+    "title": "National Rice Pudding Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Dollar Day commemorates the establishment of the U.S. monetary system on August 8, 1786.",
-      "2": "The first U.S. dollar was based on the Spanish dollar, which was widely used in the American colonies.",
-      "3": "The U.S. dollar is the world's primary reserve currency and is used in international trade and finance."
+      "1": "National Rice Pudding Day celebrates the classic dessert made from rice, milk, sugar, and various flavorings.",
+      "2": "Rice pudding is enjoyed in many cultures around the world, with different variations and ingredients.",
+      "3": "The day encourages people to make and enjoy rice pudding, experimenting with different recipes and toppings."
     }
   }
 }
