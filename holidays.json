@@ -1,30 +1,30 @@
 {
-  "date": "November 13th",
+  "date": "March 2nd",
   "Day 1": {
-    "title": "World Kindness Day",
+    "title": "Dr. Seuss Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Kindness Day is celebrated on November 13th to promote kindness and encourage acts of compassion and generosity.",
-      "2": "The day was introduced in 1998 by the World Kindness Movement, a coalition of kindness organizations from around the world.",
-      "3": "World Kindness Day encourages people to perform random acts of kindness, such as helping a neighbor, volunteering, or simply sharing a smile."
+      "1": "Dr. Seuss Day, also known as Read Across America Day, is celebrated on March 2nd to honor the birthday of the beloved children's author Dr. Seuss.",
+      "2": "The day encourages children and adults to read books and participate in reading activities to promote literacy.",
+      "3": "Dr. Seuss, whose real name was Theodor Seuss Geisel, wrote and illustrated over 60 books, including classics like 'The Cat in the Hat' and 'Green Eggs and Ham.'"
     }
   },
   "Day 2": {
-    "title": "National Indian Pudding Day",
+    "title": "National Banana Cream Pie Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Indian Pudding Day celebrates the traditional New England dessert made from cornmeal, milk, molasses, and spices.",
-      "2": "Indian pudding has its origins in the early American colonies, where settlers adapted a Native American recipe using cornmeal.",
-      "3": "The day encourages people to enjoy Indian pudding, often served warm with a scoop of vanilla ice cream or whipped cream."
+      "1": "National Banana Cream Pie Day celebrates the delicious dessert made with a creamy banana filling, a flaky crust, and topped with whipped cream.",
+      "2": "Banana cream pie is a classic American dessert that has been enjoyed for generations.",
+      "3": "The day encourages people to bake and enjoy banana cream pie with family and friends."
     }
   },
   "Day 3": {
-    "title": "Sadie Hawkins Day",
+    "title": "Old Stuff Day",
     "image": "img3.png",
     "facts": {
-      "1": "Sadie Hawkins Day is a fun and unconventional holiday where girls ask boys to dance or go on a date, reversing traditional gender roles.",
-      "2": "The day was inspired by the Sadie Hawkins character from Al Capp's comic strip 'Li'l Abner,' where unmarried women chased bachelors in a race.",
-      "3": "Sadie Hawkins Day is often celebrated with dances and events where girls take the initiative to ask boys out, promoting gender equality and empowerment."
+      "1": "Old Stuff Day is observed on March 2nd to encourage people to appreciate and find new uses for old items.",
+      "2": "The day promotes recycling, repurposing, and upcycling to reduce waste and give new life to old belongings.",
+      "3": "Old Stuff Day is a great opportunity to declutter, donate unused items, and explore creative ways to reuse and repurpose old stuff."
     }
   }
 }
