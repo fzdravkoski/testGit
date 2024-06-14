@@ -1,30 +1,30 @@
 {
-  "date": "8th of July",
+  "date": "July 9th",
   "Day 1": {
-    "title": "National Blueberry Day",
+    "title": "National Sugar Cookie Day",
     "image": "img1.png",
     "facts": {
-      "1": "Blueberries are native to North America and have been enjoyed for centuries.",
-      "2": "Blueberries are rich in antioxidants and vitamins, making them a healthy snack.",
-      "3": "July is National Blueberry Month in the United States."
+      "1": "National Sugar Cookie Day is celebrated on July 9th to honor the classic sugar cookie, a favorite treat for many.",
+      "2": "Sugar cookies are made with simple ingredients like sugar, butter, flour, and eggs, and can be decorated with icing and sprinkles.",
+      "3": "The day encourages people to bake and enjoy sugar cookies with family and friends, and to get creative with their decorations."
     }
   },
   "Day 2": {
-    "title": "Video Game Day",
+    "title": "Fashion Day",
     "image": "img2.png",
     "facts": {
-      "1": "Video Game Day is celebrated on July 8th each year.",
-      "2": "The first commercially successful video game was Pong, released in 1972.",
-      "3": "The video game industry is one of the fastest-growing entertainment industries in the world."
+      "1": "Fashion Day is celebrated on July 9th to appreciate the art and creativity of fashion design.",
+      "2": "The day encourages people to express their personal style and explore the latest fashion trends.",
+      "3": "Fashion Day is a great opportunity to attend fashion shows, shop for new clothes, and experiment with different looks."
     }
   },
   "Day 3": {
-    "title": "Math 2.0 Day",
+    "title": "Collector Car Appreciation Day",
     "image": "img3.png",
     "facts": {
-      "1": "Math 2.0 Day celebrates the intersection of mathematics and technology.",
-      "2": "The day encourages the use of technology to make math more accessible and engaging.",
-      "3": "Math 2.0 Day is celebrated on July 8th each year."
+      "1": "Collector Car Appreciation Day is observed on July 9th to celebrate the classic and vintage cars that have become cherished collectibles.",
+      "2": "The day was established by the Specialty Equipment Market Association (SEMA) to recognize the importance of collector cars in American culture.",
+      "3": "Collector Car Appreciation Day encourages car enthusiasts to attend car shows, share their passion for classic cars, and preserve automotive history."
     }
   }
 }
