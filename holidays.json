@@ -1,30 +1,30 @@
 {
-  "date": "October 31st",
+  "date": "November 1st",
   "Day 1": {
-    "title": "Halloween",
+    "title": "All Saints' Day",
     "image": "img1.png",
     "facts": {
-      "1": "Halloween is celebrated on October 31st and is known for its spooky decorations, costumes, and trick-or-treating.",
-      "2": "The holiday has its origins in the ancient Celtic festival of Samhain, which marked the end of the harvest season and the beginning of winter.",
-      "3": "Halloween is a time for people to enjoy haunted houses, scary movies, and themed parties."
+      "1": "All Saints' Day is celebrated on November 1st to honor all saints, known and unknown, in the Christian tradition.",
+      "2": "The day was established by Pope Gregory III in the 8th century and is observed by various Christian denominations.",
+      "3": "All Saints' Day is a public holiday in many countries and is often marked by attending church services and visiting cemeteries."
     }
   },
   "Day 2": {
-    "title": "National Caramel Apple Day",
+    "title": "National Author's Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Caramel Apple Day celebrates the delicious treat of apples coated in caramel, often enjoyed during the fall season.",
-      "2": "Caramel apples are a popular treat at fairs, festivals, and Halloween parties.",
-      "3": "The day encourages people to make and enjoy caramel apples with various toppings like nuts, chocolate, and sprinkles."
+      "1": "National Author's Day is observed on November 1st to celebrate authors and their contributions to literature and culture.",
+      "2": "The day was established in 1928 by the General Federation of Women's Clubs to recognize the importance of authors in society.",
+      "3": "National Author's Day encourages people to read books, write reviews, and show appreciation for their favorite authors."
     }
   },
   "Day 3": {
-    "title": "National Magic Day",
+    "title": "National Cook for Your Pets Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Magic Day is observed on October 31st to honor the art of magic and the contributions of magicians.",
-      "2": "The day commemorates the death of Harry Houdini, one of the most famous magicians and escape artists in history.",
-      "3": "National Magic Day encourages people to enjoy magic shows, learn new tricks, and appreciate the skill and creativity of magicians."
+      "1": "National Cook for Your Pets Day is celebrated on November 1st to promote the preparation of healthy and nutritious meals for pets.",
+      "2": "The day encourages pet owners to cook homemade meals for their pets, ensuring they receive high-quality ingredients and balanced nutrition.",
+      "3": "National Cook for Your Pets Day highlights the importance of proper pet nutrition and the benefits of home-cooked meals for pets' health and well-being."
     }
   }
 }
