@@ -84,11 +84,11 @@ document.addEventListener("DOMContentLoaded", function () {
       // Set interval to show the next card every 10 seconds
       setInterval(showNextCard, 10000);
       
-      setTimeout(() => {
-        const url = new URL(window.location);
-        url.searchParams.set('cacheBuster', new Date().getTime());
-        window.location.href = url.href;
-      }, 90000);
+      // setTimeout(() => {
+      //   const url = new URL(window.location);
+      //   url.searchParams.set('cacheBuster', new Date().getTime());
+      //   window.location.href = url.href;
+      // }, 90000);
     })
     .catch((error) => console.error("Error fetching data:", error));
 });
