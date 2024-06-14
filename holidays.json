@@ -1,30 +1,30 @@
 {
-  "date": "August 10th",
+  "date": "August 11th",
   "Day 1": {
-    "title": "National Lazy Day",
+    "title": "National Son and Daughter Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Lazy Day is celebrated on August 10th to encourage people to take a break and enjoy a day of relaxation.",
-      "2": "The day is a perfect excuse to do nothing and indulge in leisure activities like reading, watching movies, or simply lounging around.",
-      "3": "National Lazy Day reminds us of the importance of taking time to rest and recharge, especially in our busy lives."
+      "1": "National Son and Daughter Day is celebrated on August 11th to honor the special bond between parents and their children.",
+      "2": "The day encourages parents to spend quality time with their sons and daughters, creating lasting memories.",
+      "3": "Activities on this day often include family outings, playing games, and sharing stories and experiences."
     }
   },
   "Day 2": {
-    "title": "National S'mores Day",
+    "title": "National Raspberry Bombe Day",
     "image": "img2.png",
     "facts": {
-      "1": "National S'mores Day celebrates the classic campfire treat made with graham crackers, chocolate, and toasted marshmallows.",
-      "2": "S'mores have been a popular treat in the United States since the early 20th century, often enjoyed during camping trips and outdoor gatherings.",
-      "3": "The day encourages people to make and enjoy s'mores with family and friends, creating sweet memories around the campfire."
+      "1": "National Raspberry Bombe Day celebrates the delightful raspberry bombe dessert, a frozen treat made with raspberry sorbet and ice cream.",
+      "2": "The dessert is typically shaped like a dome and garnished with fresh raspberries and other toppings.",
+      "3": "The day encourages people to enjoy this refreshing dessert, perfect for hot summer days."
     }
   },
   "Day 3": {
-    "title": "World Lion Day",
+    "title": "Play in the Sand Day",
     "image": "img3.png",
     "facts": {
-      "1": "World Lion Day is observed on August 10th to raise awareness about the conservation of lions and their habitats.",
-      "2": "Lions are known as the 'king of the jungle' and are a symbol of strength, courage, and majesty.",
-      "3": "The day promotes efforts to protect lions from threats such as habitat loss, poaching, and human-wildlife conflict."
+      "1": "Play in the Sand Day is observed on August 11th to encourage people to enjoy the simple pleasure of playing in the sand.",
+      "2": "The day is a great opportunity for families to visit the beach, build sandcastles, and engage in other sand-related activities.",
+      "3": "Playing in the sand promotes creativity, relaxation, and outdoor fun for people of all ages."
     }
   }
 }
