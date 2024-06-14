@@ -1,30 +1,36 @@
 {
-  "date": "August 11th",
+  "date": "5th of July",
   "Day 1": {
-    "title": "National Son and Daughter Day",
-    "image": "img1.png",
+    "title": "National Apple Turnover Day",
+    "image": [
+      "61f22925-3bfe-4d64-9cd9-f0eaf9e9d6b3.png"
+    ],
     "facts": {
-      "1": "National Son and Daughter Day is celebrated on August 11th to honor the special bond between parents and their children.",
-      "2": "The day encourages parents to spend quality time with their sons and daughters, creating lasting memories.",
-      "3": "Activities on this day often include family outings, playing games, and sharing stories and experiences."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
   "Day 2": {
-    "title": "National Raspberry Bombe Day",
-    "image": "img2.png",
+    "title": "Workaholics Day",
+    "image": [
+      "4b913c37-5659-4c60-8ebe-417dd04515c7.png"
+    ],
     "facts": {
-      "1": "National Raspberry Bombe Day celebrates the delightful raspberry bombe dessert, a frozen treat made with raspberry sorbet and ice cream.",
-      "2": "The dessert is typically shaped like a dome and garnished with fresh raspberries and other toppings.",
-      "3": "The day encourages people to enjoy this refreshing dessert, perfect for hot summer days."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
   "Day 3": {
-    "title": "Play in the Sand Day",
-    "image": "img3.png",
+    "title": "Bikini Day",
+    "image": [
+      "7fbb54af-ac75-4fbf-bb70-d1738287ca0c.png"
+    ],
     "facts": {
-      "1": "Play in the Sand Day is observed on August 11th to encourage people to enjoy the simple pleasure of playing in the sand.",
-      "2": "The day is a great opportunity for families to visit the beach, build sandcastles, and engage in other sand-related activities.",
-      "3": "Playing in the sand promotes creativity, relaxation, and outdoor fun for people of all ages."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   }
 }
