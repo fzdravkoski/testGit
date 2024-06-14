@@ -1,30 +1,30 @@
 {
-  "date": "November 1st",
+  "date": "December 12th",
   "Day 1": {
-    "title": "All Saints' Day",
+    "title": "National Gingerbread House Day",
     "image": "img1.png",
     "facts": {
-      "1": "All Saints' Day is celebrated on November 1st to honor all saints, known and unknown, in the Christian tradition.",
-      "2": "The day was established by Pope Gregory III in the 8th century and is observed by various Christian denominations.",
-      "3": "All Saints' Day is a public holiday in many countries and is often marked by attending church services and visiting cemeteries."
+      "1": "National Gingerbread House Day is celebrated on December 12th to honor the tradition of making and decorating gingerbread houses during the holiday season.",
+      "2": "The tradition of making gingerbread houses dates back to the 16th century in Germany, inspired by the fairy tale of Hansel and Gretel.",
+      "3": "The day encourages families and friends to come together and create their own gingerbread houses, using candies, icing, and other decorations."
     }
   },
   "Day 2": {
-    "title": "National Author's Day",
+    "title": "National Poinsettia Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Author's Day is observed on November 1st to celebrate authors and their contributions to literature and culture.",
-      "2": "The day was established in 1928 by the General Federation of Women's Clubs to recognize the importance of authors in society.",
-      "3": "National Author's Day encourages people to read books, write reviews, and show appreciation for their favorite authors."
+      "1": "National Poinsettia Day is observed on December 12th to celebrate the poinsettia plant, a popular symbol of the holiday season.",
+      "2": "The day commemorates the death of Joel Roberts Poinsett, the first U.S. ambassador to Mexico, who introduced the poinsettia to the United States in the 1820s.",
+      "3": "Poinsettias are native to Mexico and are known for their vibrant red and green foliage, making them a popular decoration during Christmas."
     }
   },
   "Day 3": {
-    "title": "National Cook for Your Pets Day",
+    "title": "International Day of Neutrality",
     "image": "img3.png",
     "facts": {
-      "1": "National Cook for Your Pets Day is celebrated on November 1st to promote the preparation of healthy and nutritious meals for pets.",
-      "2": "The day encourages pet owners to cook homemade meals for their pets, ensuring they receive high-quality ingredients and balanced nutrition.",
-      "3": "National Cook for Your Pets Day highlights the importance of proper pet nutrition and the benefits of home-cooked meals for pets' health and well-being."
+      "1": "International Day of Neutrality is observed on December 12th to promote the importance of neutrality in international relations and diplomacy.",
+      "2": "The day was established by the United Nations General Assembly in 2017 to highlight the role of neutrality in maintaining peace and security.",
+      "3": "The day encourages countries to adopt neutral policies and engage in diplomatic efforts to resolve conflicts and promote international cooperation."
     }
   }
 }
