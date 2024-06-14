@@ -1,30 +1,30 @@
 {
-  "date": "October 10th",
+  "date": "August 30th",
   "Day 1": {
-    "title": "World Mental Health Day",
+    "title": "National Toasted Marshmallow Day",
     "image": "img1.png",
     "facts": {
-      "1": "World Mental Health Day is observed on October 10th to raise awareness about mental health issues and promote mental well-being.",
-      "2": "The day was first celebrated in 1992 at the initiative of the World Federation for Mental Health.",
-      "3": "Each year, World Mental Health Day focuses on a specific theme to address different aspects of mental health."
+      "1": "National Toasted Marshmallow Day is celebrated on August 30th to enjoy the delicious treat of toasted marshmallows.",
+      "2": "Toasting marshmallows over a campfire is a popular activity during camping trips and outdoor gatherings.",
+      "3": "The day encourages people to make s'mores, a classic treat made with toasted marshmallows, chocolate, and graham crackers."
     }
   },
   "Day 2": {
-    "title": "National Cake Decorating Day",
+    "title": "International Whale Shark Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Cake Decorating Day celebrates the art and creativity of cake decorating, encouraging people to create beautiful and delicious cakes.",
-      "2": "Cake decorating involves various techniques, including piping, fondant shaping, and sugar crafting.",
-      "3": "The day is a great opportunity for both professional bakers and home enthusiasts to showcase their cake decorating skills."
+      "1": "International Whale Shark Day is observed on August 30th to raise awareness about the conservation of whale sharks, the largest fish in the ocean.",
+      "2": "Whale sharks are gentle giants that can grow up to 40 feet in length and are known for their distinctive spotted patterns.",
+      "3": "The day promotes efforts to protect whale sharks and their habitats from threats such as overfishing and habitat destruction."
     }
   },
   "Day 3": {
-    "title": "National Handbag Day",
+    "title": "National Grief Awareness Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Handbag Day is dedicated to celebrating handbags as essential fashion accessories that combine style and functionality.",
-      "2": "Handbags have been used for centuries, evolving from simple pouches to sophisticated fashion statements.",
-      "3": "The day encourages people to appreciate the craftsmanship and design of handbags and to explore different styles and trends."
+      "1": "National Grief Awareness Day is dedicated to raising awareness about the impact of grief and the importance of supporting those who are grieving.",
+      "2": "The day encourages open conversations about grief and provides resources for individuals and families coping with loss.",
+      "3": "Grief Awareness Day was founded by Angie Cartwright in 2014 to honor her mother and sister, who both passed away."
     }
   }
 }
