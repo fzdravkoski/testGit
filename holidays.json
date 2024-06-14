@@ -1,30 +1,15 @@
 {
-  "date": "January 7th",
-  "Day 1": {
-    "title": "Orthodox Christmas Day",
-    "image": "img1.png",
-    "facts": {
-      "1": "Orthodox Christmas Day is celebrated on January 7th by many Orthodox Christians, following the Julian calendar.",
-      "2": "The day commemorates the birth of Jesus Christ and is marked by religious services, festive meals, and various customs.",
-      "3": "Orthodox Christmas traditions vary by country, but common practices include singing carols, exchanging gifts, and preparing special foods."
-    }
-  },
-  "Day 2": {
-    "title": "National Bobblehead Day",
-    "image": "img2.png",
-    "facts": {
-      "1": "National Bobblehead Day is celebrated on January 7th to honor the fun and quirky collectible figurines known as bobbleheads.",
-      "2": "Bobbleheads have been popular since the 1960s and feature a wide range of characters, from athletes to celebrities.",
-      "3": "The day encourages collectors and enthusiasts to showcase their bobblehead collections and share their favorite figures."
-    }
-  },
-  "Day 3": {
-    "title": "National Tempura Day",
-    "image": "img3.png",
-    "facts": {
-      "1": "National Tempura Day celebrates the Japanese dish of tempura, which consists of seafood and vegetables coated in a light batter and deep-fried.",
-      "2": "Tempura was introduced to Japan by Portuguese missionaries in the 16th century and has since become a beloved part of Japanese cuisine.",
-      "3": "The day encourages people to enjoy tempura at Japanese restaurants or try making it at home with various ingredients."
+  "holidays": {
+    "day1": {
+      "title": "Independence Day",
+      "image": [
+        "2918553f-0466-4e95-843a-536d31d816da.png"
+      ],
+      "facts": {
+        "1": "Fact 1: This is a random fact.",
+        "2": "Fact 2: Another random fact goes here.",
+        "3": "Fact 3: Yet another random fact."
+      }
     }
   }
 }
