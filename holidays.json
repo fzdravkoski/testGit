@@ -1,30 +1,30 @@
 {
-  "date": "August 1st",
+  "date": "October 10th",
   "Day 1": {
-    "title": "National Girlfriends Day",
+    "title": "World Mental Health Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Girlfriends Day is celebrated on August 1st to honor the special bond between female friends.",
-      "2": "The day encourages women to spend quality time with their girlfriends and appreciate their friendship.",
-      "3": "Activities on this day often include going out for meals, shopping, and enjoying fun activities together."
+      "1": "World Mental Health Day is observed on October 10th to raise awareness about mental health issues and promote mental well-being.",
+      "2": "The day was first celebrated in 1992 at the initiative of the World Federation for Mental Health.",
+      "3": "Each year, World Mental Health Day focuses on a specific theme to address different aspects of mental health."
     }
   },
   "Day 2": {
-    "title": "National Raspberry Cream Pie Day",
+    "title": "National Cake Decorating Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Raspberry Cream Pie Day celebrates the delicious dessert made with fresh raspberries and a creamy filling.",
-      "2": "Raspberries are rich in vitamins, antioxidants, and fiber, making them a healthy addition to desserts.",
-      "3": "The day encourages people to bake and enjoy raspberry cream pies with family and friends."
+      "1": "National Cake Decorating Day celebrates the art and creativity of cake decorating, encouraging people to create beautiful and delicious cakes.",
+      "2": "Cake decorating involves various techniques, including piping, fondant shaping, and sugar crafting.",
+      "3": "The day is a great opportunity for both professional bakers and home enthusiasts to showcase their cake decorating skills."
     }
   },
   "Day 3": {
-    "title": "World Lung Cancer Day",
+    "title": "National Handbag Day",
     "image": "img3.png",
     "facts": {
-      "1": "World Lung Cancer Day is observed on August 1st to raise awareness about lung cancer and its impact on individuals and families.",
-      "2": "Lung cancer is the leading cause of cancer-related deaths worldwide, highlighting the importance of early detection and treatment.",
-      "3": "The day promotes education, research, and support for those affected by lung cancer."
+      "1": "National Handbag Day is dedicated to celebrating handbags as essential fashion accessories that combine style and functionality.",
+      "2": "Handbags have been used for centuries, evolving from simple pouches to sophisticated fashion statements.",
+      "3": "The day encourages people to appreciate the craftsmanship and design of handbags and to explore different styles and trends."
     }
   }
 }
