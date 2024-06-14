@@ -4,27 +4,27 @@
     "title": "National Blueberry Day",
     "image": "img1.png",
     "facts": {
-      "1": "Fact 1: Blueberries are native to North America and have been enjoyed for centuries.",
-      "2": "Fact 2: Blueberries are rich in antioxidants and vitamins, making them a healthy snack.",
-      "3": "Fact 3: July is National Blueberry Month in the United States."
+      "1": "Blueberries are native to North America and have been enjoyed for centuries.",
+      "2": "Blueberries are rich in antioxidants and vitamins, making them a healthy snack.",
+      "3": "July is National Blueberry Month in the United States."
     }
   },
   "Day 2": {
     "title": "Video Game Day",
     "image": "img2.png",
     "facts": {
-      "1": "Fact 1: Video Game Day is celebrated on July 8th each year.",
-      "2": "Fact 2: The first commercially successful video game was Pong, released in 1972.",
-      "3": "Fact 3: The video game industry is one of the fastest-growing entertainment industries in the world."
+      "1": "Video Game Day is celebrated on July 8th each year.",
+      "2": "The first commercially successful video game was Pong, released in 1972.",
+      "3": "The video game industry is one of the fastest-growing entertainment industries in the world."
     }
   },
   "Day 3": {
     "title": "Math 2.0 Day",
     "image": "img3.png",
     "facts": {
-      "1": "Fact 1: Math 2.0 Day celebrates the intersection of mathematics and technology.",
-      "2": "Fact 2: The day encourages the use of technology to make math more accessible and engaging.",
-      "3": "Fact 3: Math 2.0 Day is celebrated on July 8th each year."
+      "1": "Math 2.0 Day celebrates the intersection of mathematics and technology.",
+      "2": "The day encourages the use of technology to make math more accessible and engaging.",
+      "3": "Math 2.0 Day is celebrated on July 8th each year."
     }
   }
 }
