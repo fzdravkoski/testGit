@@ -1,30 +1,30 @@
 {
-  "date": "August 9th",
+  "date": "August 10th",
   "Day 1": {
-    "title": "National Book Lovers Day",
+    "title": "National Lazy Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Book Lovers Day is celebrated on August 9th to honor book lovers and encourage reading.",
-      "2": "The day is a great opportunity to visit a library, bookstore, or simply enjoy a good book at home.",
-      "3": "Reading has numerous benefits, including improving mental health, expanding knowledge, and enhancing empathy."
+      "1": "National Lazy Day is celebrated on August 10th to encourage people to take a break and enjoy a day of relaxation.",
+      "2": "The day is a perfect excuse to do nothing and indulge in leisure activities like reading, watching movies, or simply lounging around.",
+      "3": "National Lazy Day reminds us of the importance of taking time to rest and recharge, especially in our busy lives."
     }
   },
   "Day 2": {
-    "title": "International Day of the World's Indigenous Peoples",
+    "title": "National S'mores Day",
     "image": "img2.png",
     "facts": {
-      "1": "International Day of the World's Indigenous Peoples is observed on August 9th to raise awareness about the rights and cultures of indigenous peoples.",
-      "2": "The day was established by the United Nations General Assembly in 1994 to promote the protection and preservation of indigenous cultures.",
-      "3": "The day encourages people to learn about and support indigenous communities, their traditions, and their contributions to society."
+      "1": "National S'mores Day celebrates the classic campfire treat made with graham crackers, chocolate, and toasted marshmallows.",
+      "2": "S'mores have been a popular treat in the United States since the early 20th century, often enjoyed during camping trips and outdoor gatherings.",
+      "3": "The day encourages people to make and enjoy s'mores with family and friends, creating sweet memories around the campfire."
     }
   },
   "Day 3": {
-    "title": "National Rice Pudding Day",
+    "title": "World Lion Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Rice Pudding Day celebrates the classic dessert made from rice, milk, sugar, and various flavorings.",
-      "2": "Rice pudding is enjoyed in many cultures around the world, with different variations and ingredients.",
-      "3": "The day encourages people to make and enjoy rice pudding, experimenting with different recipes and toppings."
+      "1": "World Lion Day is observed on August 10th to raise awareness about the conservation of lions and their habitats.",
+      "2": "Lions are known as the 'king of the jungle' and are a symbol of strength, courage, and majesty.",
+      "3": "The day promotes efforts to protect lions from threats such as habitat loss, poaching, and human-wildlife conflict."
     }
   }
 }
