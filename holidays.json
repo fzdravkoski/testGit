@@ -1,30 +1,30 @@
 {
-  "date": "October 10th",
+  "date": "January 6th",
   "Day 1": {
-    "title": "World Mental Health Day",
+    "title": "Epiphany",
     "image": "img1.png",
     "facts": {
-      "1": "World Mental Health Day is observed on October 10th to raise awareness about mental health issues and promote mental well-being.",
-      "2": "The day was first celebrated in 1992 at the initiative of the World Federation for Mental Health.",
-      "3": "Each year, World Mental Health Day focuses on a specific theme to address different aspects of mental health."
+      "1": "Epiphany, also known as Three Kings' Day, is celebrated on January 6th to commemorate the visit of the Magi to the baby Jesus.",
+      "2": "The day is observed by many Christian denominations and is associated with various customs and traditions, including the blessing of homes and the baking of special cakes.",
+      "3": "Epiphany marks the end of the Christmas season and is a public holiday in many countries."
     }
   },
   "Day 2": {
-    "title": "National Cake Decorating Day",
+    "title": "National Bean Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Cake Decorating Day celebrates the art and creativity of cake decorating, encouraging people to create beautiful and delicious cakes.",
-      "2": "Cake decorating involves various techniques, including piping, fondant shaping, and sugar crafting.",
-      "3": "The day is a great opportunity for both professional bakers and home enthusiasts to showcase their cake decorating skills."
+      "1": "National Bean Day celebrates the nutritional value and versatility of beans, which are a staple food in many cultures.",
+      "2": "Beans are rich in protein, fiber, vitamins, and minerals, making them an important part of a healthy diet.",
+      "3": "The day encourages people to enjoy beans in various dishes, from soups and stews to salads and casseroles."
     }
   },
   "Day 3": {
-    "title": "National Handbag Day",
+    "title": "National Shortbread Day",
     "image": "img3.png",
     "facts": {
-      "1": "National Handbag Day is dedicated to celebrating handbags as essential fashion accessories that combine style and functionality.",
-      "2": "Handbags have been used for centuries, evolving from simple pouches to sophisticated fashion statements.",
-      "3": "The day encourages people to appreciate the craftsmanship and design of handbags and to explore different styles and trends."
+      "1": "National Shortbread Day honors the classic Scottish cookie known for its rich, buttery flavor and crumbly texture.",
+      "2": "Shortbread is traditionally made with just three ingredients: butter, sugar, and flour.",
+      "3": "The day encourages people to bake and enjoy shortbread cookies, often shaped into rounds, fingers, or festive designs."
     }
   }
 }
