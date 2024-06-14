@@ -1,30 +1,30 @@
 {
-  "date": "December 12th",
+  "date": "November 12th",
   "Day 1": {
-    "title": "National Gingerbread House Day",
+    "title": "National Happy Hour Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Gingerbread House Day is celebrated on December 12th to honor the tradition of making and decorating gingerbread houses during the holiday season.",
-      "2": "The tradition of making gingerbread houses dates back to the 16th century in Germany, inspired by the fairy tale of Hansel and Gretel.",
-      "3": "The day encourages families and friends to come together and create their own gingerbread houses, using candies, icing, and other decorations."
+      "1": "National Happy Hour Day is celebrated on November 12th to enjoy discounted drinks and appetizers at bars and restaurants.",
+      "2": "Happy hour typically takes place in the late afternoon or early evening and is a popular time for socializing with friends and colleagues.",
+      "3": "The day encourages people to take a break, relax, and enjoy good company and refreshments."
     }
   },
   "Day 2": {
-    "title": "National Poinsettia Day",
+    "title": "National French Dip Day",
     "image": "img2.png",
     "facts": {
-      "1": "National Poinsettia Day is observed on December 12th to celebrate the poinsettia plant, a popular symbol of the holiday season.",
-      "2": "The day commemorates the death of Joel Roberts Poinsett, the first U.S. ambassador to Mexico, who introduced the poinsettia to the United States in the 1820s.",
-      "3": "Poinsettias are native to Mexico and are known for their vibrant red and green foliage, making them a popular decoration during Christmas."
+      "1": "National French Dip Day celebrates the French dip sandwich, a delicious combination of roast beef on a baguette served with a side of au jus for dipping.",
+      "2": "The French dip sandwich is believed to have originated in Los Angeles in the early 20th century.",
+      "3": "The day encourages people to enjoy a French dip sandwich at their favorite restaurant or try making one at home."
     }
   },
   "Day 3": {
-    "title": "International Day of Neutrality",
+    "title": "World Pneumonia Day",
     "image": "img3.png",
     "facts": {
-      "1": "International Day of Neutrality is observed on December 12th to promote the importance of neutrality in international relations and diplomacy.",
-      "2": "The day was established by the United Nations General Assembly in 2017 to highlight the role of neutrality in maintaining peace and security.",
-      "3": "The day encourages countries to adopt neutral policies and engage in diplomatic efforts to resolve conflicts and promote international cooperation."
+      "1": "World Pneumonia Day is observed on November 12th to raise awareness about pneumonia, a leading cause of death among children under five.",
+      "2": "The day promotes efforts to prevent, diagnose, and treat pneumonia through vaccination, proper nutrition, and access to healthcare.",
+      "3": "World Pneumonia Day was established in 2009 by the Global Coalition Against Child Pneumonia to mobilize action against the disease."
     }
   }
 }
