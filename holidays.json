@@ -1,30 +1,30 @@
 {
-  "date": "July 9th",
+  "date": "10th of July",
   "Day 1": {
-    "title": "National Sugar Cookie Day",
+    "title": "National Pi\u00f1a Colada Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Sugar Cookie Day is celebrated on July 9th to honor the classic sugar cookie, a favorite treat for many.",
-      "2": "Sugar cookies are made with simple ingredients like sugar, butter, flour, and eggs, and can be decorated with icing and sprinkles.",
-      "3": "The day encourages people to bake and enjoy sugar cookies with family and friends, and to get creative with their decorations."
+      "1": "Pi\u00f1a Colada is a sweet cocktail made with rum, coconut cream, and pineapple juice.",
+      "2": "The Pi\u00f1a Colada was created in Puerto Rico in the 1950s.",
+      "3": "July 10th is celebrated as National Pi\u00f1a Colada Day in the United States."
     }
   },
   "Day 2": {
-    "title": "Fashion Day",
+    "title": "Teddy Bear Picnic Day",
     "image": "img2.png",
     "facts": {
-      "1": "Fashion Day is celebrated on July 9th to appreciate the art and creativity of fashion design.",
-      "2": "The day encourages people to express their personal style and explore the latest fashion trends.",
-      "3": "Fashion Day is a great opportunity to attend fashion shows, shop for new clothes, and experiment with different looks."
+      "1": "Teddy Bear Picnic Day is celebrated on July 10th each year.",
+      "2": "The day encourages families to have a picnic with their teddy bears.",
+      "3": "The holiday is inspired by the song 'The Teddy Bears' Picnic' written by John Walter Bratton."
     }
   },
   "Day 3": {
-    "title": "Collector Car Appreciation Day",
+    "title": "Don't Step on a Bee Day",
     "image": "img3.png",
     "facts": {
-      "1": "Collector Car Appreciation Day is observed on July 9th to celebrate the classic and vintage cars that have become cherished collectibles.",
-      "2": "The day was established by the Specialty Equipment Market Association (SEMA) to recognize the importance of collector cars in American culture.",
-      "3": "Collector Car Appreciation Day encourages car enthusiasts to attend car shows, share their passion for classic cars, and preserve automotive history."
+      "1": "Don't Step on a Bee Day is observed on July 10th to raise awareness about the importance of bees.",
+      "2": "Bees play a crucial role in pollinating plants and crops.",
+      "3": "The day encourages people to be mindful of bees and their habitats."
     }
   }
 }
