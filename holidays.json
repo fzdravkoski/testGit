@@ -1,8 +1,30 @@
 {
-  "day1": {
+  "Day 1": {
     "title": "Independence Day",
     "image": [
-      "img1.png"
+      "beab43eb-9502-491e-97a7-cfb182c7c19e.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  },
+  "Day 2": {
+    "title": "Independence Day",
+    "image": [
+      "8b49a347-862a-46f5-b3d0-d0b59eb2a185.png"
+    ],
+    "facts": {
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
+    }
+  },
+  "Day 3": {
+    "title": "Independence Day",
+    "image": [
+      "067e1fab-0b58-4309-a857-07dd09e5d728.png"
     ],
     "facts": {
       "1": "Fact 1: This is a random fact.",
