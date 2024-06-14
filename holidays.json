@@ -1,30 +1,30 @@
 {
-  "date": "November 12th",
+  "date": "November 13th",
   "Day 1": {
-    "title": "National Happy Hour Day",
+    "title": "World Kindness Day",
     "image": "img1.png",
     "facts": {
-      "1": "National Happy Hour Day is celebrated on November 12th to enjoy discounted drinks and appetizers at bars and restaurants.",
-      "2": "Happy hour typically takes place in the late afternoon or early evening and is a popular time for socializing with friends and colleagues.",
-      "3": "The day encourages people to take a break, relax, and enjoy good company and refreshments."
+      "1": "World Kindness Day is celebrated on November 13th to promote kindness and encourage acts of compassion and generosity.",
+      "2": "The day was introduced in 1998 by the World Kindness Movement, a coalition of kindness organizations from around the world.",
+      "3": "World Kindness Day encourages people to perform random acts of kindness, such as helping a neighbor, volunteering, or simply sharing a smile."
     }
   },
   "Day 2": {
-    "title": "National French Dip Day",
+    "title": "National Indian Pudding Day",
     "image": "img2.png",
     "facts": {
-      "1": "National French Dip Day celebrates the French dip sandwich, a delicious combination of roast beef on a baguette served with a side of au jus for dipping.",
-      "2": "The French dip sandwich is believed to have originated in Los Angeles in the early 20th century.",
-      "3": "The day encourages people to enjoy a French dip sandwich at their favorite restaurant or try making one at home."
+      "1": "National Indian Pudding Day celebrates the traditional New England dessert made from cornmeal, milk, molasses, and spices.",
+      "2": "Indian pudding has its origins in the early American colonies, where settlers adapted a Native American recipe using cornmeal.",
+      "3": "The day encourages people to enjoy Indian pudding, often served warm with a scoop of vanilla ice cream or whipped cream."
     }
   },
   "Day 3": {
-    "title": "World Pneumonia Day",
+    "title": "Sadie Hawkins Day",
     "image": "img3.png",
     "facts": {
-      "1": "World Pneumonia Day is observed on November 12th to raise awareness about pneumonia, a leading cause of death among children under five.",
-      "2": "The day promotes efforts to prevent, diagnose, and treat pneumonia through vaccination, proper nutrition, and access to healthcare.",
-      "3": "World Pneumonia Day was established in 2009 by the Global Coalition Against Child Pneumonia to mobilize action against the disease."
+      "1": "Sadie Hawkins Day is a fun and unconventional holiday where girls ask boys to dance or go on a date, reversing traditional gender roles.",
+      "2": "The day was inspired by the Sadie Hawkins character from Al Capp's comic strip 'Li'l Abner,' where unmarried women chased bachelors in a race.",
+      "3": "Sadie Hawkins Day is often celebrated with dances and events where girls take the initiative to ask boys out, promoting gender equality and empowerment."
     }
   }
 }
