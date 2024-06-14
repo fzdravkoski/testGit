@@ -1,35 +1,30 @@
 {
+  "date": "October 11th",
   "Day 1": {
-    "title": "Independence Day",
-    "image": [
-      "483c36d1-011b-4891-8a78-4dfff47f6258.png"
-    ],
+    "title": "National Coming Out Day",
+    "image": "img1.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "National Coming Out Day is observed on October 11th to support and celebrate individuals who come out as LGBTQ+.",
+      "2": "The day was first celebrated in 1988, inspired by the National March on Washington for Lesbian and Gay Rights.",
+      "3": "National Coming Out Day promotes a safe world for LGBTQ+ individuals to live truthfully and openly."
     }
   },
   "Day 2": {
-    "title": "Independence Day",
-    "image": [
-      "e91f3a22-13bc-4bd4-aea9-bb9b1eb413da.png"
-    ],
+    "title": "International Day of the Girl Child",
+    "image": "img2.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "International Day of the Girl Child is observed on October 11th to highlight and address the needs and challenges girls face.",
+      "2": "The day promotes girls' empowerment and the fulfillment of their human rights.",
+      "3": "It was established by the United Nations General Assembly in 2011 to recognize girls' rights and the unique challenges they face around the world."
     }
   },
   "Day 3": {
-    "title": "Independence Day",
-    "image": [
-      "5309bfff-4fe3-40a4-a23d-062179226782.png"
-    ],
+    "title": "National Sausage Pizza Day",
+    "image": "img3.png",
     "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+      "1": "National Sausage Pizza Day celebrates the popular pizza variety topped with sausage, a favorite among pizza lovers.",
+      "2": "Sausage pizza can be made with various types of sausage, including Italian, chorizo, and breakfast sausage.",
+      "3": "The day encourages people to enjoy sausage pizza at their favorite pizzerias or make their own at home."
     }
   }
 }
