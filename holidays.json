@@ -1,30 +1,31 @@
 {
-  "date": "October 23rd",
-  "Day 1": {
-    "title": "Mole Day",
-    "image": "img1.png",
-    "facts": {
-      "1": "Mole Day is celebrated by chemists and chemistry enthusiasts to commemorate Avogadro's number (6.02 x 10^23), a fundamental constant in chemistry.",
-      "2": "The day is observed from 6:02 AM to 6:02 PM on October 23rd, reflecting the significance of the number 6.02 x 10^23.",
-      "3": "Mole Day was created to foster interest in chemistry and to promote an understanding of the importance of the mole concept in scientific calculations."
+  "26.10": [
+    {
+      "title": "National Pumpkin Day",
+      "image": "img1.png",
+      "facts": {
+        "1": "National Pumpkin Day is celebrated on October 26th every year in the United States.",
+        "2": "Pumpkins are a type of squash and are native to North America.",
+        "3": "The largest pumpkin ever grown weighed over 2,600 pounds."
+      }
+    },
+    {
+      "title": "Austrian National Day",
+      "image": "img2.png",
+      "facts": {
+        "1": "Austrian National Day is celebrated on October 26th to commemorate the Declaration of Neutrality in 1955.",
+        "2": "On this day, Austria declared its permanent neutrality and became a sovereign state.",
+        "3": "The day is marked by various ceremonies, including a military parade and the opening of government buildings to the public."
+      }
+    },
+    {
+      "title": "Intersex Awareness Day",
+      "image": "img3.png",
+      "facts": {
+        "1": "Intersex Awareness Day is observed on October 26th to raise awareness about intersex people and their rights.",
+        "2": "The day marks the anniversary of the first public demonstration by intersex people in North America in 1996.",
+        "3": "Intersex people are born with physical sex characteristics that do not fit typical binary notions of male or female bodies."
+      }
     }
-  },
-  "Day 2": {
-    "title": "National Boston Cream Pie Day",
-    "image": "img2.png",
-    "facts": {
-      "1": "National Boston Cream Pie Day celebrates the classic dessert that consists of a sponge cake filled with custard or cream and topped with chocolate glaze.",
-      "2": "The Boston cream pie was first created in the 19th century at the Parker House Hotel in Boston, Massachusetts.",
-      "3": "Despite its name, Boston cream pie is actually a cake and was designated the official dessert of Massachusetts in 1996."
-    }
-  },
-  "Day 3": {
-    "title": "iPod Day",
-    "image": "img3.png",
-    "facts": {
-      "1": "iPod Day commemorates the launch of the first iPod by Apple Inc. on October 23, 2001, revolutionizing the way people listen to music.",
-      "2": "The original iPod could store up to 1,000 songs and featured a mechanical scroll wheel for navigation.",
-      "3": "The iPod's success paved the way for future Apple products, including the iPhone and iPad, and transformed the music industry."
-    }
-  }
+  ]
 }
