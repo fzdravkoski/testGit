@@ -1,30 +1,35 @@
 {
-  "date": "October 23rd",
-  "Day 1": {
-    "title": "Mole Day",
-    "image": "img1.png",
+  "day1": {
+    "title": "Europe Day",
+    "image": [
+      "c3eabcf6-22ae-4d9f-9688-b1aacb2c2f79.png"
+    ],
     "facts": {
-      "1": "Mole Day is celebrated by chemists and chemistry enthusiasts to commemorate Avogadro's number (6.02 x 10^23), a fundamental constant in chemistry.",
-      "2": "The day is observed from 6:02 AM to 6:02 PM on October 23rd, reflecting the significance of the number 6.02 x 10^23.",
-      "3": "Mole Day was created to foster interest in chemistry and to promote an understanding of the importance of the mole concept in scientific calculations."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
-  "Day 2": {
-    "title": "National Boston Cream Pie Day",
-    "image": "img2.png",
+  "day2": {
+    "title": "Victory Day",
+    "image": [
+      "115919aa-0e00-4a26-8d14-5cb99db67238.png"
+    ],
     "facts": {
-      "1": "National Boston Cream Pie Day celebrates the classic dessert that consists of a sponge cake filled with custard or cream and topped with chocolate glaze.",
-      "2": "The Boston cream pie was first created in the 19th century at the Parker House Hotel in Boston, Massachusetts.",
-      "3": "Despite its name, Boston cream pie is actually a cake and was designated the official dessert of Massachusetts in 1996."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   },
-  "Day 3": {
-    "title": "iPod Day",
-    "image": "img3.png",
+  "day3": {
+    "title": "National Lost Sock Memorial Day",
+    "image": [
+      "d42016a5-c6cd-4442-b4b7-4c2a72b13af5.png"
+    ],
     "facts": {
-      "1": "iPod Day commemorates the launch of the first iPod by Apple Inc. on October 23, 2001, revolutionizing the way people listen to music.",
-      "2": "The original iPod could store up to 1,000 songs and featured a mechanical scroll wheel for navigation.",
-      "3": "The iPod's success paved the way for future Apple products, including the iPhone and iPad, and transformed the music industry."
+      "1": "Fact 1: This is a random fact.",
+      "2": "Fact 2: Another random fact goes here.",
+      "3": "Fact 3: Yet another random fact."
     }
   }
 }
