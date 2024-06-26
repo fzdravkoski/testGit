@@ -1,35 +1,31 @@
 {
-  "day1": {
-    "title": "International Day Against Drug Abuse and Illicit Trafficking",
-    "image": [
-      "5e7fb491-79f8-41ac-9b57-60098d419cf8.png"
-    ],
-    "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
-    }
-  },
-  "day2": {
-    "title": "International Day in Support of Victims of Torture",
-    "image": [
-      "fb4b0086-ca59-4fea-bb3e-07f6effa61b3.png"
-    ],
-    "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
-    }
-  },
-  "day3": {
-    "title": "Beautician's Day",
-    "image": [
-      "c2a6f696-e1e4-4bba-92fc-dd22cf2c6219.png"
-    ],
-    "facts": {
-      "1": "Fact 1: This is a random fact.",
-      "2": "Fact 2: Another random fact goes here.",
-      "3": "Fact 3: Yet another random fact."
+  "26.06": {
+    "International Day Against Drug Abuse and Illicit Trafficking": {
+      "title": "International Day Against Drug Abuse and Illicit Trafficking",
+      "image": "img1.png",
+      "facts": {
+        "1": "Established by the United Nations General Assembly in 1987.",
+        "2": "Aims to strengthen action and cooperation to achieve the goal of an international society free of drug abuse.",
+        "3": "The theme for 2021 was 'Share Facts On Drugs, Save Lives.'"
+      }
+    },
+    "International Day in Support of Victims of Torture": {
+      "title": "International Day in Support of Victims of Torture",
+      "image": "img2.png",
+      "facts": {
+        "1": "Proclaimed by the United Nations General Assembly in 1997.",
+        "2": "Aims to eradicate torture and ensure the effective functioning of the Convention against Torture.",
+        "3": "The UN Voluntary Fund for Victims of Torture provides assistance to victims and their families."
+      }
+    },
+    "Madagascar Independence Day": {
+      "title": "Madagascar Independence Day",
+      "image": "img3.png",
+      "facts": {
+        "1": "Celebrates Madagascar's independence from France in 1960.",
+        "2": "The day is marked with parades, cultural events, and fireworks.",
+        "3": "Madagascar is known for its unique biodiversity, with many species found nowhere else on Earth."
+      }
     }
   }
 }
