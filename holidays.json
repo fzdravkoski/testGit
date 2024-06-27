@@ -1,31 +1,31 @@
 {
-  "26.06": {
-    "International Day Against Drug Abuse and Illicit Trafficking": {
-      "title": "International Day Against Drug Abuse and Illicit Trafficking",
+  "holidays": [
+    {
+      "title": "National PTSD Awareness Day",
       "image": "img1.png",
       "facts": {
-        "1": "Established by the United Nations General Assembly in 1987.",
-        "2": "Aims to strengthen action and cooperation to achieve the goal of an international society free of drug abuse.",
-        "3": "The theme for 2021 was 'Share Facts On Drugs, Save Lives.'"
+        "1": "National PTSD Awareness Day was established by the U.S. Senate in 2010.",
+        "2": "PTSD affects approximately 3.5% of U.S. adults every year.",
+        "3": "The day aims to raise awareness about PTSD and encourage those affected to seek help."
       }
     },
-    "International Day in Support of Victims of Torture": {
-      "title": "International Day in Support of Victims of Torture",
+    {
+      "title": "National Sunglasses Day",
       "image": "img2.png",
       "facts": {
-        "1": "Proclaimed by the United Nations General Assembly in 1997.",
-        "2": "Aims to eradicate torture and ensure the effective functioning of the Convention against Torture.",
-        "3": "The UN Voluntary Fund for Victims of Torture provides assistance to victims and their families."
+        "1": "National Sunglasses Day is celebrated to highlight the importance of wearing UV-protective eyewear.",
+        "2": "Sunglasses can block up to 99% of UVA and UVB rays.",
+        "3": "The Vision Council started promoting National Sunglasses Day to educate the public about eye health."
       }
     },
-    "Madagascar Independence Day": {
-      "title": "Madagascar Independence Day",
+    {
+      "title": "Helen Keller Day",
       "image": "img3.png",
       "facts": {
-        "1": "Celebrates Madagascar's independence from France in 1960.",
-        "2": "The day is marked with parades, cultural events, and fireworks.",
-        "3": "Madagascar is known for its unique biodiversity, with many species found nowhere else on Earth."
+        "1": "Helen Keller Day commemorates the birth of Helen Keller on June 27, 1880.",
+        "2": "Helen Keller was the first deaf-blind person to earn a Bachelor of Arts degree.",
+        "3": "The day celebrates her achievements and advocacy for people with disabilities."
       }
     }
-  }
+  ]
 }
