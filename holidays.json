@@ -1,30 +1,30 @@
 {
     "date": "28.06",
     "Day 1": {
-        "title": "United Nations International Day in Support of Victims of Torture",
+        "title": "Vidovdan (St. Vitus Day)",
         "image": "img1.png",
         "facts": {
-            "1": "Speaks out against the crime of torture.",
-            "2": "Established in 1997 by the United Nations General Assembly.",
-            "3": "Reaffirms the commitment to eradicating torture and protecting human rights."
+            "1": "Vidovdan is a Serbian national and religious holiday celebrated on June 28th. It's one of the most important days in Serbian history, commemorated as the day when the Battle of Kosovo was fought in 1389.",
+            "2": "It holds great significance in Serbian culture and history because it symbolizes the sacrifice for freedom and the homeland, as many Serbian leaders make important decisions or meet their fate on this day.",
+            "3": "Vidovdan was officially recognized as a memorial day in the Kingdom of Serbia in 1889, on the 500th anniversary of the Battle of Kosovo."
         }
     },
     "Day 2": {
-        "title": "Vidovdan",
+        "title": "Stonewall Riots Anniversary",
         "image": "img2.png",
         "facts": {
-            "1": "Serbian national and religious holiday.",
-            "2": "Commemorates the Battle of Kosovo in 1389.",
-            "3": "Day of remembrance for Serbian heroes."
+            "1": "The Stonewall Riots began on June 28th, 1969, marking a pivotal event in the fight for LGBT rights in the United States and leading to the modern gay rights movement.",
+            "2": "The riots took place at the Stonewall Inn in New York City after police raided the establishment, leading to a series of spontaneous demonstrations against the police's discriminatory actions.",
+            "3": "June is commemorated as Pride Month in honor of the Stonewall Riots, and it is often associated with pride parades and other events celebrating LGBT culture and activism."
         }
     },
     "Day 3": {
-        "title": "Paul Bunyan Day",
+        "title": "Constitution Day in Ukraine",
         "image": "img3.png",
         "facts": {
-            "1": "Celebrates the legendary lumberjack Paul Bunyan.",
-            "2": "Originated in the oral traditions of North American loggers.",
-            "3": "Tales include creating landmarks such as the Great Lakes."
+            "1": "Constitution Day is a Ukrainian public holiday celebrated on June 28th that marks the date in 1996 when the Ukrainian parliament adopted its current Constitution.",
+            "2": "The Constitution of Ukraine was ratified after a heated overnight parliamentary session known as the 'constitutional night of 1996.'",
+            "3": "This day is of great importance to Ukraine's national identity, signifying the country's commitment to democracy and independence, especially viewed in the context of its history and relationship with neighboring countries."
         }
     }
 }
