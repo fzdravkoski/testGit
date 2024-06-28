@@ -1,30 +1,30 @@
 {
     "date": "28.06",
     "Day 1": {
-        "title": "Vidovdan",
+        "title": "Day 1",
         "image": "img1.png",
         "facts": {
-            "1": "Vidovdan is one of the most important Serbian holidays, commemorated on June 28 each year.",
-            "2": "It marks important historical events for Serbs, including the Battle of Kosovo in 1389.",
-            "3": "St. Vitus is a Christian saint, and Vidovdan is recognized in his honor, holding both religious and national significance."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     },
     "Day 2": {
-        "title": "Stonewall Riots Anniversary",
+        "title": "Day 2",
         "image": "img2.png",
         "facts": {
-            "1": "June 28 marks the anniversary of the Stonewall riots, which began in 1969 at the Stonewall Inn in New York City's Greenwich Village.",
-            "2": "The event is considered the catalyst for the modern LGBTQ+ rights movement.",
-            "3": "Pride Month is celebrated in June to honor the Stonewall riots and promote equal justice and opportunity for LGBTQ+ individuals."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     },
     "Day 3": {
-        "title": "Constitution Day in Ukraine",
+        "title": "Day 3",
         "image": "img3.png",
         "facts": {
-            "1": "Constitution Day in Ukraine is celebrated on June 28 to commemorate the adoption of the Constitution of Ukraine in 1996.",
-            "2": "It is a national holiday that features patriotic concerts, educational events, and exhibitions.",
-            "3": "The Constitution of Ukraine was the first full codification of the rights and obligations of citizens and all state authorities."
+            "1": "Fact 1: This is a random fact.",
+            "2": "Fact 2: Another random fact goes here.",
+            "3": "Fact 3: Yet another random fact."
         }
     }
 }
