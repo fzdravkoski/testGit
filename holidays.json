@@ -1,30 +1,30 @@
 {
-    "date": "28.06",
+    "date": "23.10",
     "Day 1": {
-        "title": "Vidovdan (St. Vitus Day)",
+        "title": "Day of the Hungarian Republic",
         "image": "img1.png",
         "facts": {
-            "1": "Vidovdan is a Serbian national and religious holiday celebrated on June 28th. It's one of the most important days in Serbian history, commemorated as the day when the Battle of Kosovo was fought in 1389.",
-            "2": "It holds great significance in Serbian culture and history because it symbolizes the sacrifice for freedom and the homeland, as many Serbian leaders make important decisions or meet their fate on this day.",
-            "3": "Vidovdan was officially recognized as a memorial day in the Kingdom of Serbia in 1889, on the 500th anniversary of the Battle of Kosovo."
+            "1": "It commemorates the day in 1989 when Hungary became a republic, following the end of communist rule.",
+            "2": "This day marks the anniversary of the proclamation of the Republic of Hungary, which occurred on October 23, 1989.",
+            "3": "The national day is celebrated with various ceremonies and public events, including speeches by political leaders, and the Hungarian flag is prominently displayed across the country."
         }
     },
     "Day 2": {
-        "title": "Stonewall Riots Anniversary",
+        "title": "Chulalongkorn Day",
         "image": "img2.png",
         "facts": {
-            "1": "The Stonewall Riots began on June 28th, 1969, marking a pivotal event in the fight for LGBT rights in the United States and leading to the modern gay rights movement.",
-            "2": "The riots took place at the Stonewall Inn in New York City after police raided the establishment, leading to a series of spontaneous demonstrations against the police's discriminatory actions.",
-            "3": "June is commemorated as Pride Month in honor of the Stonewall Riots, and it is often associated with pride parades and other events celebrating LGBT culture and activism."
+            "1": "Chulalongkorn Day is a national holiday in Thailand to commemorate King Chulalongkorn, also known as King Rama V.",
+            "2": "King Chulalongkorn is credited with modernizing Thailand in the late 19th and early 20th centuries and preventing the colonization of the country.",
+            "3": "It is customary on this day for Thai people to lay wreaths at the equestrian statue of the king in Bangkok and at his monuments across the country."
         }
     },
     "Day 3": {
-        "title": "Constitution Day in Ukraine",
+        "title": "National Day",
         "image": "img3.png",
         "facts": {
-            "1": "Constitution Day is a Ukrainian public holiday celebrated on June 28th that marks the date in 1996 when the Ukrainian parliament adopted its current Constitution.",
-            "2": "The Constitution of Ukraine was ratified after a heated overnight parliamentary session known as the 'constitutional night of 1996.'",
-            "3": "This day is of great importance to Ukraine's national identity, signifying the country's commitment to democracy and independence, especially viewed in the context of its history and relationship with neighboring countries."
+            "1": "Libya's National Day falls on October 23rd, marking the country's liberation from Moammar Gadhafi's rule in 2011.",
+            "2": "The day signifies the end of the First Libyan Civil War following Gadhafi's capture and the country's subsequent declaration of liberation.",
+            "3": "Celebrations in Libya often include public gatherings, fireworks, concerts, and the display of the national flag to commemorate the day of liberation."
         }
     }
 }
