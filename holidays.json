@@ -1,0 +1,30 @@
+{
+    "date": "28.06",
+    "Day 1": {
+        "title": "Vidovdan (St. Vitus Day)",
+        "image": "img1.png",
+        "facts": {
+            "1": "Vidovdan is a significant day in Serbian history, commemorating the Battle of Kosovo in 1389, where the Ottoman Empire fought against the Serbian army.",
+            "2": "It is regarded as a day of sacrifice and commitment in Serbia, with St. Vitus recognized as the patron saint of those wronged under the Ottoman rule.",
+            "3": "Vidovdan is not a public holiday, but it holds substantial cultural and historical significance among the Serbian people, often involving religious ceremonies and cultural events."
+        }
+    },
+    "Day 2": {
+        "title": "Pozna\u0144 Remembrance Day",
+        "image": "img2.png",
+        "facts": {
+            "1": "This day commemorates the Pozna\u0144 June 1956 protests against the communist regime in Poland, which were one of the first signs of resistance behind the Iron Curtain.",
+            "2": "The protests began as a peaceful workers' demonstration but escalated into violent clashes with the army and security Forces, leading to deaths and injuries.",
+            "3": "Pozna\u0144 Remembrance Day serves as a reminder of the sacrifices made for freedom and democracy in Poland, and events include laying wreaths, speeches, and remembrance ceremonies."
+        }
+    },
+    "Day 3": {
+        "title": "National Paul Bunyan Day (United States)",
+        "image": "img3.png",
+        "facts": {
+            "1": "Paul Bunyan Day celebrates the legendary American folklore figure, Paul Bunyan, known for his superhuman logging feats.",
+            "2": "Paul Bunyan is often accompanied by his giant blue ox, Babe, and their stories represent the logging culture and traditions of the American Northwoods.",
+            "3": "The holiday is often marked with playful activities, including lumberjack competitions, storytelling events, and communal gatherings with thematic food and crafts."
+        }
+    }
+}
