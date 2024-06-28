@@ -1,30 +1,30 @@
 {
     "date": "28.06",
     "Day 1": {
-        "title": "Vidovdan (St. Vitus Day)",
+        "title": "United Nations International Day in Support of Victims of Torture",
         "image": "img1.png",
         "facts": {
-            "1": "Vidovdan is a Serbian national and religious holiday celebrated on June 28th, and it is one of the most important days in Serbian history.",
-            "2": "It is associated with the commemoration of the Battle of Kosovo in 1389, where Prince Lazar was captured and subsequently beheaded by the Ottoman Empire.",
-            "3": "Vidovdan was codified in the Serbian constitution under Article 150 related to the territory of Kosovo, reflecting its historical and national significance."
+            "1": "Speaks out against the crime of torture.",
+            "2": "Established in 1997 by the United Nations General Assembly.",
+            "3": "Reaffirms the commitment to eradicating torture and protecting human rights."
         }
     },
     "Day 2": {
-        "title": "Family Day (United States)",
+        "title": "Vidovdan",
         "image": "img2.png",
         "facts": {
-            "1": "Family Day is a day that promotes awareness about the importance of a healthy and strong family relationship. Various communities hold picnics, sporting events, and children\u2019s activities.",
-            "2": "The day is aimed at encouraging families to take time off from work and engage in fun activities to strengthen familial bonds.",
-            "3": "Although not a federal holiday, the day is widely observed in parts of the United States with community-led initiatives and events."
+            "1": "Serbian national and religious holiday.",
+            "2": "Commemorates the Battle of Kosovo in 1389.",
+            "3": "Day of remembrance for Serbian heroes."
         }
     },
     "Day 3": {
-        "title": "Constitution Day (Ukraine)",
+        "title": "Paul Bunyan Day",
         "image": "img3.png",
         "facts": {
-            "1": "Constitution Day in Ukraine is a national holiday celebrated on June 28th to commemorate the date when the Ukrainian constitution was approved in 1996.",
-            "2": "It was the first constitution to be adopted by independent Ukraine, outlining the country's basic law structure and the rights and duties of its citizens and government.",
-            "3": "The holiday is marked by a variety of public events, including parades, concerts, and fireworks, alongside reflective activities related to democratic values and national solidarity."
+            "1": "Celebrates the legendary lumberjack Paul Bunyan.",
+            "2": "Originated in the oral traditions of North American loggers.",
+            "3": "Tales include creating landmarks such as the Great Lakes."
         }
     }
 }
