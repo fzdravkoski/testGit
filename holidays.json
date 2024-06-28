@@ -1,30 +1,30 @@
 {
-    "date": "23.10",
+    "date": "28.06",
     "Day 1": {
-        "title": "Day of the Hungarian Republic",
+        "title": "Vidovdan (St. Vitus Day)",
         "image": "img1.png",
         "facts": {
-            "1": "It commemorates the day in 1989 when Hungary became a republic, following the end of communist rule.",
-            "2": "This day marks the anniversary of the proclamation of the Republic of Hungary, which occurred on October 23, 1989.",
-            "3": "The national day is celebrated with various ceremonies and public events, including speeches by political leaders, and the Hungarian flag is prominently displayed across the country."
+            "1": "Vidovdan is a significant day in Serbian history, commemorating the Battle of Kosovo in 1389, where the Ottoman Empire fought against the Serbian army.",
+            "2": "It is regarded as a day of sacrifice and commitment in Serbia, with St. Vitus recognized as the patron saint of those wronged under the Ottoman rule.",
+            "3": "Vidovdan is not a public holiday, but it holds substantial cultural and historical significance among the Serbian people, often involving religious ceremonies and cultural events."
         }
     },
     "Day 2": {
-        "title": "Chulalongkorn Day",
+        "title": "Pozna\u0144 Remembrance Day",
         "image": "img2.png",
         "facts": {
-            "1": "Chulalongkorn Day is a national holiday in Thailand to commemorate King Chulalongkorn, also known as King Rama V.",
-            "2": "King Chulalongkorn is credited with modernizing Thailand in the late 19th and early 20th centuries and preventing the colonization of the country.",
-            "3": "It is customary on this day for Thai people to lay wreaths at the equestrian statue of the king in Bangkok and at his monuments across the country."
+            "1": "This day commemorates the Pozna\u0144 June 1956 protests against the communist regime in Poland, which were one of the first signs of resistance behind the Iron Curtain.",
+            "2": "The protests began as a peaceful workers' demonstration but escalated into violent clashes with the army and security forces, leading to deaths and injuries.",
+            "3": "Pozna\u0144 Remembrance Day serves as a reminder of the sacrifices made for freedom and democracy in Poland, and events include laying wreaths, speeches, and remembrance ceremonies."
         }
     },
     "Day 3": {
-        "title": "National Day",
+        "title": "National Paul Bunyan Day (United States)",
         "image": "img3.png",
         "facts": {
-            "1": "Libya's National Day falls on October 23rd, marking the country's liberation from Moammar Gadhafi's rule in 2011.",
-            "2": "The day signifies the end of the First Libyan Civil War following Gadhafi's capture and the country's subsequent declaration of liberation.",
-            "3": "Celebrations in Libya often include public gatherings, fireworks, concerts, and the display of the national flag to commemorate the day of liberation."
+            "1": "Paul Bunyan Day celebrates the legendary American folklore figure, Paul Bunyan, known for his superhuman logging feats.",
+            "2": "Paul Bunyan is often accompanied by his giant blue ox, Babe, and their stories represent the logging culture and traditions of the American Northwoods.",
+            "3": "The holiday is often marked with playful activities, including lumberjack competitions, storytelling events, and communal gatherings with thematic food and crafts."
         }
     }
 }
