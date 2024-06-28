@@ -1,1 +1,30 @@
-{}
+{
+    "date": "06-28",
+    "Day 1": {
+        "title": "Vidovdan (St. Vitus' Day)",
+        "image": "2baf58fe-f42e-4632-9b6a-7ce0e2db9fb9.png",
+        "facts": {
+            "1": "Vidovdan is a Serbian national and religious holiday celebrated on June 28th, significant for its historical importance to Serbia.",
+            "2": "On this day in 1389, the Battle of Kosovo took place, which is commemorated by Serbian people as a symbol of patriotism.",
+            "3": "Vidovdan is also important in the Serbian Orthodox Church calendar, marking the martyrdom of St. Prince Lazar and the Holy Serbian Martyrs."
+        }
+    },
+    "Day 2": {
+        "title": "Constitution Day in Ukraine",
+        "image": "c198db50-d43b-41fe-8475-62d59d0606cc.png",
+        "facts": {
+            "1": "June 28th is celebrated in Ukraine as Constitution Day, commemorating the adoption of the Constitution of Ukraine in 1996.",
+            "2": "This day is a public holiday in Ukraine, and it is marked by various festivities including concerts, fireworks, and official government ceremonies.",
+            "3": "The Constitution of 1996 was Ukraine's first constitution after its independence from the Soviet Union."
+        }
+    },
+    "Day 3": {
+        "title": "Family Day in Vietnam",
+        "image": "a624524e-e04c-43b.3-ae4a-07778f398cc7.png",
+        "facts": {
+            "1": "Family Day is observed in Vietnam on June 28th to honor the importance of families and promote family values.",
+            "2": "Activities on Family Day often include family reunions, sharing meals, and participating in community events focused on strengthening family ties.",
+            "3": "The holiday reflects Vietnamese culture's emphasis on family as the foundation of society."
+        }
+    }
+}
