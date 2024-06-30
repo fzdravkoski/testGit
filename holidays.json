@@ -1,30 +1,30 @@
 {
-    "date": "29.06",
+    "date": "30.06",
     "Day 1": {
-        "title": "Feast of Saints Peter and Paul",
+        "title": "International Asteroid Day",
         "image": "img1.png",
         "facts": {
-            "1": "The feast day commemorates the martyrdom of the apostles Saint Peter and Saint Paul.",
-            "2": "It is a liturgical feast in honor of the lifetime achievements of Saint Peter and Saint Paul.",
-            "3": "The holiday is widely observed with mass, prayer, and feasts in Catholic and some Protestant nations."
+            "1": "International Asteroid Day is observed annually on June 30th to raise public awareness about the potential threat of asteroid impacts and the importance of crisis communication actions to be taken at the global level.",
+            "2": "The date was chosen to commemorate the Tunguska impact over Siberia, Russian Federation, on June 30, 1908, which was the Earth's largest asteroid impact in recorded history.",
+            "3": "The United Nations General Assembly adopted the day in December 2016, recognizing the efforts of the Association of Space Explorers, who initiated the observance."
         }
     },
     "Day 2": {
-        "title": "Independence Day (Seychelles)",
+        "title": "World Social Media Day",
         "image": "img2.png",
         "facts": {
-            "1": "This day marks Seychelles' independence from British rule in 1976.",
-            "2": "Celebrated with vibrant parades, cultural performances, and fireworks.",
-            "3": "National awards and honors are bestowed on citizens."
+            "1": "World Social Media Day was established by the media company Mashable on June 30, 2010, with the aim to recognize the impact of social media on global communication.",
+            "2": "It's a day to celebrate the way in which social media has democratized information and brought people closer together.",
+            "3": "The day encourages people to explore and learn about the ever-evolving landscape of social media platforms and to use social media to promote positive changes."
         }
     },
     "Day 3": {
-        "title": "Engineer's Day (Ecuador)",
+        "title": "Philippine\u2013Spanish Friendship Day",
         "image": "img3.png",
         "facts": {
-            "1": "Professionals are recognized for their contributions to the development of the country.",
-            "2": "Engineering students and professionals gather for events.",
-            "3": "Activities highlight the importance of technological and engineering innovation."
+            "1": "This day marks the cultural and historical bonds between the Philippines and Spain and commemorates the \"Siege of Baler,\" where the last Spanish soldiers surrendered to Filipino forces, which is seen as a symbol of friendship.",
+            "2": "It is an official holiday in the Philippines, enacted by President Gloria Macapagal-Arroyo in 2003 to strengthen the relationship between the two nations.",
+            "3": "Philippine\u2013Spanish Friendship Day activities often include cultural presentations, historical exhibitions, and educational programs that highlight the rich common heritage shared by Spain and the Philippines."
         }
     }
 }
