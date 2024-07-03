@@ -4,27 +4,27 @@
         "title": "Independence Day (Belarus)",
         "image": "img1.png",
         "facts": {
-            "1": "Independence Day of Belarus, also celebrated as Republic Day, marks the liberation of Minsk from Nazi occupation in 1944.",
-            "2": "This day is celebrated with a military parade and fireworks.",
-            "3": "It has been a national holiday since 1996, replacing the previous independence day that was celebrated on July 27."
+            "1": "It commemorates the liberation of Minsk from Nazi occupation in 1944.",
+            "2": "Although the actual Independence Day of Belarus is on July 27, Independence Day celebrations are held on July 3rd.",
+            "3": "The day is celebrated with military parades, fireworks, concerts, and various cultural events across the country."
         }
     },
     "Day 2": {
         "title": "National Fried Clam Day (United States)",
         "image": "img2.png",
         "facts": {
-            "1": "National Fried Clam Day celebrates a beloved New England dish in the United States.",
-            "2": "Fried clams were first introduced by Lawrence Henry \"Chubby\" Woodman in 1916.",
-            "3": "The holiday is not federally recognized but enjoyed among seafood enthusiasts."
+            "1": "The holiday celebrates the iconic breaded and deep-fried shellfish treat popular in the New England region.",
+            "2": "The creation of fried clams is attributed to Lawrence Henry \"Chubby\" Woodman from Essex, Massachusetts in 1916.",
+            "3": "Fried clam festivals and special menu offerings at seafood restaurants mark the occasion."
         }
     },
     "Day 3": {
-        "title": "The Start of Naadam Festival (Mongolia)",
+        "title": "International Plastic Bag Free Day",
         "image": "img3.png",
         "facts": {
-            "1": "Naadam is a traditional festival in Mongolia which starts on July 3rd, but the main events are held from the 11th to the 13th of July.",
-            "2": "Naadam officially commemorates the 1921 Revolution when Mongolia declared itself a free country.",
-            "3": "The three main sports of Naadam are Mongolian wrestling, horse racing, and archery."
+            "1": "Part of the \"Break Free From Plastic\" movement, this day aims to highlight the environmental impact of single-use plastic bags.",
+            "2": "The day encourages people and businesses worldwide to adopt reusable bags and sustainable packaging solutions.",
+            "3": "Activities on this day include educational campaigns, clean-up operations, and workshops on alternatives to plastic bags."
         }
     }
 }
