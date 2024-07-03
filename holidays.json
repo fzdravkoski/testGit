@@ -1,30 +1,30 @@
 {
     "date": "03.07",
     "Day 1": {
-        "title": "Independence Day (Belarus)",
+        "title": "Belarus Independence Day",
         "image": "img1.png",
         "facts": {
-            "1": "It commemorates the liberation of Minsk from Nazi occupation in 1944.",
-            "2": "Although the actual Independence Day of Belarus is on July 27, Independence Day celebrations are held on July 3rd.",
-            "3": "The day is celebrated with military parades, fireworks, concerts, and various cultural events across the country."
+            "1": "Belarus Independence Day is a public holiday in Belarus, celebrating the liberation of Minsk from Nazi occupation in 1944.",
+            "2": "The date is also officially known as the day of the Republic of Belarus.",
+            "3": "The main events are usually a military parade and fireworks in the capital, Minsk."
         }
     },
     "Day 2": {
-        "title": "National Fried Clam Day (United States)",
+        "title": "The start of the Battle of Gettysburg",
         "image": "img2.png",
         "facts": {
-            "1": "The holiday celebrates the iconic breaded and deep-fried shellfish treat popular in the New England region.",
-            "2": "The creation of fried clams is attributed to Lawrence Henry \"Chubby\" Woodman from Essex, Massachusetts in 1916.",
-            "3": "Fried clam festivals and special menu offerings at seafood restaurants mark the occasion."
+            "1": "The Battle of Gettysburg was a turning point in the American Civil War. It began on July 3, 1863.",
+            "2": "It is known for being the battle with the largest number of casualties in the Civil War and is often described as the war's turning point.",
+            "3": "Gettysburg is also renowned for President Abraham Lincoln's famous Gettysburg Address, delivered four and a half months after the battle."
         }
     },
     "Day 3": {
-        "title": "International Plastic Bag Free Day",
+        "title": "National Fried Clam Day",
         "image": "img3.png",
         "facts": {
-            "1": "Part of the \"Break Free From Plastic\" movement, this day aims to highlight the environmental impact of single-use plastic bags.",
-            "2": "The day encourages people and businesses worldwide to adopt reusable bags and sustainable packaging solutions.",
-            "3": "Activities on this day include educational campaigns, clean-up operations, and workshops on alternatives to plastic bags."
+            "1": "National Fried Clam Week is an informal food holiday celebrated in the United States on July 3rd.",
+            "2": "The holiday commemorates the moment when Lawrence Henry \"Chubby\" Woodman fried the first clams in Essex, Massachusetts, in 1916.",
+            "3": "Clam shacks and seafood restaurants often have special offers on this day."
         }
     }
 }
