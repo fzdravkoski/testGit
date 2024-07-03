@@ -1,30 +1,30 @@
 {
-    "date": "30.06",
+    "date": "03.07",
     "Day 1": {
-        "title": "International Asteroid Day",
+        "title": "Independence Day (Belarus)",
         "image": "img1.png",
         "facts": {
-            "1": "International Asteroid Day is observed annually on June 30th to raise public awareness about the potential threat of asteroid impacts and the importance of crisis communication actions to be taken at the global level.",
-            "2": "The date was chosen to commemorate the Tunguska impact over Siberia, Russian Federation, on June 30, 1908, which was the Earth's largest asteroid impact in recorded history.",
-            "3": "The United Nations General Assembly adopted the day in December 2016, recognizing the efforts of the Association of Space Explorers, who initiated the observance."
+            "1": "Independence Day of Belarus, also celebrated as Republic Day, marks the liberation of Minsk from Nazi occupation in 1944.",
+            "2": "This day is celebrated with a military parade and fireworks.",
+            "3": "It has been a national holiday since 1996, replacing the previous independence day that was celebrated on July 27."
         }
     },
     "Day 2": {
-        "title": "World Social Media Day",
+        "title": "National Fried Clam Day (United States)",
         "image": "img2.png",
         "facts": {
-            "1": "World Social Media Day was established by the media company Mashable on June 30, 2010, with the aim to recognize the impact of social media on global communication.",
-            "2": "It's a day to celebrate the way in which social media has democratized information and brought people closer together.",
-            "3": "The day encourages people to explore and learn about the ever-evolving landscape of social media platforms and to use social media to promote positive changes."
+            "1": "National Fried Clam Day celebrates a beloved New England dish in the United States.",
+            "2": "Fried clams were first introduced by Lawrence Henry \"Chubby\" Woodman in 1916.",
+            "3": "The holiday is not federally recognized but enjoyed among seafood enthusiasts."
         }
     },
     "Day 3": {
-        "title": "Philippine\u2013Spanish Friendship Day",
+        "title": "The Start of Naadam Festival (Mongolia)",
         "image": "img3.png",
         "facts": {
-            "1": "This day marks the cultural and historical bonds between the Philippines and Spain and commemorates the \"Siege of Baler,\" where the last Spanish soldiers surrendered to Filipino forces, which is seen as a symbol of friendship.",
-            "2": "It is an official holiday in the Philippines, enacted by President Gloria Macapagal-Arroyo in 2003 to strengthen the relationship between the two nations.",
-            "3": "Philippine\u2013Spanish Friendship Day activities often include cultural presentations, historical exhibitions, and educational programs that highlight the rich common heritage shared by Spain and the Philippines."
+            "1": "Naadam is a traditional festival in Mongolia which starts on July 3rd, but the main events are held from the 11th to the 13th of July.",
+            "2": "Naadam officially commemorates the 1921 Revolution when Mongolia declared itself a free country.",
+            "3": "The three main sports of Naadam are Mongolian wrestling, horse racing, and archery."
         }
     }
 }
