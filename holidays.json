@@ -1,30 +1,30 @@
 {
-    "date": "04.07",
+    "date": "05.07",
     "Day 1": {
-        "title": "Independence Day",
+        "title": "National Bikini Day",
         "image": "img1.png",
         "facts": {
-            "1": "July 4th marks the anniversary of the adoption of the Declaration of Independence in 1776.",
-            "2": "The first celebrations included bonfires, parades, and the firing of cannons and muskets, accompanied by public readings of the Declaration of Independence.",
-            "3": "It became a federal holiday in 1870 and is often celebrated with fireworks, picnics, and barbecues."
+            "1": "National Bikini Day marks the anniversary of the invention of the bikini by French designer Louis R\u00e9ard in 1946.",
+            "2": "The bikini was named after the Bikini Atoll, where the United States conducted atomic tests, signifying its explosive impact on fashion.",
+            "3": "The original bikini was made of just 30 inches of fabric and was considered very revealing for its time."
         }
     },
     "Day 2": {
-        "title": "Kupala Night",
+        "title": "Venezuela Independence Day",
         "image": "img2.png",
         "facts": {
-            "1": "Kupala Night is an ancient pagan Slavic holiday associated with the summer solstice.",
-            "2": "The celebration involves symbolic rituals such as jumping over bonfires and floating wreaths on rivers.",
-            "3": "In many Slavic countries, it is believed that this night is a magical time when the veil between the physical and spiritual worlds is the thinnest."
+            "1": "Venezuela Independence Day commemorates the country's independence from Spanish rule, which was declared on July 5, 1811.",
+            "2": "Venezuela was the first Spanish-American colony to declare independence.",
+            "3": "The independence of Venezuela was achieved under the leadership of Sim\u00f3n Bol\u00edvar, who is known as 'El Libertador' (The Liberator)."
         }
     },
     "Day 3": {
-        "title": "Liberation Day",
+        "title": "Tynwald Day (Isle of Man)",
         "image": "img3.png",
         "facts": {
-            "1": "Rwanda observes Liberation Day on July 4th to commemorate the end of the genocide in 1994.",
-            "2": "The day is a national holiday in Rwanda, marking the victory of the Rwandan Patriotic Front (RPF).",
-            "3": "It's a day of remembrance and gratitude for the progress that has been made in rebuilding the nation since the atrocities."
+            "1": "Tynwald Day is the National Day of the Isle of Man, celebrating the island's Viking heritage and parliamentary tradition.",
+            "2": "On Tynwald Day, the laws enacted by the Isle of Man's parliament, Tynwald, are promulgated in both Manx and English.",
+            "3": "Tynwald is the oldest continuous parliament in the world, dating back to over 1000 years."
         }
     }
 }
