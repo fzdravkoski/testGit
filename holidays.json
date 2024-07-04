@@ -1,30 +1,30 @@
 {
-    "date": "03.07",
+    "date": "04.07",
     "Day 1": {
-        "title": "Tanabata (Japan)",
+        "title": "Independence Day (United States)",
         "image": "img1.png",
         "facts": {
-            "1": "Tanabata, also known as the Star Festival, is celebrated to commemorate the romantic story of two lovers represented by the stars Vega and Altair who are only allowed to meet once a year on this day.",
-            "2": "People often write their wishes on tanzaku papers and hang them on bamboo branches, hoping their wishes come true.",
-            "3": "The festival originates from a Chinese legend and was introduced to Japan in the 8th century."
+            "1": "The United States celebrates Independence Day to mark the anniversary of the publication of the declaration of independence from Great Britain in 1776.",
+            "2": "The day is heavily associated with patriotic displays, including the use of the American flag, fireworks, parades, barbecues, carnivals, fairs, picnics, and concerts.",
+            "3": "Two of the Founding Fathers who signed the Declaration of Independence, John Adams and Thomas Jefferson, both later served as Presidents of the United States and died on the Fourth of July."
         }
     },
     "Day 2": {
-        "title": "Independence Day (Belarus)",
+        "title": "Liberation Day (Rwanda)",
         "image": "img2.png",
         "facts": {
-            "1": "Independence Day in Belarus, also known as the Republic Day, commemorates the liberation of Minsk from Nazi occupation in 1944.",
-            "2": "This day is celebrated with military parades, fireworks, concerts, and exhibitions throughout the country.",
-            "3": "Although Belarus declared independence from the Soviet Union on August 25, 1991, the country celebrates its national independence on July 3rd, marking the liberation day instead."
+            "1": "Rwanda commemorates Liberation Day on July 4th to mark the end of the 1994 genocide where the Rwandan Patriotic Front (RPF) captured Kigali.",
+            "2": "The day is a reminder of the country's commitment to peace and the ongoing process of reconciliation and national recovery.",
+            "3": "While it is a public holiday, it is also a time for reflection on the country's dark past and the strides it has made in governance and growth."
         }
     },
     "Day 3": {
-        "title": "St. Thomas' Day (Western Christianity)",
+        "title": "Republic Day (Philippines)",
         "image": "img3.png",
         "facts": {
-            "1": "This day is dedicated to Saint Thomas the Apostle, who is known for doubting Jesus' resurrection until he could see and touch Jesus' wounds after his crucifixion.",
-            "2": "The feast day of St. Thomas was traditionally celebrated on December 21, but it was moved to July 3rd in the Roman Catholic Church after the Second Vatican Council to be closer to the date of his martyrdom according to the liturgical calendar.",
-            "3": "St. Thomas is believed to have traveled to India to spread Christianity and was martyred there, and as such, the St. Thomas' Day is of special significance in India among Christian communities."
+            "1": "Republic Day, also known as Philippine Republic Day, commemorates the establishment of the Republic of the Philippines, the day after the U.S. recognized Philippine independence on July 4, 1946.",
+            "2": "This holiday was previously a regular holiday in the Philippines until 1962, after which the date of Philippine independence was moved to June 12, the day President Emilio Aguinaldo declared independence from Spain in 1898.",
+            "3": "Filipino communities and diplomatic missions overseas occasionally observe Republic Day to honor Philippine history and sovereignty."
         }
     }
 }
