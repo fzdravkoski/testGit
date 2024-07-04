@@ -4,27 +4,27 @@
         "title": "Independence Day (United States)",
         "image": "img1.png",
         "facts": {
-            "1": "The United States celebrates Independence Day to mark the anniversary of the publication of the declaration of independence from Great Britain in 1776.",
-            "2": "The day is heavily associated with patriotic displays, including the use of the American flag, fireworks, parades, barbecues, carnivals, fairs, picnics, and concerts.",
-            "3": "Two of the Founding Fathers who signed the Declaration of Independence, John Adams and Thomas Jefferson, both later served as Presidents of the United States and died on the Fourth of July."
+            "1": "July 4th, 1776 - The United States celebrates Independence Day to mark the anniversary of the publication of the declaration of independence from Great Britain in 1776.",
+            "2": "National Symbolism - The day is heavily associated with patriotic displays, including the use of the American flag, fireworks, parades, barbecues, carnivals, fairs, picnics, and concerts.",
+            "3": "Historical Relevance - Two of the Founding Fathers who signed the Declaration of Independence, John Adams and Thomas Jefferson, both later served as Presidents of the United States and died on the Fourth of July."
         }
     },
     "Day 2": {
         "title": "Liberation Day (Rwanda)",
         "image": "img2.png",
         "facts": {
-            "1": "Rwanda commemorates Liberation Day on July 4th to mark the end of the 1994 genocide where the Rwandan Patriotic Front (RPF) captured Kigali.",
-            "2": "The day is a reminder of the country's commitment to peace and the ongoing process of reconciliation and national recovery.",
-            "3": "While it is a public holiday, it is also a time for reflection on the country's dark past and the strides it has made in governance and growth."
+            "1": "Liberation Process - Rwanda commemorates Liberation Day on July 4th to mark the end of the 1994 genocide where the Rwandan Patriotic Front (RPF) captured Kigali.",
+            "2": "Reconciliation and Progress - The day is a reminder of the country's commitment to peace and the ongoing process of reconciliation and national recovery.",
+            "3": "Reflection - While it is a public holiday, it is also a time for reflection on the country's dark past and the strides it has made in governance and growth."
         }
     },
     "Day 3": {
         "title": "Republic Day (Philippines)",
         "image": "img3.png",
         "facts": {
-            "1": "Republic Day, also known as Philippine Republic Day, commemorates the establishment of the Republic of the Philippines, the day after the U.S. recognized Philippine independence on July 4, 1946.",
-            "2": "This holiday was previously a regular holiday in the Philippines until 1962, after which the date of Philippine independence was moved to June 12, the day President Emilio Aguinaldo declared independence from Spain in 1898.",
-            "3": "Filipino communities and diplomatic missions overseas occasionally observe Republic Day to honor Philippine history and sovereignty."
+            "1": "Historical Significance - Republic Day, also known as Philippine Republic Day, commemorates the establishment of the Republic of the Philippines, the day after the U.S. recognized Philippine independence on July 4, 1946.",
+            "2": "Former Observance - This holiday was previously a regular holiday in the Philippines until 1962, after which the date of Philippine independence was moved to June 12, the day President Emilio Aguinaldo declared independence from Spain in 1898.",
+            "3": "Remembrance of Sovereignty - Filipino communities and diplomatic missions overseas occasionally observe Republic Day to honor Philippine history and sovereignty."
         }
     }
 }
