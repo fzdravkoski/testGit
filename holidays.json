@@ -1,30 +1,30 @@
 {
     "date": "05.07",
     "Day 1": {
-        "title": "National Bikini Day",
+        "title": "National Workaholics Day",
         "image": "img1.png",
         "facts": {
-            "1": "National Bikini Day marks the anniversary of the invention of the bikini by French designer Louis R\u00e9ard in 1946.",
-            "2": "The bikini was named after the Bikini Atoll, where the United States conducted atomic tests, signifying its explosive impact on fashion.",
-            "3": "The original bikini was made of just 30 inches of fabric and was considered very revealing for its time."
+            "1": "National Workaholics Day is observed to recognize the dedication of workaholics and the impact their work habits can have on their health and relationships.",
+            "2": "There is no formal recognition by the government, but it has been adopted by various organizations to promote a healthier work-life balance.",
+            "3": "This day serves as a reminder to the workaholics to take a break and consider the importance of leisure time and personal life."
         }
     },
     "Day 2": {
-        "title": "Venezuela Independence Day",
+        "title": "Constitution Day",
         "image": "img2.png",
         "facts": {
-            "1": "Venezuela Independence Day commemorates the country's independence from Spanish rule, which was declared on July 5, 1811.",
-            "2": "Venezuela was the first Spanish-American colony to declare independence.",
-            "3": "The independence of Venezuela was achieved under the leadership of Sim\u00f3n Bol\u00edvar, who is known as 'El Libertador' (The Liberator)."
+            "1": "Constitution Day in Armenia celebrates the adoption of the nation's constitution on July 5th, 1995, after gaining independence from the Soviet Union.",
+            "2": "It is a national holiday in Armenia, featuring parades, fireworks, concerts, and public ceremonies.",
+            "3": "The Constitution established Armenia as a democratic, sovereign, social, and constitutional state, marking a significant step in the post-Soviet era."
         }
     },
     "Day 3": {
-        "title": "Tynwald Day (Isle of Man)",
+        "jtitle": "Tynwald Day",
         "image": "img3.png",
         "facts": {
-            "1": "Tynwald Day is the National Day of the Isle of Man, celebrating the island's Viking heritage and parliamentary tradition.",
-            "2": "On Tynwald Day, the laws enacted by the Isle of Man's parliament, Tynwald, are promulgated in both Manx and English.",
-            "3": "Tynwald is the oldest continuous parliament in the world, dating back to over 1000 years."
+            "1": "Tynwald Day is the National Day of the Isle of Man, usually observed on July 5th. It is one of the island's bank holidays.",
+            "2": "The day is marked by a ceremonial meeting of the Tynwald, which is the oldest continuous parliamentary body in the world, having started its tradition over 1,000 years ago.",
+            "3": "The open-air Tynwald Day ceremony includes a procession, a fair, and cultural events, representing the island's autonomy and its Norse-Gaelic origins."
         }
     }
 }
