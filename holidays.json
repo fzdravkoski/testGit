@@ -1,30 +1,30 @@
 {
-    "date": "05.07",
+    "date": "06.07",
     "Day 1": {
-        "title": "National Workaholics Day",
+        "title": "International Kissing Day",
         "image": "img1.png",
         "facts": {
-            "1": "National Workaholics Day is observed to recognize the dedication of workaholics and the impact their work habits can have on their health and relationships.",
-            "2": "There is no formal recognition by the government, but it has been adopted by various organizations to promote a healthier work-life balance.",
-            "3": "This day serves as a reminder to the workaholics to take a break and consider the importance of leisure time and personal life."
+            "1": "International Kissing Day started in the United Kingdom and is now celebrated worldwide.",
+            "2": "The day is meant to celebrate the simple act of a kiss and its importance in social bonds.",
+            "3": "Kissing can be a litmus test for a relationship; studies show that the frequency and style of kissing are indicators of relationship satisfaction."
         }
     },
     "Day 2": {
-        "title": "Constitution Day",
+        "title": "Jan Hus Day",
         "image": "img2.png",
         "facts": {
-            "1": "Constitution Day in Armenia celebrates the adoption of the nation's constitution on July 5th, 1995, after gaining independence from the Soviet Union.",
-            "2": "It is a national holiday in Armenia, featuring parades, fireworks, concerts, and public ceremonies.",
-            "3": "The Constitution established Armenia as a democratic, sovereign, social, and constitutional state, marking a significant step in the post-Soviet era."
+            "1": "Jan Hus was a Czech theologian and philosopher who became a church reformer and an inspiration to Protestantism.",
+            "2": "Jan Hus Day is a public holiday in the Czech Republic, commemorating his martyrdom on July 6, 1415.",
+            "3": "Hus is considered a national hero in the Czech Republic, and his death is seen as a symbol of strength against oppressive regimes."
         }
     },
     "Day 3": {
-        "title": "Tynwald Day",
+        "title": "National Fried Chicken Day",
         "image": "img3.png",
         "facts": {
-            "1": "Tynwald Day is the National Day of the Isle of Man, usually observed on July 5th. It is one of the island's bank holidays.",
-            "2": "The day is marked by a ceremonial meeting of the Tynwald, which is the oldest continuous parliamentary body in the world, having started its tradition over 1,000 years ago.",
-            "3": "The open-air Tynwald Day ceremony includes a procession, a fair, and cultural events, representing the island's autonomy and its Norse-Gaelic origins."
+            "1": "National Fried Chicken Day celebrates the American culinary tradition of fried chicken.",
+            "2": "The origins of fried chicken in the USA can be traced back to Scottish immigrants and African slaves.",
+            "3": "Fried chicken has become a staple in American fast-food and is recognized for its crunchy texture and flavorful spices."
         }
     }
 }
