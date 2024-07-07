@@ -1,30 +1,30 @@
 {
-    "date": "06.07",
+    "date": "07.07",
     "Day 1": {
-        "title": "International Kissing Day",
+        "title": "Tanabata",
         "image": "img1.png",
         "facts": {
-            "1": "International Kissing Day started in the United Kingdom and is now celebrated worldwide.",
-            "2": "The day is meant to celebrate the simple act of a kiss and its importance in social bonds.",
-            "3": "Kissing can be a litmus test for a relationship; studies show that the frequency and style of kissing are indicators of relationship satisfaction."
+            "1": "Tanabata, also known as the Star Festival, originates from the Chinese Qixi Festival.",
+            "2": "It celebrates the meeting of the deities Orihime and Hikoboshi (represented by the stars Vega and Altair).",
+            "3": "People in Japan celebrate by writing wishes on tanzaku papers and hanging them on bamboo trees."
         }
     },
     "Day 2": {
-        "title": "Jan Hus Day",
+        "title": "World Chocolate Day",
         "image": "img2.png",
         "facts": {
-            "1": "Jan Hus was a Czech theologian and philosopher who became a church reformer and an inspiration to Protestantism.",
-            "2": "Jan Hus Day is a public holiday in the Czech Republic, commemorating his martyrdom on July 6, 1415.",
-            "3": "Hus is considered a national hero in the Czech Republic, and his death is seen as a symbol of strength against oppressive regimes."
+            "1": "World Chocolate Day is sometimes said to commemorate the introduction of chocolate to Europe in 1550.",
+            "2": "On this day, chocolate lovers around the world indulge in their favorite chocolate treats.",
+            "3": "The day is also used to promote fair trade chocolate and to highlight the labor of cocoa farmers."
         }
     },
     "Day 3": {
-        "title": "National Fried Chicken Day",
+        "title": "Ivan Kupala Day",
         "image": "img3.png",
         "facts": {
-            "1": "National Fried Chicken Day celebrates the American culinary tradition of fried chicken.",
-            "2": "The origins of fried chicken in the USA can be traced back to Scottish immigrants and African slaves.",
-            "3": "Fried chicken has become a staple in American fast-food and is recognized for its crunchy texture and flavorful spices."
+            "1": "Ivan Kupala Day is a traditional Slavic holiday that originally celebrated the summer solstice.",
+            "2": "The festivities include jumping over bonfires, singing, and dancing as a means of purification.",
+            "3": "It is often associated with the search for the fern flower, which is said to bring luck to anyone who finds it."
         }
     }
 }
