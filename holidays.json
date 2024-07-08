@@ -1,30 +1,30 @@
 {
-    "date": "07.07",
+    "date": "08.07",
     "Day 1": {
-        "title": "Tanabata",
+        "title": "Family Day",
         "image": "img1.png",
         "facts": {
-            "1": "Tanabata, also known as the Star Festival, originates from the Chinese Qixi Festival.",
-            "2": "It celebrates the meeting of the deities Orihime and Hikoboshi (represented by the stars Vega and Altair).",
-            "3": "People in Japan celebrate by writing wishes on tanzaku papers and hanging them on bamboo trees."
+            "1": "Family Day has been introduced to encourage families to spend time with one another and reinforce familial bonds.",
+            "2": "Activities on Family Day often include picnics, family reunions, and community events aimed at fostering relationships within families.",
+            "3": "Though not a federal holiday, various states observe Family Day on different dates, and it emphasizes the importance of family in society."
         }
     },
     "Day 2": {
-        "title": "World Chocolate Day",
+        "title": "National Chocolate with Almonds Day",
         "image": "img2.png",
         "facts": {
-            "1": "World Chocolate Day is sometimes said to commemorate the introduction of chocolate to Europe in 1550.",
-            "2": "On this day, chocolate lovers around the world indulge in their favorite chocolate treats.",
-            "3": "The day is also used to promote fair trade chocolate and to highlight the labor of cocoa farmers."
+            "1": "National Chocolate with Almonds Day is a celebration of the combination of chocolate and almonds, a pairing enjoyed in various forms, including chocolate bars, baked goods, and candies.",
+            "2": "Almonds are not only a delicious complement to chocolate but also offer health benefits such as fiber, protein, and good fats.",
+            "3": "The holiday promotes the enjoyment of this sweet treat while also recognizing the contributions of almond farmers and chocolate producers."
         }
     },
     "Day 3": {
-        "title": "Ivan Kupala Day",
+        "title": "Air Force and Air Defense Forces Day",
         "image": "img3.png",
         "facts": {
-            "1": "Ivan Kupala Day is a traditional Slavic holiday that originally celebrated the summer solstice.",
-            "2": "The festivities include jumping over bonfires, singing, and dancing as a means of purification.",
-            "3": "It is often associated with the search for the fern flower, which is said to bring luck to anyone who finds it."
+            "1": "Air Force and Air Defense Forces Day is observed in Ukraine to honor the service of its Air Force personnel and to commemorate their contributions to national security.",
+            "2": "On this day, airshows and military parades are often organized to showcase the strength and capabilities of Ukraine's air defense.",
+            "3": "The holiday also serves as a reminder of the historical achievements of Ukraine's Air Force and its continued importance to the country\u2019s defense strategy."
         }
     }
 }
