@@ -1,30 +1,30 @@
 {
-    "date": "10.07",
+    "date": "11.07",
     "Day 1": {
-        "title": "Silence Day",
+        "title": "World Population Day",
         "image": "img1.png",
         "facts": {
-            "1": "Silence Day is observed by followers of Meher Baba, an Indian spiritual master who declared he was an Avatar.",
-            "2": "On Silence Day, followers practice silence for 24 hours. Meher Baba himself remained silent for 44 years, communicating through an alphabet board or by hand gestures.",
-            "3": "Silence Day commemorates the start of Meher Baba's silence on July 10, 1925, and has been observed annually since then."
+            "1": "World Population Day is observed to bring awareness to global population issues.",
+            "2": "It was established by the United Nations Development Programme in 1989.",
+            "3": "The event was inspired by the public interest in Five Billion Day on July 11, 1987, the approximate date on which the world's population reached five billion people."
         }
     },
     "Day 2": {
-        "title": "Argentina's Independence Day",
+        "title": "National 7-Eleven Day (USA)",
         "image": "img2.png",
         "facts": {
-            "1": "Argentina's Independence Day commemorates the country's declaration of independence from Spain on July 9, 1816. Celebrations often spill over to July 10.",
-            "2": "The Congress of Tucum\u00e1n was where the declaration was signed, and it is a national holiday marked by patriotic events, ceremonies, and public gatherings.",
-            "3": "Traditional foods are enjoyed, such as empanadas and locro, and the Argentine flag is prominently displayed throughout the country."
+            "1": "National 7-Eleven Day is celebrated on July 11th (7/11) in the United States to match the convenience store chain's name.",
+            "2": "7-Eleven often offers a free Slurpee to each customer to mark the occasion.",
+            "3": "The company has been celebrating this day since 2002."
         }
     },
     "Day 3": {
-        "title": "The Running of the Bulls",
+        "title": "Nadaam Festival (Mongolia)",
         "image": "img3.png",
         "facts": {
-            "1": "The Running of the Bulls is part of the San Ferm\u00edn festival held in Pamplona, Spain, from July 6 to July 14, attracting thousands of locals and tourists annually.",
-            "2": "Although the festival starts on July 6, the Running of the Bulls begins on July 7 and continues each morning throughout the festival. July 10 is typically the fourth day of the event.",
-            "3": "Participants run in front of a group of bulls let loose on the streets, which is both a controversial and thrilling event widely recognized around the world."
+            "1": "Nadaam is the most widely watched festival in Mongolia, centered on three traditional sports: wrestling, horse racing, and archery.",
+            "2": "Nadaam literally means 'game' or 'competition' in Mongolian.",
+            "3": "The festival has its roots in the military parades of the Genghis Khan era."
         }
     }
 }
