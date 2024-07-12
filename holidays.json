@@ -1,30 +1,33 @@
 {
-    "date": "11.07",
+    "date": "12.07",
     "Day 1": {
-        "title": "World Population Day",
+        "title": "Malala Day",
         "image": "img1.png",
+        "<!------>": "<!------>",
         "facts": {
-            "1": "World Population Day is observed to bring awareness to global population issues.",
-            "2": "It was established by the United Nations Development Programme in 1989.",
-            "3": "The event was inspired by the public interest in Five Billion Day on July 11, 1987, the approximate date on which the world's population reached five billion people."
+            "1": "Recognized by the United Nations, Malala Day honors Nobel Prize laureate Malala Yousafzai and supports global education for children.",
+            "2": "The day marks the birthday of Malala Yousafzai, who was born on July 12, 1997.",
+            "3": "It serves to highlight the advocacy for girls' rights to education, following Malala's own experiences in Pakistan."
         }
     },
     "Day 2": {
-        "title": "National 7-Eleven Day (USA)",
+        "title": "Orangemen's Day (Battle of the Boyne)",
         "image": "img2.png",
+        "<!------>": "<!------>",
         "facts": {
-            "1": "National 7-Eleven Day is celebrated on July 11th (7/11) in the United States to match the convenience store chain's name.",
-            "2": "7-Eleven often offers a free Slurpee to each customer to mark the occasion.",
-            "3": "The company has been celebrating this day since 2002."
+            "1": "Orangemen's Day commemorates the Battle of the Boyne, which took place on July 1, 1690, and is celebrated due to the adoption of the Gregorian calendar.",
+            "2": "It is predominantly celebrated in Northern Ireland and several places around the Commonwealth.",
+            "3": "The day is marked with parades, marches, and the wearing of orange in honor of William of Orange, who defeated King James II at the Boyne."
         }
     },
     "Day 3": {
-        "title": "Nadaam Festival (Mongolia)",
+        "title": "S\u00e3o Tom\u00e9 Day",
         "image": "img3.png",
+        "<!------>": "<!------>",
         "facts": {
-            "1": "Nadaam is the most widely watched festival in Mongolia, centered on three traditional sports: wrestling, horse racing, and archery.",
-            "2": "Nadaam literally means 'game' or 'competition' in Mongolian.",
-            "3": "The festival has its roots in the military parades of the Genghis Khan era."
+            "1": "S\u00e3o Tom\u00e9 Day celebrates the independence of S\u00e3o Tom\u00e9 and Pr\u00edncipe from Portuguese colonisation on July 12, 1975.",
+            "2": "It is a national holiday in S\u00e3o Tom\u00e9 and Pr\u00edncipe that is celebrated with public parades, cultural events, and ceremonies.",
+            "3": "The day represents liberation and national pride for the citizens of S\u00e3o Tom\u00e9 and Pr\u00edncipe."
         }
     }
 }
