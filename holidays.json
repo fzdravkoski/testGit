@@ -1,33 +1,30 @@
 {
-    "date": "12.07",
+    "date": "13.07",
     "Day 1": {
-        "title": "Malala Day",
+        "title": "Montenegro Statehood Day",
         "image": "img1.png",
-        "<!------>": "<!------>",
         "facts": {
-            "1": "Recognized by the United Nations, Malala Day honors Nobel Prize laureate Malala Yousafzai and supports global education for children.",
-            "2": "The day marks the birthday of Malala Yousafzai, who was born on July 12, 1997.",
-            "3": "It serves to highlight the advocacy for girls' rights to education, following Malala's own experiences in Pakistan."
+            "1": "Statehood Day commemorates the day in 1878 when the Berlin Congress recognized Montenegro as the twenty-seventh independent state in the world.",
+            "2": "This holiday also coincides with the day in 1941 when Montenegrins staged an uprising against the fascist occupiers.",
+            "3": "The Statehood Day celebration is a two-day event starting on July 13th and is often marked with official ceremonies and cultural events."
         }
     },
     "Day 2": {
-        "title": "Orangemen's Day (Battle of the Boyne)",
+        "title": "Embrace Your Geekness Day",
         "image": "img2.png",
-        "<!------>": "<!------>",
         "facts": {
-            "1": "Orangemen's Day commemorates the Battle of the Boyne, which took place on July 1, 1690, and is celebrated due to the adoption of the Gregorian calendar.",
-            "2": "It is predominantly celebrated in Northern Ireland and several places around the Commonwealth.",
-            "3": "The day is marked with parades, marches, and the wearing of orange in honor of William of Orange, who defeated King James II at the Boyne."
+            "1": "Embrace Your Geekness Day is an informal holiday that encourages people to be proud of their geeky interests and hobbies.",
+            "2": "Common activities on this day include playing video games, reading comic books, and engaging in various technological endeavors.",
+            "3": "The holiday highlights the impact of geek culture on modern society and promotes the acceptance of diverse passions."
         }
     },
     "Day 3": {
-        "title": "S\u00e3o Tom\u00e9 Day",
+        "title": "National French Fry Day (USA)",
         "image": "img3.png",
-        "<!------>": "<!------>",
         "facts": {
-            "1": "S\u00e3o Tom\u00e9 Day celebrates the independence of S\u00e3o Tom\u00e9 and Pr\u00edncipe from Portuguese colonisation on July 12, 1975.",
-            "2": "It is a national holiday in S\u00e3o Tom\u00e9 and Pr\u00edncipe that is celebrated with public parades, cultural events, and ceremonies.",
-            "3": "The day represents liberation and national pride for the citizens of S\u00e3o Tom\u00e9 and Pr\u00edncipe."
+            "1": "National French Fry Day celebrates one of America's favorite fast-food items: the French fry.",
+            "2": "Various restaurants across the United States participate by offering free or discounted French fries.",
+            "3": "French fries come in many shapes and sizes, including curly fries, waffle fries, and the classic shoestring fries."
         }
     }
 }
