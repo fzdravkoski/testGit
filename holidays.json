@@ -1,30 +1,30 @@
 {
-    "date": "13.07",
+    "date": "15.07",
     "Day 1": {
-        "title": "Montenegro Statehood Day",
+        "title": "St. Swithun's Day (United Kingdom)",
         "image": "img1.png",
         "facts": {
-            "1": "Statehood Day commemorates the day in 1878 when the Berlin Congress recognized Montenegro as the twenty-seventh independent state in the world.",
-            "2": "This holiday also coincides with the day in 1941 when Montenegrins staged an uprising against the fascist occupiers.",
-            "3": "The Statehood Day celebration is a two-day event starting on July 13th and is often marked with official ceremonies and cultural events."
+            "1": "St. Swithun's Day is a day on which people watch the weather for tradition says that whatever the weather is like on St. Swithun's Day, it will continue so for the next forty days.",
+            "2": "St. Swithun was an Anglo-Saxon bishop of Winchester who died in 862 AD.",
+            "3": "Legend states that St. Swithun requested to be buried outside where his grave could be rained on and passed over by the steps of common men."
         }
     },
     "Day 2": {
-        "title": "Embrace Your Geekness Day",
+        "title": "Sea Sunday (International)",
         "image": "img2.png",
         "facts": {
-            "1": "Embrace Your Geekness Day is an informal holiday that encourages people to be proud of their geeky interests and hobbies.",
-            "2": "Common activities on this day include playing video games, reading comic books, and engaging in various technological endeavors.",
-            "3": "The holiday highlights the impact of geek culture on modern society and promotes the acceptance of diverse passions."
+            "1": "Sea Sunday is celebrated by Christian churches to remember and pray for seafarers and their families and to give thanks for their lives and work.",
+            "2": "It is recognized by the International Maritime Organization and supported by many different denominations including Anglican, Roman Catholic, Baptist, and Methodist.",
+            "3": "The Mission to Seafarers, Sailors' Society, and other maritime welfare organizations support seafarers by providing services like practical assistance, welfare support, and a friend that seafarers can talk to."
         }
     },
     "Day 3": {
-        "title": "National French Fry Day (USA)",
+        "title": "Bon Festival (Japan)",
         "image": "img3.png",
         "facts": {
-            "1": "National French Fry Day celebrates one of America's favorite fast-food items: the French fry.",
-            "2": "Various restaurants across the United States participate by offering free or discounted French fries.",
-            "3": "French fries come in many shapes and sizes, including curly fries, waffle fries, and the classic shoestring fries."
+            "1": "The Bon Festival, also known as Obon, is a Japanese Buddhist custom to honor the spirits of one's ancestors.",
+            "2": "Bon Festival typically lasts for three days and many Japanese people return to their hometowns to visit the graves of their departed relatives.",
+            "3": "Traditional activities during Bon include Bon Odori, a dance performed during the festival, and the floating of lanterns on water to guide the spirits back to the world of the dead."
         }
     }
 }
