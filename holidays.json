@@ -1,30 +1,30 @@
 {
-    "date": "18.07",
+    "date": "19.07",
     "Day 1": {
-        "title": "Nelson Mandela International Day",
+        "title": "Martyrs' Day",
         "image": "img1.png",
         "facts": {
-            "1": "Nelson Mandela International Day was officially declared by the United Nations in November 2009, with the first UN Mandela Day held on July 18, 2010.",
-            "2": "The day is a global call to action to make an imprint and change the world, urging people to dedicate 67 minutes to helping others.",
-            "3": "Mandela's message was to spread justice and freedom for all, reflected in this day."
+            "1": "Martyrs' Day in Myanmar commemorates the assassination of Aung San and six cabinet members in 1947.",
+            "2": "It is a day to remember the struggle for independence from British colonial rule.",
+            "3": "The main event takes place at the Martyrs' Mausoleum in Yangon, Myanmar."
         }
     },
     "Day 2": {
-        "title": "World Listening Day",
+        "title": "Sandinista Revolution Day",
         "image": "img2.png",
         "facts": {
-            "1": "World Listening Day honors R. Murray Schafer's birthday and his introduction of the 'soundscape' concept.",
-            "2": "The World Listening Project promotes the practice of attentive listening and understanding acoustic ecology.",
-            "3": "Each year, the event has a theme that encourages reflection on aspects of the listening experience."
+            "1": "This day marks the victory of the Sandinista movement in Nicaragua over the Somoza dictatorship in 1979.",
+            "2": "It is celebrated with public parades, music, and cultural events throughout Nicaragua.",
+            "3": "The day is also a reminder of the end of an era of dictatorship and the start of a new chapter in Nicaraguan history."
         }
     },
     "Day 3": {
-        "title": "International D\u00eda del Amigo (Friendship House)",
+        "title": "Flitch Day",
         "image": "img3.png",
         "facts": {
-            "1": "International D\u00eda del Amigo is inspired by the Apollo 11 moon landing and is celebrated on July 18.",
-            "2": "The day is popular on social networks, where messages of friendship are exchanged.",
-            "3": "Celebrated with social gatherings, the day emphasizes companionship's role in life."
+            "1": "The Flitch Trials are an ancient English ceremony where married couples convince a jury of their undying love for a side of bacon.",
+            "2": "This tradition is believed to have started in the 12th century, and it is held every four years in Great Dunmow, Essex.",
+            "3": "Successfully \\'winning\\' couples are paraded through town and awarded a flitch of bacon."
         }
     }
 }
