@@ -1,30 +1,30 @@
 {
-    "date": "19.07",
+    "date": "21.07",
     "Day 1": {
-        "title": "Martyrs' Day",
+        "title": "National Belgian Day",
         "image": "img1.png",
         "facts": {
-            "1": "Martyrs' Day in Myanmar commemorates the assassination of Aung San and six cabinet members in 1947.",
-            "2": "It is a day to remember the struggle for independence from British colonial rule.",
-            "3": "The main event takes place at the Martyrs' Mausoleum in Yangon, Myanmar."
+            "1": "Celebrates the day Leopold I took the constitutional oath as the first King of the Belgians in 1831.",
+            "2": "The day is marked by a military parade, fireworks, and festivities throughout the country.",
+            "3": "The Royal Palace of Brussels is traditionally open to the public following the National Day."
         }
     },
     "Day 2": {
-        "title": "Sandinista Revolution Day",
+        "title": "Racial Harmony Day (Singapore)",
         "image": "img2.png",
         "facts": {
-            "1": "This day marks the victory of the Sandinista movement in Nicaragua over the Somoza dictatorship in 1979.",
-            "2": "It is celebrated with public parades, music, and cultural events throughout Nicaragua.",
-            "3": "The day is also a reminder of the end of an era of dictatorship and the start of a new chapter in Nicaraguan history."
+            "1": "Commemorates the 1964 Race Riots, which took place on July 21 and serves as a reminder of the importance of maintaining racial and religious harmony.",
+            "2": "Schools in Singapore commemorate this day by hosting cultural performances and students are encouraged to dress in ethnic costumes.",
+            "3": "The day emphasizes the theme of 'unity in diversity' and the importance of maintaining social cohesion in Singapore."
         }
     },
     "Day 3": {
-        "title": "Flitch Day",
+        "title": "Liberation Day (Guam)",
         "image": "img3.png",
         "facts": {
-            "1": "The Flitch Trials are an ancient English ceremony where married couples convince a jury of their undying love for a side of bacon.",
-            "2": "This tradition is believed to have started in the 12th century, and it is held every four years in Great Dunmow, Essex.",
-            "3": "Successfully \\'winning\\' couples are paraded through town and awarded a flitch of bacon."
+            "1": "Marks the day when the United States military recaptured Guam from Japanese occupation during World War II in 1944.",
+            "2": "The event is remembered by a series of festivities, parades, and memorial services to honor those who suffered or died in the.ViewGroupAxis",
+            "3": "The Governor of Guam awards the annual 'Maga'Lahi Award' (Governor\u2019s Award) to recognize an individual's or group's contribution to the community."
         }
     }
 }
