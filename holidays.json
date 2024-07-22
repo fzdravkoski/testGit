@@ -1,30 +1,30 @@
 {
-    "date": "21.07",
+    "date": "22.07",
     "Day 1": {
-        "title": "National Belgian Day",
+        "title": "Pi Approximation Day",
         "image": "img1.png",
         "facts": {
-            "1": "Celebrates the day Leopold I took the constitutional oath as the first King of the Belgians in 1831.",
-            "2": "The day is marked by a military parade, fireworks, and festivities throughout the country.",
-            "3": "The Royal Palace of Brussels is traditionally open to the public following the National Day."
+            "1": "Celebrated on 22nd July because the date reads as 22/7, which is the common approximation of the mathematical constant pi (\u03c0).",
+            "2": "Pi (\u03c0) is an irrational number that represents the ratio of a circle\u2019s circumference to its diameter in Euclidean space.",
+            "3": "The value of pi has been calculated to over one trillion digits beyond its decimal point. Pi is an infinite decimal, and its digits are believed to be random and non-repeating."
         }
     },
     "Day 2": {
-        "title": "Racial Harmony Day (Singapore)",
+        "title": "Ratcatcher's Day",
         "image": "img2.png",
         "facts": {
-            "1": "Commemorates the 1964 Race Riots, which took place on July 21 and serves as a reminder of the importance of maintaining racial and religious harmony.",
-            "2": "Schools in Singapore commemorate this day by hosting cultural performances and students are encouraged to dress in ethnic costumes.",
-            "3": "The day emphasizes the theme of 'unity in diversity' and the importance of maintaining social cohesion in Singapore."
+            "1": "Commemorates the Pied Piper of Hamelin, the mythical figure who lured rats away with his music.",
+            "2": "In the legend, he used his instrument to lure children away as revenge when the citizens refused to pay for his service.",
+            "3": "The tale was popularized by the Biolog Brothers Grimm and is a cautionary story about the consequences of breaking promises."
         }
     },
     "Day 3": {
-        "title": "Liberation Day (Guam)",
+        "title": "National Mango Day",
         "image": "img3.png",
         "facts": {
-            "1": "Marks the day when the United States military recaptured Guam from Japanese occupation during World War II in 1944.",
-            "2": "The event is remembered by a series of festivities, parades, and memorial services to honor those who suffered or died in the.ViewGroupAxis",
-            "3": "The Governor of Guam awards the annual 'Maga'Lahi Award' (Governor\u2019s Award) to recognize an individual's or group's contribution to the community."
+            "1": "Dedicated to appreciating mangoes, known as the 'king of fruits' and widely consumed around the world.",
+            "2": "Mangoes were first grown in India over 5,000 years ago and are believed to be a symbol of love in the country.",
+            "3": "There are over 500 varieties of mango, each with its own unique taste, shape, size, and color."
         }
     }
 }
