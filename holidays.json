@@ -1,30 +1,30 @@
 {
-    "date": "22.07",
+    "date": "23.07",
     "Day 1": {
-        "title": "Pi Approximation Day",
+        "title": "Revolution Day (Egypt)",
         "image": "img1.png",
         "facts": {
-            "1": "Celebrated on 22nd July because the date reads as 22/7, which is the common approximation of the mathematical constant pi (\u03c0).",
-            "2": "Pi (\u03c0) is an irrational number that represents the ratio of a circle\u2019s circumference to its diameter in Euclidean space.",
-            "3": "The value of pi has been calculated to over one trillion digits beyond its decimal point. Pi is an infinite decimal, and its digits are believed to be random and non-repeating."
+            "1": "Marks the anniversary of the Egyptian Revolution of 1952 when the monarchy was overthrown.",
+            "2": "It is a national holiday in Egypt celebrated with military parades.",
+            "3": "The day is remembered as the beginning of modern Egyptian state and social justice."
         }
     },
     "Day 2": {
-        "title": "Ratcatcher's Day",
+        "title": "National Vanilla Ice Cream Day (United States)",
         "image": "img2.png",
         "facts": {
-            "1": "Commemorates the Pied Piper of Hamelin, the mythical figure who lured rats away with his music.",
-            "2": "In the legend, he used his instrument to lure children away as revenge when the citizens refused to pay for his service.",
-            "3": "The tale was popularized by the Biolog Brothers Grimm and is a cautionary story about the consequences of breaking promises."
+            "1": "Celebrates the popular vanilla ice cream flavor each year on July 23.",
+            "2": "Vanilla is derived from the orchids of Central Mexico.",
+            "3": "Thomas Jefferson introduced vanilla ice cream to the US after experiencing it in France."
         }
     },
     "Day 3": {
-        "title": "National Mango Day",
+        "title": "World Sj\u00f6gren's Day",
         "image": "img3.png",
         "facts": {
-            "1": "Dedicated to appreciating mangoes, known as the 'king of fruits' and widely consumed around the world.",
-            "2": "Mangoes were first grown in India over 5,000 years ago and are believed to be a symbol of love in the country.",
-            "3": "There are over 500 varieties of mango, each with its own unique taste, shape, size, and color."
+            "1": "Held on the birthday of Dr. Henrik Sj\u00f6gren, who first identified the syndrome.",
+            "2": "Sj\u00f6gren's syndrome is a systemic autoimmune disease that affects the body.",
+            "3": "The day promotes awareness and understanding of the condition."
         }
     }
 }
