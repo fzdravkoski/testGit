@@ -1,30 +1,30 @@
 {
-    "date": "23.07",
+    "date": "24.07",
     "Day 1": {
-        "title": "Revolution Day (Egypt)",
+        "title": "Pioneer Day (Observed in Utah, USA)",
         "image": "img1.png",
         "facts": {
-            "1": "Marks the anniversary of the Egyptian Revolution of 1952 when the monarchy was overthrown.",
-            "2": "It is a national holiday in Egypt celebrated with military parades.",
-            "3": "The day is remembered as the beginning of modern Egyptian state and social justice."
+            "1": "Pioneer Day commemorates the arrival of the first group of Latter-day Saint pioneers to the Salt Lake Valley in 1847.",
+            "2": "It is celebrated with parades, fireworks, rodeos, and other festivities throughout Utah and in regions with large Latter-day Saint populations.",
+            "3": "In recognition of the diverse cultures in Utah, other events such as the Native American Celebration in the Park and the Days of '47 Fiesta are also held."
         }
     },
     "Day 2": {
-        "title": "National Vanilla Ice Cream Day (United States)",
+        "title": "Sim\u00f3n Bol\u00edvar Day (Observed in multiple South American countries)",
         "image": "img2.png",
         "facts": {
-            "1": "Celebrates the popular vanilla ice cream flavor each year on July 23.",
-            "2": "Vanilla is derived from the orchids of Central Mexico.",
-            "3": "Thomas Jefferson introduced vanilla ice cream to the US after experiencing it in France."
+            "1": "This day is a national holiday in several countries including Venezuela, Bolivia, Colombia, and Ecuador, celebrated to honor Sim\u00f3n Bol\u00edvar's birth on July 24, 1783.",
+            "2": "Bol\u00edvar is known as 'El Libertador' for his key role in Latin America's successful struggle for independence from the Spanish Empire.",
+            "3": "The day is typically marked with military parades, civic ceremonies, and cultural events paying tribute to Bol\u00edvar\u2019s legacy."
         }
     },
     "Day 3": {
-        "title": "World Sj\u00f6gren's Day",
+        "title": "National Tequila Day (USA)",
         "image": "img3.png",
         "facts": {
-            "1": "Held on the birthday of Dr. Henrik Sj\u00f6gren, who first identified the syndrome.",
-            "2": "Sj\u00f6gren's syndrome is a systemic autoimmune disease that affects the body.",
-            "3": "The day promotes awareness and understanding of the condition."
+            "1": "National Tequila Day is an unofficial holiday in the United States dedicated to celebrating the popular Mexican distilled beverage.",
+            "2": "Tequila is made from the blue agave plant primarily in the area surrounding the city of Tequila, Mexico.",
+            "3": "The day is celebrated by indulging in tequila-based cocktails like margaritas and by educating consumers on the history and cultural significance of tequila."
         }
     }
 }
