@@ -1,30 +1,30 @@
 {
-    "date": "24.07",
+    "date": "26.07",
     "Day 1": {
-        "title": "Pioneer Day (Observed in Utah, USA)",
+        "title": "Liberation Day",
         "image": "img1.png",
         "facts": {
-            "1": "Pioneer Day commemorates the arrival of the first group of Latter-day Saint pioneers to the Salt Lake Valley in 1847.",
-            "2": "It is celebrated with parades, fireworks, rodeos, and other festivities throughout Utah and in regions with large Latter-day Saint populations.",
-            "3": "In recognition of the diverse cultures in Utah, other events such as the Native American Celebration in the Park and the Days of '47 Fiesta are also held."
+            "1": "This day marks the end of a significant military conflict in the country's history.",
+            "2": "A large parade is typically held in the capital city to commemorate the occasion.",
+            "3": "Schools and government offices are closed, and many people attend concerts and fireworks displays."
         }
     },
     "Day 2": {
-        "title": "Sim\u00f3n Bol\u00edvar Day (Observed in multiple South American countries)",
+        "title": "National Mangrove Day",
         "image": "img2.png",
         "facts": {
-            "1": "This day is a national holiday in several countries including Venezuela, Bolivia, Colombia, and Ecuador, celebrated to honor Sim\u00f3n Bol\u00edvar's birth on July 24, 1783.",
-            "2": "Bol\u00edvar is known as 'El Libertador' for his key role in Latin America's successful struggle for independence from the Spanish Empire.",
-            "3": "The day is typically marked with military parades, civic ceremonies, and cultural events paying tribute to Bol\u00edvar\u2019s legacy."
+            "1": "The holiday is dedicated to raising awareness about the importance of mangrove ecosystems.",
+            "2": "Environmental groups often organize cleanup activities along coastlines.",
+            "3": "Educational workshops and seminars are conducted to educate the public about conservation efforts."
         }
     },
     "Day 3": {
-        "title": "National Tequila Day (USA)",
+        "title": "International Bagpipe Day",
         "image": "img3.png",
         "facts": {
-            "1": "National Tequila Day is an unofficial holiday in the United States dedicated to celebrating the popular Mexican distilled beverage.",
-            "2": "Tequila is made from the blue agave plant primarily in the area surrounding the city of Tequila, Mexico.",
-            "3": "The day is celebrated by indulging in tequila-based cocktails like margaritas and by educating consumers on the history and cultural significance of tequila."
+            "1": "Bagpipe musicians around the world perform concerts and recitals to promote this musical instrument.",
+            "2": "The celebration aims to recognize the cultural significance of bagpipes in various societies.",
+            "3": "Some cities hold competitions for the best bagpipe performance, with participants from different countries."
         }
     }
 }
