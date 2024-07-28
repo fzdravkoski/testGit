@@ -1,30 +1,30 @@
 {
-    "date": "26.07",
+    "date": "28.07",
     "Day 1": {
-        "title": "Liberation Day",
+        "title": "World Hepatitis Day",
         "image": "img1.png",
         "facts": {
-            "1": "This day marks the end of a significant military conflict in the country's history.",
-            "2": "A large parade is typically held in the capital city to commemorate the occasion.",
-            "3": "Schools and government offices are closed, and many people attend concerts and fireworks displays."
+            "1": "World Hepatitis Day is endorsed by the World Health Organization (WHO) to enhance awareness of viral hepatitis.",
+            "2": "This day was chosen to correspond with the birthday of Dr. Baruch Blumberg, who discovered the hepatitis B virus.",
+            "3": "Around 325 million people worldwide live with hepatitis B or C, which cause approximately 1.3 million deaths per year."
         }
     },
     "Day 2": {
-        "title": "National Mangrove Day",
+        "title": "Peruvian Independence Day",
         "image": "img2.png",
         "facts": {
-            "1": "The holiday is dedicated to raising awareness about the importance of mangrove ecosystems.",
-            "2": "Environmental groups often organize cleanup activities along coastlines.",
-            "3": "Educational workshops and seminars are conducted to educate the public about conservation efforts."
+            "1": "Peruvian Independence Day marks the anniversary of Peru's independence from Spanish rule, proclaimed in 1821.",
+            "2": "The celebrations include parades, fireworks, and the traditional food festival 'Gran Corso de Wong'.",
+            "3": "The Peruvian national flag is prominently displayed, and the President addresses the nation followed by a military parade."
         }
     },
     "Day 3": {
-        "title": "International Bagpipe Day",
+        "title": "World Nature Conservation Day",
         "image": "img3.png",
         "facts": {
-            "1": "Bagpipe musicians around the world perform concerts and recitals to promote this musical instrument.",
-            "2": "The celebration aims to recognize the cultural significance of bagpipes in various societies.",
-            "3": "Some cities hold competitions for the best bagpipe performance, with participants from different countries."
+            "1": "World Nature Conservation Day reaffirms the need to protect and conserve Earth's natural resources.",
+            "2": "Activities include tree planting, clean-ups, conservation projects, and reducing personal footprints.",
+            "3": "This day emphasizes that a healthy environment is crucial for a stable and healthy society."
         }
     }
 }
