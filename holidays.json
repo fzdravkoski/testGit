@@ -1,30 +1,30 @@
 {
-    "date": "29.07",
+    "date": "30.07",
     "Day 1": {
-        "title": "National Lasagna Day",
+        "title": "International Day of Friendship",
         "image": "img1.png",
         "facts": {
-            "1": "National Lasagna Day is celebrated annually on July 29th to enjoy the popular Italian dish consisting of layered pasta, cheese, sauce, and typically ground meat or vegetables.",
-            "2": "Lasagna's origins date back to the Middle Ages in Italy, and it is one of the oldest types of pasta still made today.",
-            "3": "An interesting variation of lasagna is \rLasagna Gardiniera,' which includes ricotta and mozzarella cheese, and is layered with thinly-sliced vegetables."
+            "1": "Proclaimed by the UN General Assembly with the idea that friendship can inspire peace efforts and build bridges between communities.",
+            "2": "First proposed in Paraguay in 1958 as 'International Friendship Day.'",
+            "3": "Emphasizes the involvement of young people in promoting international understanding and respect for diversity."
         }
     },
     "Day 2": {
-        "title": "National Lipstick Day",
+        "title": "Feast of the Throne (Morocco)",
         "image": "img2.png",
         "facts": {
-            "1": "National Lipstick Day occurs on the 29th of July to celebrate one of the most ubiquitous beauty products found in makeup bags worldwide.",
-            "2": "The first swivel-up tube was patented in 1923, revolutionizing the lipstick application process and making it a portable item.",
-            "3": "Ancient Sumerians are considered the first to invent and wear lipstick, about 5,000 years ago."
+            "1": "Commemorates King Mohammed VI's ascension to the throne on July 30th, 1999.",
+            "2": "Marked by a royal speech, parades, and cultural events throughout Morocco.",
+            "3": "An occasion for the king to grant pardons and show generosity to the Moroccan citizens."
         }
     },
     "Day 3": {
-        "title": "Olaf's Day",
+        "title": "Father's Day (Dominican Republic)",
         "image": "img3.png",
         "facts": {
-            "1": "Olaf's Day, or '\rOlavs\u00f8ka,' is marked on July 29th in the Faroe Islands as a national holiday commemorating the death of Saint Olaf.",
-            "2": "The day is part of a two-day celebration that begins on the evening of July 28th, which is an important cultural and sports event for the Faroese people.",
-            "3": "This holiday signals the start of the Faroese parliamentary season and is also marked by church services, boat races, and traditional Faroese Chain Dance."
+            "1": "A day to honor and express gratitude to fathers in the Dominican Republic.",
+            "2": "Involves family gatherings and the giving of gifts to fathers and father figures.",
+            "3": "Celebrated enthusiastically with special offers and themed advertising by businesses."
         }
     }
 }
