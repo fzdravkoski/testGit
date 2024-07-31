@@ -1,30 +1,30 @@
 {
-    "date": "30.07",
+    "date": "31.07",
     "Day 1": {
-        "title": "International Day of Friendship",
+        "title": "Martyrdom Day of Shahid Udham Singh",
         "image": "img1.png",
         "facts": {
-            "1": "Proclaimed by the UN General Assembly with the idea that friendship can inspire peace efforts and build bridges between communities.",
-            "2": "First proposed in Paraguay in 1958 as 'International Friendship Day.'",
-            "3": "Emphasizes the involvement of young people in promoting international understanding and respect for diversity."
+            "1": "Udham Singh was an Indian revolutionary best known for assassinating Michael O'Dwyer in March 1940, as an avengement of the Jallianwala Bagh Massacre.",
+            "2": "He is regarded as a Shaheed or martyr by the Indian people, and Martyrdom Day is observed in his remembrance.",
+            "3": "His actions inspired further independence movements and he remains a significant figure in Indian history."
         }
     },
     "Day 2": {
-        "title": "Feast of the Throne (Morocco)",
+        "title": "Black Tot Day",
         "image": "img2.png",
         "facts": {
-            "1": "Commemorates King Mohammed VI's ascension to the throne on July 30th, 1999.",
-            "2": "Marked by a royal speech, parades, and cultural events throughout Morocco.",
-            "3": "An occasion for the king to grant pardons and show generosity to the Moroccan citizens."
+            "1": "Black Tot Day refers to the last day the British Royal Navy issued sailors with a daily rum ration, known as the 'tot'.",
+            "2": "The tradition ended on 31 July 1970, a day that is still commemorated by naval rum enthusiasts.",
+            "3": "It marks the end of a 300-year-old Royal Navy tradition and is sometimes observed by drinking a tot of rum."
         }
     },
     "Day 3": {
-        "title": "Father's Day (Dominican Republic)",
+        "title": "Ka Hae Hawai\u02bbi Day",
         "image": "img3.png",
         "facts": {
-            "1": "A day to honor and express gratitude to fathers in the Dominican Republic.",
-            "2": "Involves family gatherings and the giving of gifts to fathers and father figures.",
-            "3": "Celebrated enthusiastically with special offers and themed advertising by businesses."
+            "1": "Ka Hae Hawai\u02bbi Day, also known as Hawaiian Flag Day, commemorates the day Hawaii's flag was officially adopted in 1843.",
+            "2": "It was first officially celebrated in 1990 and pays tribute to the history of the Hawaiian Kingdom.",
+            "3": "The holiday is marked with cultural displays, parades, and educational events celebrating Hawaiian heritage and the flag's symbolism."
         }
     }
 }
