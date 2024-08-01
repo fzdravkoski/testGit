@@ -1,30 +1,30 @@
 {
-    "date": "31.07",
+    "date": "01.08",
     "Day 1": {
-        "title": "Martyrdom Day of Shahid Udham Singh",
+        "title": "Swiss National Day",
         "image": "img1.png",
         "facts": {
-            "1": "Udham Singh was an Indian revolutionary best known for assassinating Michael O'Dwyer in March 1940, as an avengement of the Jallianwala Bagh Massacre.",
-            "2": "He is regarded as a Shaheed or martyr by the Indian people, and Martyrdom Day is observed in his remembrance.",
-            "3": "His actions inspired further independence movements and he remains a significant figure in Indian history."
+            "1": "Swiss National Day marks the founding of the Swiss Confederation in 1291 when three cantons swore the oath of confederation.",
+            "2": "It is celebrated with fireworks, bonfires, and barbecues, honoring the Swiss Federal Charter.",
+            "3": "Since 1891 Swiss National Day has been considered a national holiday, and in 1994 it was officially declared August 1st by the Federal Council of Switzerland."
         }
     },
     "Day 2": {
-        "title": "Black Tot Day",
+        "title": "Emancipation Day in multiple Caribbean countries",
         "image": "img2.png",
         "facts": {
-            "1": "Black Tot Day refers to the last day the British Royal Navy issued sailors with a daily rum ration, known as the 'tot'.",
-            "2": "The tradition ended on 31 July 1970, a day that is still commemorated by naval rum enthusiasts.",
-            "3": "It marks the end of a 300-year-old Royal Navy tradition and is sometimes observed by drinking a tot of rum."
+            "1": "This day commemorates the emancipation of enslaved people of African descent throughout the British Empire in 1834.",
+            "2": "The celebration includes cultural events such as parades, music, dancing, and dramatic readings.",
+            "3": "In some regions, the holiday kicks off the annual carnival season, blending the celebration of freedom with cultural festivities."
         }
     },
     "Day 3": {
-        "title": "Ka Hae Hawai\u02bbi Day",
+        "title": "Colorado Day (United States)",
         "image": "img3.png",
         "facts": {
-            "1": "Ka Hae Hawai\u02bbi Day, also known as Hawaiian Flag Day, commemorates the day Hawaii's flag was officially adopted in 1843.",
-            "2": "It was first officially celebrated in 1990 and pays tribute to the history of the Hawaiian Kingdom.",
-            "3": "The holiday is marked with cultural displays, parades, and educational events celebrating Hawaiian heritage and the flag's symbolism."
+            "1": "Colorado Day is the anniversary of Colorado's admission as the 38th state into the United States on August 1, 1876.",
+            "2": "It's a time for residents to celebrate the state\u2019s history and heritage with free admissions to parks and cultural institutions.",
+            "3": "The holiday is often marked by historical reenactments, concerts, and fireworks throughout the state."
         }
     }
 }
