@@ -1,30 +1,30 @@
 {
-    "date": "01.08",
+    "date": "02.08",
     "Day 1": {
-        "title": "Swiss National Day",
+        "title": "Earth Overshoot Day",
         "image": "img1.png",
         "facts": {
-            "1": "Swiss National Day marks the founding of the Swiss Confederation in 1291 when three cantons swore the oath of confederation.",
-            "2": "It is celebrated with fireworks, bonfires, and barbecues, honoring the Swiss Federal Charter.",
-            "3": "Since 1891 Swiss National Day has been considered a national holiday, and in 1994 it was officially declared August 1st by the Federal Council of Switzerland."
+            "1": "Marks the date when humanity's demand for ecological resources exceeds Earth's annual regeneration.",
+            "2": "Hosted and calculated by the Global Footprint Network.",
+            "3": "Concept was first conceived by Andrew Simms of the UK think tank New Economics Foundation."
         }
     },
     "Day 2": {
-        "title": "Emancipation Day in multiple Caribbean countries",
+        "title": "Macedonia Republic Day",
         "image": "img2.png",
         "facts": {
-            "1": "This day commemorates the emancipation of enslaved people of African descent throughout the British Empire in 1834.",
-            "2": "The celebration includes cultural events such as parades, music, dancing, and dramatic readings.",
-            "3": "In some regions, the holiday kicks off the annual carnival season, blending the celebration of freedom with cultural festivities."
+            "1": "Commemorates the founding of the Republic of Macedonia within the Yugoslav Federation in 1944.",
+            "2": "Also known as Ilinden, the day of the Ilinden Uprising against the Ottoman Empire in 1903.",
+            "3": "A public holiday in North Macedonia with official ceremonies and cultural events."
         }
     },
     "Day 3": {
-        "title": "Colorado Day (United States)",
+        "title": "National Ice Cream Sandwich Day",
         "image": "img3.png",
         "facts": {
-            "1": "Colorado Day is the anniversary of Colorado's admission as the 38th state into the United States on August 1, 1876.",
-            "2": "It's a time for residents to celebrate the state\u2019s history and heritage with free admissions to parks and cultural institutions.",
-            "3": "The holiday is often marked by historical reenactments, concerts, and fireworks throughout the state."
+            "1": "Celebrates the ice cream sandwich, a dessert of ice cream between cookies or pastry.",
+            "2": "Observed annually on August 2nd in the United States.",
+            "3": "Modern concept invented in 1945 by Jerry Newberg at Forbes Field in Pittsburgh."
         }
     }
 }
